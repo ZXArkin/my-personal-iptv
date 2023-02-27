@@ -1,5 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=https://api.vthanhtivi.pw/test/jp.php?id=163
+playname=https://neetball.net/live/test3.m3u8
+playtime=46164
 topindex=24
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
@@ -109,116 +110,113 @@ saveplaypos=0
 41*title*TÂY NINH TV-11 (1080p)
 42*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
 42*title*TBS (480p)
-43*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-43*title*Tokyo MX1 (480p)
-43*played*1
-44*file*https://api.vthanhtivi.pw/test/jp.php?id=17
-44*title*Tokyo MX1 (540p)
-45*file*https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-45*title*Tokyo MX1 (720p)
-46*file*https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-46*title*Tokyo MX2 (720p)
-47*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-47*title*TV Asahi (480p)
-47*played*1
-48*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-48*title*TV Tokyo (480p)
-49*file*https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-49*title*VOH1 - 610Khz
+43*file*https://api.vthanhtivi.pw/test/jp.php?id=17
+43*title*Tokyo MX1
+44*file*https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+44*title*Tokyo MX1 (720p)
+45*file*https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+45*title*Tokyo MX2 (720p)
+46*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+46*title*TV Asahi (480p)
+46*played*1
+47*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+47*title*TV Tokyo (480p)
+48*file*https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+48*title*VOH1 - 610Khz
+48*played*1
+48*author*📻| Radio
+48*thumbnail*https://i.ibb.co/RTqj6Y9/voh610.png
+49*file*https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+49*title*VOH2 - 87.7Mhz
 49*played*1
 49*author*📻| Radio
-49*thumbnail*https://i.ibb.co/RTqj6Y9/voh610.png
-50*file*https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-50*title*VOH2 - 87.7Mhz
+49*thumbnail*https://i.ibb.co/LYGM648/r-voh87.png
+50*file*https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+50*title*VOH3 - 95.6Mhz
 50*played*1
 50*author*📻| Radio
-50*thumbnail*https://i.ibb.co/LYGM648/r-voh87.png
-51*file*https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-51*title*VOH3 - 95.6Mhz
+50*thumbnail*https://image.ibb.co/i3ZuJU/r_voh95.png
+51*file*https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+51*title*VOH4 - 99.9Mhz
 51*played*1
 51*author*📻| Radio
-51*thumbnail*https://image.ibb.co/i3ZuJU/r_voh95.png
-52*file*https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-52*title*VOH4 - 99.9Mhz
+51*thumbnail*https://image.ibb.co/eTNs59/r_voh99.png
+52*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+52*title*VOV GT MEKONG
 52*played*1
 52*author*📻| Radio
-52*thumbnail*https://image.ibb.co/eTNs59/r_voh99.png
-53*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-53*title*VOV GT MEKONG
+52*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
+53*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+53*title*VOV Giao Thông Hà Nội
 53*played*1
 53*author*📻| Radio
-53*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
-54*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-54*title*VOV Giao Thông Hà Nội
+53*thumbnail*https://i.imgur.com/OIzhtBi.png
+54*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+54*title*VOV Giao Thông Thành Phố Hồ Chí Minh
 54*played*1
 54*author*📻| Radio
 54*thumbnail*https://i.imgur.com/OIzhtBi.png
-55*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-55*title*VOV Giao Thông Thành Phố Hồ Chí Minh
-55*played*1
-55*author*📻| Radio
-55*thumbnail*https://i.imgur.com/OIzhtBi.png
-56*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
-56*title*VOV TV (1080p) [Not 24/7]
-57*file*https://stream.vovmedia.vn/vov247
-57*title*VOV_247
+55*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
+55*title*VOV TV (1080p) [Not 24/7]
+56*file*https://stream.vovmedia.vn/vov247
+56*title*VOV_247
+56*played*1
+57*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+57*title*VOV1
 57*played*1
-58*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-58*title*VOV1
+57*author*📻| Radio
+57*thumbnail*https://i.imgur.com/mbPvLmS.png
+58*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+58*title*VOV2
 58*played*1
 58*author*📻| Radio
-58*thumbnail*https://i.imgur.com/mbPvLmS.png
-59*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-59*title*VOV2
+58*thumbnail*https://i.imgur.com/rS7TG49.png
+59*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+59*title*VOV3
 59*played*1
 59*author*📻| Radio
-59*thumbnail*https://i.imgur.com/rS7TG49.png
-60*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-60*title*VOV3
+59*thumbnail*https://i.imgur.com/1ZfyuG0.png
+60*file*https://str.vov.gov.vn/vovlive/vov4.TayBac.sdp_aac/playlist.m3u8
+60*title*VOV4 Tây Bắc
 60*played*1
-60*author*📻| Radio
-60*thumbnail*https://i.imgur.com/1ZfyuG0.png
-61*file*https://str.vov.gov.vn/vovlive/vov4.TayBac.sdp_aac/playlist.m3u8
-61*title*VOV4 Tây Bắc
+61*file*https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
+61*title*VOV5
 61*played*1
-62*file*https://str.vov.gov.vn/vovlive/vov5.sdp_aac/playlist.m3u8
-62*title*VOV5
-62*played*1
-63*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
-63*title*VTV Cần Thơ
+62*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
+62*title*VTV Cần Thơ
+62*author*VTV
+62*thumbnail*https://cdn.hqth.me/logo/thumbs/8.png
+63*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
+63*title*VTV1
 63*author*VTV
-63*thumbnail*https://cdn.hqth.me/logo/thumbs/8.png
-64*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
-64*title*VTV1
+63*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
+64*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
+64*title*VTV2
 64*author*VTV
-64*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
-65*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
-65*title*VTV2
+64*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
+65*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
+65*title*VTV3
 65*author*VTV
-65*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
-66*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
-66*title*VTV3
+65*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
+66*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv4/index.m3u8
+66*title*VTV4
 66*author*VTV
-66*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
-67*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv4/index.m3u8
-67*title*VTV4
+66*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
+67*file*https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+67*title*VTV5
 67*author*VTV
-67*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
-68*file*https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-68*title*VTV5
+67*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
+68*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
+68*title*VTV7
 68*author*VTV
-68*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
-69*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
-69*title*VTV7
+68*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
+69*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
+69*title*VTV8
 69*author*VTV
-69*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
-70*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
-70*title*VTV8
+69*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
+70*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
+70*title*VTV9
 70*author*VTV
-70*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
-71*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
-71*title*VTV9
-71*author*VTV
-71*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
-72*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-72*title*Weathernews (720p)
+70*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
+71*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+71*title*Weathernews (720p)
