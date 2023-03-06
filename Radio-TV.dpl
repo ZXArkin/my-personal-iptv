@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
-playtime=115141
-topindex=51
+playname=https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
+playtime=366898
+topindex=48
 saveplaypos=0
 1*file*https://cdnv148.cloudrsst.com/jptv/janimax_540/playlist.m3u8
 1*title*Animax
@@ -22,7 +22,6 @@ saveplaypos=0
 6*thumbnail*https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png
 7*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 7*title*BS 12
-7*invalid*1
 8*file*http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_540/playlist.m3u8
 8*title*BS Asahi
 9*file*http://cdnv148.cloudrsst.com:1935/jptv/bsfuji_540/playlist.m3u8
@@ -217,8 +216,8 @@ saveplaypos=0
 73*file*https://cdnv148.cloudrsst.com/jptv/igasennmonn_540/playlist.m3u8
 73*title*日本映画専門チャネル/Nippon Eiga Senmon Channel
 74*file*https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
-74*title*東映/TOEI Channel
+74*title*東映チャネル/TOEI Channel
 75*file*https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
-75*title*衛星劇場/Eisei Gekijyo
-76*file*https://api.vthanhtivi.pw/test/jp.php?id=87
-76*title*ファミリー劇場 / Family Gekijyo
+75*title*衛星劇場/Eisei Gekijou
+76*file*https://vips-livecdn.fptplay.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
+76*title*F Sports (FPT Play)
