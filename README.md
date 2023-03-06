@@ -9,6 +9,8 @@ Included country IPTV:
 
 2. Vietnam
 
+If you slow connection? Use "Cloudflare WARP VPN" to internet fastest!
+
 Also have listen radio.
 
 Supports player: VLC & Potplayer.
