@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
 playname=http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_720/playlist.m3u8
-playtime=21024
-topindex=4
+playtime=14977
+topindex=0
 saveplaypos=0
 1*file*https://cdnv148.cloudrsst.com/jptv/janimax_540/playlist.m3u8
 1*title*Animax
@@ -79,13 +79,13 @@ saveplaypos=0
 28*title*NTV News24 (480p)
 29*file*http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
 29*title*NTV News24 (1080p)
-30*file*https://cdnv148.cloudrsst.com/jptv/nhkbs1_540/playlist.m3u8
+30*file*https://cdnv148.cloudrsst.com/jptv/nhkbs1_720/playlist.m3u8
 30*title*NHK BS1
 31*file*https://api.vthanhtivi.pw/test/jp.php?id=163
 31*title*NHK BS4K
 31*author*CS
 31*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png
-32*file*http://cdnv148.cloudrsst.com:1935/jptv/bspremium_540/playlist.m3u8
+32*file*http://cdnv148.cloudrsst.com:1935/jptv/bspremium_720/playlist.m3u8
 32*title*NHK BSP
 33*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 33*title*NHK E
