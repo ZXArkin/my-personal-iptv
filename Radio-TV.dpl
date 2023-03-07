@@ -1,6 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://vips-livecdn.fptplay.net/epzsport/thethao01_vhls.smil/chunklist_b5500000.m3u8
-topindex=0
+playname=http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
+playtime=15109
+topindex=6
 saveplaypos=0
 1*file*https://api.vthanhtivi.pw/test/jp.php?id=28
 1*title*ABC-TV (Asahi Broadcasting)
@@ -69,158 +70,156 @@ saveplaypos=0
 24*title*HANOI TV 1 HD
 25*file*https://1028513096.vnns.net/tv2-abr/playlist.m3u8
 25*title*HANOI TV 2 HD
-26*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/playlist.m3u8
-26*title*MBS-TV (Mainichi Broadcasting)
-27*file*https://neetball.net/live/neet2.m3u8
-27*title*NeetBall-Live-2
-27*invalid*1
-28*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
-28*title*Nippon TV
-28*author*Undefined
-28*thumbnail*https://i.imgur.com/xHKVbey.png
-29*file*https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+26*file*https://neetball.net/live/neet2.m3u8
+26*title*NeetBall-Live-2
+26*invalid*1
+27*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
+27*title*Nippon TV
+27*author*Undefined
+27*thumbnail*https://i.imgur.com/xHKVbey.png
+28*file*https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+28*title*NTV News24 (480p)
+29*file*https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 29*title*NTV News24 (480p)
-30*file*https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-30*title*NTV News24 (480p)
-31*file*http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
-31*title*NTV News24 (1080p)
-32*file*https://cdnv148.cloudrsst.com/jptv/nhkbs1_720/playlist.m3u8
-32*title*NHK BS1
-33*file*https://api.vthanhtivi.pw/test/jp.php?id=163
-33*title*NHK BS4K
-33*author*CS
-33*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png
-34*file*http://cdnv148.cloudrsst.com:1935/jptv/bspremium_720/playlist.m3u8
-34*title*NHK BSP
-35*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
-35*title*NHK E
-36*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
-36*title*NHK G
-37*file*https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-37*title*NHK Premium
-37*author*🌏| Quốc tế
-37*thumbnail*https://i.imgur.com/mknS1CV.png
-38*file*http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-38*title*NHK World Japan
-38*author*Quốc Tế
-38*thumbnail*https://i.imgur.com/f3f3d79.png
-39*file*https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263943/live_s.m3u8
-39*title*NHK World Radio Japan
-39*played*1
-40*file*https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-40*title*QVC Japan (720p) [Not 24/7]
-41*file*https://stream3.shopch.jp/HLS/master.m3u8
-41*title*Shop Channel (1080p) [Not 24/7]
-42*file*https://api.vthanhtivi.pw/test/jp.php?id=236
-42*title*Space Shower TV
-42*author*CS
-42*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png
-43*file*http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
-43*title*TAY NINH RADIO (103.1 Mhz)
-44*file*http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-44*title*TÂY NINH TV-11 (1080p)
-45*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
-45*title*TBS (480p)
-46*file*https://stream.vovmedia.vn/vov1
-46*title*TNVN_VOV1
-46*played*1
-47*file*https://stream.vovmedia.vn/vov2
-47*title*TNVN_VOV2
-47*played*1
-48*file*https://stream.vovmedia.vn/vov3
-48*title*TNVN_VOV3
-48*played*1
-49*file*https://api.vthanhtivi.pw/test/jp.php?id=17
-49*title*Tokyo MX1
-50*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-50*title*Tokyo MX1 (480p)
-51*file*https://movie.mcas.jp/mcas/mx1_2/master.m3u8
-51*title*Tokyo MX1 (720p)
-52*file*https://movie.mcas.jp/mcas/mx2_2/master.m3u8
-52*title*Tokyo MX2 (720p)
-53*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
-53*title*TV Asahi (480p)
+30*file*http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
+30*title*NTV News24 (1080p)
+31*file*https://cdnv148.cloudrsst.com/jptv/nhkbs1_720/playlist.m3u8
+31*title*NHK BS1
+32*file*https://api.vthanhtivi.pw/test/jp.php?id=163
+32*title*NHK BS4K
+32*author*CS
+32*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png
+33*file*http://cdnv148.cloudrsst.com:1935/jptv/bspremium_720/playlist.m3u8
+33*title*NHK BSP
+34*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
+34*title*NHK E
+35*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
+35*title*NHK G
+36*file*https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+36*title*NHK Premium
+36*author*🌏| Quốc tế
+36*thumbnail*https://i.imgur.com/mknS1CV.png
+37*file*http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+37*title*NHK World Japan
+37*author*Quốc Tế
+37*thumbnail*https://i.imgur.com/f3f3d79.png
+38*file*https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263943/live_s.m3u8
+38*title*NHK World Radio Japan
+38*played*1
+39*file*https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+39*title*QVC Japan (720p) [Not 24/7]
+40*file*https://stream3.shopch.jp/HLS/master.m3u8
+40*title*Shop Channel (1080p) [Not 24/7]
+41*file*https://api.vthanhtivi.pw/test/jp.php?id=236
+41*title*Space Shower TV
+41*author*CS
+41*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/space_shower_tv.png
+42*file*http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
+42*title*TAY NINH RADIO (103.1 Mhz)
+43*file*http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+43*title*TÂY NINH TV-11 (1080p)
+44*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+44*title*TBS (480p)
+45*file*https://api.vthanhtivi.pw/test/jp.php?id=17
+45*title*Tokyo MX1
+46*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+46*title*Tokyo MX1 (480p)
+47*file*https://movie.mcas.jp/mcas/mx1_2/master.m3u8
+47*title*Tokyo MX1 (720p)
+48*file*https://movie.mcas.jp/mcas/mx2_2/master.m3u8
+48*title*Tokyo MX2 (720p)
+49*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
+49*title*TV Asahi (480p)
+49*played*1
+50*file*https://api.vthanhtivi.pw/test/jp.php?id=160
+50*title*TV Asahi Channel 1
+50*author*CS
+50*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png
+51*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
+51*title*TV Tokyo (480p)
+52*file*https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+52*title*VOH1 - 610Khz
+52*played*1
+52*author*📻| Radio
+52*thumbnail*https://i.ibb.co/RTqj6Y9/voh610.png
+53*file*https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+53*title*VOH2 - 87.7Mhz
 53*played*1
-54*file*https://api.vthanhtivi.pw/test/jp.php?id=160
-54*title*TV Asahi Channel 1
-54*author*CS
-54*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png
-55*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
-55*title*TV Tokyo (480p)
-56*file*https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-56*title*VOH1 - 610Khz
-56*played*1
-56*author*📻| Radio
-56*thumbnail*https://i.ibb.co/RTqj6Y9/voh610.png
-57*file*https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-57*title*VOH2 - 87.7Mhz
+53*author*📻| Radio
+53*thumbnail*https://i.ibb.co/LYGM648/r-voh87.png
+54*file*https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+54*title*VOH3 - 95.6Mhz
+54*played*1
+54*author*📻| Radio
+54*thumbnail*https://image.ibb.co/i3ZuJU/r_voh95.png
+55*file*https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+55*title*VOH4 - 99.9Mhz
+55*played*1
+55*author*📻| Radio
+55*thumbnail*https://image.ibb.co/eTNs59/r_voh99.png
+56*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
+56*title*VOV TV (1080p) [Not 24/7]
+57*file*https://stream.vovmedia.vn/vov1
+57*title*VOV1
 57*played*1
-57*author*📻| Radio
-57*thumbnail*https://i.ibb.co/LYGM648/r-voh87.png
-58*file*https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-58*title*VOH3 - 95.6Mhz
+58*file*https://stream.vovmedia.vn/vov2
+58*title*TNVN_VOV2
 58*played*1
-58*author*📻| Radio
-58*thumbnail*https://image.ibb.co/i3ZuJU/r_voh95.png
-59*file*https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-59*title*VOH4 - 99.9Mhz
+59*file*https://stream.vovmedia.vn/vov3
+59*title*VOV3
 59*played*1
-59*author*📻| Radio
-59*thumbnail*https://image.ibb.co/eTNs59/r_voh99.png
-60*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
-60*title*VOV TV (1080p) [Not 24/7]
-61*file*https://stream.vovmedia.vn/vov247
-61*title*VOV_247
+60*file*https://stream.vovmedia.vn/vov247
+60*title*VOV 24/7
+60*played*1
+61*file*https://stream.vovmedia.vn/vovgthcm
+61*title*VOV GT HCM
 61*played*1
-62*file*https://stream.vovmedia.vn/vovgthcm
-62*title*VOVGT_HCM
+62*file*https://stream.vovmedia.vn/vovgthn/
+62*title*VOV GT HN
 62*played*1
-63*file*https://stream.vovmedia.vn/vovgthn
-63*title*VOVGT_HN
-63*played*1
-64*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
-64*title*VTV Cần Thơ
+63*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
+63*title*VTV Cần Thơ
+63*author*VTV
+63*thumbnail*https://cdn.hqth.me/logo/thumbs/8.png
+64*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
+64*title*VTV1
 64*author*VTV
-64*thumbnail*https://cdn.hqth.me/logo/thumbs/8.png
-65*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
-65*title*VTV1
+64*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
+65*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
+65*title*VTV2
 65*author*VTV
-65*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
-66*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv2/index.m3u8
-66*title*VTV2
+65*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
+66*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
+66*title*VTV3
 66*author*VTV
-66*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
-67*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv3/index.m3u8
-67*title*VTV3
+66*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
+67*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv4/index.m3u8
+67*title*VTV4
 67*author*VTV
-67*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
-68*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv4/index.m3u8
-68*title*VTV4
+67*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
+68*file*https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+68*title*VTV5
 68*author*VTV
-68*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
-69*file*https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-69*title*VTV5
+68*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
+69*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
+69*title*VTV7
 69*author*VTV
-69*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
-70*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
-70*title*VTV7
+69*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
+70*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
+70*title*VTV8
 70*author*VTV
-70*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
-71*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
-71*title*VTV8
+70*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
+71*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
+71*title*VTV9
 71*author*VTV
-71*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
-72*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
-72*title*VTV9
-72*author*VTV
-72*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
-73*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-73*title*Weathernews (720p)
-74*file*https://cdnv148.cloudrsst.com/jptv/igasennmonn_540/playlist.m3u8
-74*title*日本映画専門チャネル/Nippon Eiga Senmon Channel
-75*file*https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
-75*title*時代専門チャネル/Jidaigeki Senmon Channel
-76*file*https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
-76*title*東映チャネル/TOEI Channel
-77*file*https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
-77*title*衛星劇場/Eisei Gekijou
+71*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
+72*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+72*title*Weathernews (720p)
+73*file*https://cdnv148.cloudrsst.com/jptv/igasennmonn_540/playlist.m3u8
+73*title*日本映画専門チャネル/Nippon Eiga Senmon Channel
+74*file*https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
+74*title*時代専門チャネル/Jidaigeki Senmon Channel
+75*file*https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
+75*title*東映チャネル/TOEI Channel
+76*file*https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
+76*title*衛星劇場/Eisei Gekijou
