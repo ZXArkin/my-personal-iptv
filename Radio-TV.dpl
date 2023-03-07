@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
-playtime=366898
-topindex=48
+playname=http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_720/playlist.m3u8
+playtime=21024
+topindex=4
 saveplaypos=0
 1*file*https://cdnv148.cloudrsst.com/jptv/janimax_540/playlist.m3u8
 1*title*Animax
@@ -22,15 +22,15 @@ saveplaypos=0
 6*thumbnail*https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png
 7*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 7*title*BS 12
-8*file*http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_540/playlist.m3u8
+8*file*http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_720/playlist.m3u8
 8*title*BS Asahi
-9*file*http://cdnv148.cloudrsst.com:1935/jptv/bsfuji_540/playlist.m3u8
+9*file*http://cdnv148.cloudrsst.com:1935/jptv/bsfuji_720/playlist.m3u8
 9*title*BS Fuji TV
-10*file*http://cdnv148.cloudrsst.com:1935/jptv/bsnihontv_540/playlist.m3u8
+10*file*http://cdnv148.cloudrsst.com:1935/jptv/bsnihontv_720/playlist.m3u8
 10*title*BS Nippon TV
-11*file*http://cdnv148.cloudrsst.com:1935/jptv/bstbs_540/playlist.m3u8
+11*file*http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8
 11*title*BS TBS
-12*file*http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_540/playlist.m3u8
+12*file*http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
 12*title*BS TV Tokyo
 13*file*https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
 13*title*Cartoon Network Vietnam
