@@ -1,6 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-topindex=7
+playname=https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
+playtime=7964
+topindex=51
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 1*title*Animax
@@ -222,17 +223,21 @@ saveplaypos=0
 71*title*VTV5
 71*author*VTV
 71*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
-72*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
-72*title*VTV7
-72*author*VTV
-72*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
-73*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
-73*title*VTV8
-73*author*VTV
-73*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
-74*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
-74*title*VTV9
+72*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tn/index.m3u8
+72*title*VTV5 Tây Nguyên
+73*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv5tnb/index.m3u8
+73*title*VTV5 Tây Nam Bộ
+74*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv7/index.m3u8
+74*title*VTV7
 74*author*VTV
-74*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
-75*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-75*title*Weathernews (720p)
+74*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
+75*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv8/index.m3u8
+75*title*VTV8
+75*author*VTV
+75*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
+76*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv9/index.m3u8
+76*title*VTV9
+76*author*VTV
+76*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
+77*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+77*title*Weathernews (720p)
