@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://stream.vovmedia.vn/vovgthn
-playtime=558847
-topindex=32
+playname=http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+playtime=22357
+topindex=0
 saveplaypos=0
 1*file*https://cdnv148.cloudrsst.com/jptv/janimax_540/playlist.m3u8
 1*title*Animax
@@ -22,15 +22,15 @@ saveplaypos=0
 6*thumbnail*https://www.lyngsat-logo.com/logo/tv/bb/bs-11-jp.png
 7*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
 7*title*BS 12
-8*file*http://cdnv148.cloudrsst.com:1935/jptv/bsasahi_720/playlist.m3u8
+8*file*http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
 8*title*BS Asahi
-9*file*http://cdnv148.cloudrsst.com:1935/jptv/bsfuji_720/playlist.m3u8
+9*file*http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
 9*title*BS Fuji TV
-10*file*http://cdnv148.cloudrsst.com:1935/jptv/bsnihontv_720/playlist.m3u8
+10*file*http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
 10*title*BS Nippon TV
-11*file*http://cdnv148.cloudrsst.com:1935/jptv/bstbs_720/playlist.m3u8
+11*file*http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
 11*title*BS TBS
-12*file*http://cdnv148.cloudrsst.com:1935/jptv/bsjapan_720/playlist.m3u8
+12*file*http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
 12*title*BS TV Tokyo
 13*file*https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
 13*title*Cartoon Network Vietnam
@@ -159,13 +159,13 @@ saveplaypos=0
 56*title*VOV 24/7
 56*played*1
 57*file*https://stream.vovmedia.vn/vov1
-57*title*VOV1
+57*title*TNVN_VOV1
 57*played*1
 58*file*https://stream.vovmedia.vn/vov2
 58*title*TNVN_VOV2
 58*played*1
 59*file*https://stream.vovmedia.vn/vov3
-59*title*VOV3
+59*title*TNVN_VOV3
 59*played*1
 60*file*https://stream.vovmedia.vn/vovgthn
 60*title*VOVGT_HN
@@ -213,9 +213,13 @@ saveplaypos=0
 71*title*Weathernews (720p)
 72*file*https://cdnv148.cloudrsst.com/jptv/igasennmonn_540/playlist.m3u8
 72*title*日本映画専門チャネル/Nippon Eiga Senmon Channel
+72*invalid*1
 73*file*https://cdnv148.cloudrsst.com/jptv/jidaigeki_540/playlist.m3u8
 73*title*時代専門チャネル/Jidaigeki Senmon Channel
+73*invalid*1
 74*file*https://cdnv148.cloudrsst.com/jptv/toa_540/playlist.m3u8
 74*title*東映チャネル/TOEI Channel
+74*invalid*1
 75*file*https://cdnv148.cloudrsst.com/jptv/gekijjyou/playlist.m3u8
 75*title*衛星劇場/Eisei Gekijou
+75*invalid*1
