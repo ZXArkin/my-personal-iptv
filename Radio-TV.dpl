@@ -1,14 +1,13 @@
 ﻿DAUMPLAYLIST
 playname=https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-playtime=15871
-topindex=42
+topindex=0
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 1*title*Animax
 2*file*https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 2*title*ANIMAX ASIA - VIETNAM
-3*file*http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-3*title*Arirang Korea
+3*file*https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+3*title*Arirang World
 4*file*https://api.vthanhtivi.pw/test/jp.php?id=107
 4*title*AT-X (1080p)
 4*invalid*1
