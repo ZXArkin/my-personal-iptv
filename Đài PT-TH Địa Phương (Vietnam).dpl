@@ -1,308 +1,308 @@
 ﻿DAUMPLAYLIST
-playname=https://wse.hatinhtv.net/live/httv1/chunklist_w1950881898.m3u8
-playtime=186507
-topindex=39
+playname=https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
+playtime=577173
+topindex=15
 saveplaypos=0
-1*file*https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
-1*title*THVL1 HD
-1*author*Địa Phương
-1*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/04/08/7jm88eeg_thvl1b93bd99b1200b60730d4539bd79b6ec9_296_168.webp
-2*file*https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-2*title*THVL2 HD
-2*author*Địa Phương
-2*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fstbcaqz_thvl2-moi14271023d66c7689e4dd5709bbe22024_296_168.webp
-3*file*https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-3*title*THVL3 HD
-3*author*Địa Phương
-3*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/96zx88xd_thvl3_296_168.webp
-4*file*https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
-4*title*THVL4 HD
-4*author*Địa Phương
-4*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/bayzt9n8_thvl4_296_168.webp
-5*file*https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
-5*title*BTV 1
+1*file*https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
+1*title*An Giang
+1*author*KÊNH ĐỊA PHƯƠNG
+1*thumbnail*https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png
+2*file*https://stream.brt.vn:8081/live/tv2.stream_record/chunklist_w419871790.m3u8
+2*title*Bà Rịa – Vũng Tàu
+2*author*KÊNH ĐỊA PHƯƠNG
+2*thumbnail*https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png
+3*file*https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+3*title*Bạc Liêu
+3*author*KÊNH ĐỊA PHƯƠNG
+3*thumbnail*https://i.ibb.co/sQw9Z3v/baclieutv-BEARTV.png
+4*file*https://live.bacgiangtv.vn/bgtvlive/tv1live.m3u8
+4*title*Bắc Giang
+4*author*KÊNH ĐỊA PHƯƠNG
+4*thumbnail*https://i.ibb.co/Czf1tJc/BACGIANG-BEARTV.png
+5*file*https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
+5*title*Bắc Kạn
 5*author*KÊNH ĐỊA PHƯƠNG
-5*thumbnail*https://i.ibb.co/VSJQW77/BTV1-BEARTV.png
-6*file*https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
-6*title*BTV 2
+5*thumbnail*https://i.ibb.co/0nhbkX5/backan-BEARTV.png
+6*file*http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
+6*title*Bắc Ninh
 6*author*KÊNH ĐỊA PHƯƠNG
-6*thumbnail*https://i.ibb.co/zRk5HL4/BTV2-BEARTV.png
-7*file*https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
-7*title*BTV 3
+6*thumbnail*https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png
+7*file*https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+7*title*Bến Tre
 7*author*KÊNH ĐỊA PHƯƠNG
-7*thumbnail*https://i.ibb.co/L6bChHj/BTV3-BEARTV.png
-8*file*https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
-8*title*BTV 4
+7*thumbnail*https://i.ibb.co/1zRv1bF/BENTRE-BEARTV.png
+8*file*http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
+8*title*Bình Định
 8*author*KÊNH ĐỊA PHƯƠNG
-8*thumbnail*https://i.ibb.co/M2HKpk9/BTV4-BEARTV.png
-9*file*https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
-9*title*BTV 6
+8*thumbnail*https://i.ibb.co/tLtzj7y/binh-dinh-tv-BEARTV.png
+9*file*https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+9*title*Bình Phước 1
 9*author*KÊNH ĐỊA PHƯƠNG
-9*thumbnail*https://i.ibb.co/d6GLN69/BTV6-BEARTV.png
-10*file*https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
-10*title*BTV 9 - An Viên TV
+9*thumbnail*https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png
+10*file*https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
+10*title*Bình Phước 2
 10*author*KÊNH ĐỊA PHƯƠNG
-10*thumbnail*https://i.ibb.co/F08gVbK/BTV9-BEARTV.png
-11*file*https://1028513096.vnns.net/tv1-abr/playlist.m3u8
-11*title*Hà Nội 1 HD
+10*thumbnail*https://i.ibb.co/QjBBqg5/binhphuoc2-BEARTV.png
+11*file*https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+11*title*Bình Thuận
 11*author*KÊNH ĐỊA PHƯƠNG
-11*thumbnail*https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png
-12*file*https://1028513096.vnns.net/tv2-abr/playlist.m3u8
-12*title*Hà Nội 2 HD
+11*thumbnail*https://i.ibb.co/tY2nv03/BINHTHUAN-BEARTV.png
+12*file*https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+12*title*BTV 1
 12*author*KÊNH ĐỊA PHƯƠNG
-12*thumbnail*https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png
-13*file*https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
-13*title*Bình Phước 1
+12*thumbnail*https://i.ibb.co/VSJQW77/BTV1-BEARTV.png
+13*file*https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+13*title*BTV 2
 13*author*KÊNH ĐỊA PHƯƠNG
-13*thumbnail*https://i.ibb.co/0hHxBTQ/BPTV1-BEARTV.png
-14*file*https://live.baobinhphuoc.com.vn/bptvlive/tv2live.m3u8
-14*title*Bình Phước 2
+13*thumbnail*https://i.ibb.co/zRk5HL4/BTV2-BEARTV.png
+14*file*https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
+14*title*BTV 3
 14*author*KÊNH ĐỊA PHƯƠNG
-14*thumbnail*https://i.ibb.co/QjBBqg5/binhphuoc2-BEARTV.png
-15*file*http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
-15*title*Đà Nẵng 1
+14*thumbnail*https://i.ibb.co/L6bChHj/BTV3-BEARTV.png
+15*file*https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
+15*title*BTV 4
 15*author*KÊNH ĐỊA PHƯƠNG
-15*thumbnail*https://i.ibb.co/pXM42MF/drt1-BEARTV.png
-16*file*http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-16*title*Đà Nẵng 2
+15*thumbnail*https://i.ibb.co/M2HKpk9/BTV4-BEARTV.png
+16*file*https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+16*title*BTV 6
 16*author*KÊNH ĐỊA PHƯƠNG
-16*thumbnail*https://i.ibb.co/2gfYpRQ/drt2-BEARTV.png
-17*file*https://vips-livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
-17*title*Kiên Giang
+16*thumbnail*https://i.ibb.co/d6GLN69/BTV6-BEARTV.png
+17*file*https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+17*title*BTV 9 - An Viên TV
 17*author*KÊNH ĐỊA PHƯƠNG
-17*thumbnail*https://i.ibb.co/XbhDDFs/KIENGIANG1-BEARTV.png
-18*file*http://118.69.169.41:1935/THDT/thdttv/chunklist_w1866045054.m3u8
-18*title*Đồng Tháp
+17*thumbnail*https://i.ibb.co/F08gVbK/BTV9-BEARTV.png
+18*file*https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+18*title*Cà Mau
 18*author*KÊNH ĐỊA PHƯƠNG
-18*thumbnail*https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png
-19*file*http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
-19*title*Đồng Tháp 2 - Miền Tây
+18*thumbnail*https://i.ibb.co/B2HPbYF/camautv-BEARTV.png
+19*file*http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
+19*title*Cao Bằng
 19*author*KÊNH ĐỊA PHƯƠNG
-19*thumbnail*https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png
-20*file*https://yenbaitv.org.vn/hls/livestream.m3u8
-20*title*Yên Bái
+19*thumbnail*https://i.ibb.co/H7YrC5h/caobang-BEARTV.png
+20*file*https://tv.tchgroup.vn/live/tv_web/chunklist_w1293608901.m3u8
+20*title*Cần Thơ
 20*author*KÊNH ĐỊA PHƯƠNG
-20*thumbnail*https://i.ibb.co/CV4TkJj/YENBAI-BEARTV.png
-21*file*https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
-21*title*Điện Biên
+20*thumbnail*https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png
+21*file*http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+21*title*Đà Nẵng 1
 21*author*KÊNH ĐỊA PHƯƠNG
-21*thumbnail*https://i.ibb.co/QX9wxQj/dienbientv-BEARTV.png
-22*file*http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
-22*title*Lào Cai
+21*thumbnail*https://i.ibb.co/pXM42MF/drt1-BEARTV.png
+22*file*http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+22*title*Đà Nẵng 2
 22*author*KÊNH ĐỊA PHƯƠNG
-22*thumbnail*https://i.ibb.co/bdrBV0D/laocaitv-BEARTV.png
-23*file*http://118.107.85.4:1935/live/smil:CRTV.smil/chunklist_w1913809165_b1384000.m3u8
-23*title*Cao Bằng
+22*thumbnail*https://i.ibb.co/2gfYpRQ/drt2-BEARTV.png
+23*file*https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+23*title*Đắk Lắk
 23*author*KÊNH ĐỊA PHƯƠNG
-23*thumbnail*https://i.ibb.co/H7YrC5h/caobang-BEARTV.png
-24*file*http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-24*title*Hòa Bình
+23*thumbnail*https://i.ibb.co/NmVVpFC/daklak-BEARTV.png
+24*file*https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
+24*title*Đắk Nông
 24*author*KÊNH ĐỊA PHƯƠNG
-24*thumbnail*https://i.ibb.co/37L4BWF/hoabinh-BEARTV.png
-25*file*https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
-25*title*Lai Châu
+24*thumbnail*https://i.ibb.co/rpPXqVP/daknong-BEARTV.png
+25*file*https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+25*title*Điện Biên
 25*author*KÊNH ĐỊA PHƯƠNG
-25*thumbnail*https://i.ibb.co/h9WZ4mk/laichautv-BEARTV.png
-26*file*https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
-26*title*Bắc Kạn
+25*thumbnail*https://i.ibb.co/QX9wxQj/dienbientv-BEARTV.png
+26*file*https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+26*title*Đồng Nai 1
 26*author*KÊNH ĐỊA PHƯƠNG
-26*thumbnail*https://i.ibb.co/0nhbkX5/backan-BEARTV.png
-27*file*https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-27*title*Tuyên Quang
+26*thumbnail*https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png
+27*file*https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+27*title*Đồng Nai 2
 27*author*KÊNH ĐỊA PHƯƠNG
-27*thumbnail*https://i.ibb.co/Hp6pHKp/TUYENQUANG-BEARTV.png
-28*file*https://streaming.thainguyentv.vn/hls/livestream.m3u8
-28*title*Thái Nguyên
+27*thumbnail*https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png
+28*file*http://118.69.169.41:1935/THDT/thdttv/chunklist_w1866045054.m3u8
+28*title*Đồng Tháp
 28*author*KÊNH ĐỊA PHƯƠNG
-28*thumbnail*https://i.ibb.co/2PgPvnB/thainguyen1-BEARTV.png
-29*file*https://lms-public-ingest.swiftfederation.com/sltvlive/tv1live-transmux.m3u8
-29*title*Sơn La
+28*thumbnail*https://i.ibb.co/3N22Nd4/TH-T-BEARTV.png
+29*file*http://202.43.109.145:1935/thdt2/thdt2/chunklist_w1048334863.m3u8
+29*title*Đồng Tháp 2 - Miền Tây
 29*author*KÊNH ĐỊA PHƯƠNG
-29*thumbnail*https://i.ibb.co/z5Q0bkz/sonlatv-BEARTV.png
-30*file*http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
-30*title*Lạng Sơn
+29*thumbnail*https://i.ibb.co/Fm6ZT1J/thdt2-BEARTV.png
+30*file*http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+30*title*Gia Lai
 30*author*KÊNH ĐỊA PHƯƠNG
-30*thumbnail*https://i.ibb.co/8PdwJC0/LSTV-BEARTV.png
-31*file*https://live.baoquangninh.com.vn/qtvlive/tv1live.m3u8
-31*title*Quảng Ninh 1
+30*thumbnail*https://i.ibb.co/n0XJG3Q/GIALAI-BEARTV.png
+31*file*https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+31*title*Hà Giang
 31*author*KÊNH ĐỊA PHƯƠNG
-31*thumbnail*https://i.ibb.co/5hkJWkY/Quang-Ninh1-BEARTV.webp
-32*file*https://live.baoquangninh.com.vn/qtvlive/tv3live.m3u8
-32*title*Quảng Ninh 3
+31*thumbnail*https://i.ibb.co/7CmPMCM/Ha-Giang-BEARTV.png
+32*file*https://lms-public-ingest.swiftfederation.com/thhnlive/tv1live.m3u8
+32*title*Hà Nam
 32*author*KÊNH ĐỊA PHƯƠNG
-32*thumbnail*https://i.ibb.co/c3v2x4X/Quang-Ninh3-BEARTV.webp
-33*file*http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
-33*title*Bắc Ninh
+32*thumbnail*https://i.ibb.co/GMQTWYr/hanam-BEARTV.png
+33*file*https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
+33*title*Hà Nội 1 HD
 33*author*KÊNH ĐỊA PHƯƠNG
-33*thumbnail*https://i.ibb.co/pLwf7JF/BACNINH-BEARTV.png
-34*file*https://live.thhp.vn/thp/index.m3u8
-34*title*Hải Phòng
+33*thumbnail*https://i.ibb.co/Y8bq8Fp/HANOI1-TV-BEARTV.png
+34*file*https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
+34*title*Hà Nội 2 HD
 34*author*KÊNH ĐỊA PHƯƠNG
-34*thumbnail*https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png
-35*file*https://live.thhp.vn/hls/thpplus/index.m3u8?1
-35*title*Hải Phòng +
+34*thumbnail*https://i.ibb.co/L5bfkfQ/HANOI2-TV-BEARTV.png
+35*file*https://wse.hatinhtv.net/live/httv1/chunklist_w1950881898.m3u8
+35*title*Hà Tĩnh
 35*author*KÊNH ĐỊA PHƯƠNG
-35*thumbnail*https://i.ibb.co/72CpJK0/haiphongplus-BEARTV.png
+35*thumbnail*https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png
 36*file*https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
 36*title*Hải Dương
 36*author*KÊNH ĐỊA PHƯƠNG
 36*thumbnail*https://i.ibb.co/RbrpH0L/haiduong-BEARTV.png
-37*file*https://live.hungyentv.vn/hytvlive/tv1live.m3u8
-37*title*Hưng Yên
+37*file*https://live.thhp.vn/thp/index.m3u8
+37*title*Hải Phòng
 37*author*KÊNH ĐỊA PHƯƠNG
-37*thumbnail*https://i.ibb.co/wWQtTwr/HUNGYEN-BEARTV.png
-38*file*http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
-38*title*Thái Bình
+37*thumbnail*https://i.ibb.co/xJ0y2Vw/HAIPHONG-BEARTV.png
+38*file*https://live.thhp.vn/hls/thpplus/index.m3u8?1
+38*title*Hải Phòng +
 38*author*KÊNH ĐỊA PHƯƠNG
-38*thumbnail*https://i.ibb.co/f2z3wGt/THAIBINH-BEARTV.png
-39*file*http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
-39*title*Vĩnh Phúc
+38*thumbnail*https://i.ibb.co/72CpJK0/haiphongplus-BEARTV.png
+39*file*https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
+39*title*Hậu Giang
 39*author*KÊNH ĐỊA PHƯƠNG
-39*thumbnail*https://i.ibb.co/x76KZwh/vinhphuc-BEARTV.png
-40*file*https://live.bacgiangtv.vn/bgtvlive/tv1live.m3u8
-40*title*Bắc Giang
+39*thumbnail*https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png
+40*file*http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+40*title*Hòa Bình
 40*author*KÊNH ĐỊA PHƯƠNG
-40*thumbnail*https://i.ibb.co/Czf1tJc/BACGIANG-BEARTV.png
-41*file*https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
-41*title*Phú Thọ
+40*thumbnail*https://i.ibb.co/37L4BWF/hoabinh-BEARTV.png
+41*file*https://live.hungyentv.vn/hytvlive/tv1live.m3u8
+41*title*Hưng Yên
 41*author*KÊNH ĐỊA PHƯƠNG
-41*thumbnail*https://i.ibb.co/7SSr7KH/Phu-Tho-BEARTV.png
-42*file*https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
-42*title*Phú Yên
+41*thumbnail*https://i.ibb.co/wWQtTwr/HUNGYEN-BEARTV.png
+42*file*https://vips-livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+42*title*Kiên Giang
 42*author*KÊNH ĐỊA PHƯƠNG
-42*thumbnail*https://i.ibb.co/hDPtwzj/phuyentv-BEARTV.png
-43*file*https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
-43*title*Hà Giang
+42*thumbnail*https://i.ibb.co/XbhDDFs/KIENGIANG1-BEARTV.png
+43*file*https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
+43*title*Kon Tum
 43*author*KÊNH ĐỊA PHƯƠNG
-43*thumbnail*https://i.ibb.co/7CmPMCM/Ha-Giang-BEARTV.png
-44*file*https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
-44*title*Nam Định
+43*thumbnail*https://i.ibb.co/QmZB3WM/KONTUM-BEARTV.png
+44*file*https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+44*title*Khánh Hòa
 44*author*KÊNH ĐỊA PHƯƠNG
-44*thumbnail*https://i.ibb.co/0ycH3mR/Nam-Dinh-BEARTV.png
-45*file*https://lms-public-ingest.swiftfederation.com/thhnlive/tv1live.m3u8
-45*title*Hà Nam
+44*thumbnail*https://i.ibb.co/hWG82NP/KHANHHOA-BEARTV.png
+45*file*https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+45*title*Lai Châu
 45*author*KÊNH ĐỊA PHƯƠNG
-45*thumbnail*https://i.ibb.co/GMQTWYr/hanam-BEARTV.png
-46*file*https://lms-public-ingest.swiftfederation.com/nbtvlive/tv1live.m3u8
-46*title*Ninh Bình
+45*thumbnail*https://i.ibb.co/h9WZ4mk/laichautv-BEARTV.png
+46*file*http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+46*title*Lạng Sơn
 46*author*KÊNH ĐỊA PHƯƠNG
-46*thumbnail*https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png
-47*file*https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
-47*title*Thanh Hóa
+46*thumbnail*https://i.ibb.co/8PdwJC0/LSTV-BEARTV.png
+47*file*http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+47*title*Lào Cai
 47*author*KÊNH ĐỊA PHƯƠNG
-47*thumbnail*https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png
-48*file*https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
-48*title*Nghệ An
+47*thumbnail*https://i.ibb.co/bdrBV0D/laocaitv-BEARTV.png
+48*file*https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
+48*title*Lâm Đồng
 48*author*KÊNH ĐỊA PHƯƠNG
-48*thumbnail*https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png
-49*file*https://wse.hatinhtv.net/live/httv1/chunklist_w1950881898.m3u8
-49*title*Hà Tĩnh
+48*thumbnail*https://i.ibb.co/YcBXy9Y/LAMDONG-BEARTV.png
+49*file*https://la34.vncdn.vn/live/LA34AAA/chunklist_w462621088.m3u8
+49*title*Long An
 49*author*KÊNH ĐỊA PHƯƠNG
-49*thumbnail*https://i.ibb.co/B6qZLG6/HATINH-BEARTV.png
-50*file*https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8
-50*title*Quảng Bình
+49*thumbnail*https://i.ibb.co/fF2QLy5/LONGAN-BEARTV.png
+50*file*https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+50*title*Nam Định
 50*author*KÊNH ĐỊA PHƯƠNG
-50*thumbnail*https://i.ibb.co/YdH8Nh4/quangbinhtv-BEARTV.png
-51*file*http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
-51*title*Quảng Ngãi
+50*thumbnail*https://i.ibb.co/0ycH3mR/Nam-Dinh-BEARTV.png
+51*file*https://lms-public-ingest.swiftfederation.com/nbtvlive/tv1live.m3u8
+51*title*Ninh Bình
 51*author*KÊNH ĐỊA PHƯƠNG
-51*thumbnail*https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png
-52*file*http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-52*title*Quảng Nam
+51*thumbnail*https://i.ibb.co/6WW75Cz/NINHBINH-BEARTV.png
+52*file*https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
+52*title*Ninh Thuận
 52*author*KÊNH ĐỊA PHƯƠNG
-52*thumbnail*https://i.ibb.co/GsJjkP1/QUANGNAM-BEARTV.png
-53*file*https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
-53*title*Quảng Trị
+52*thumbnail*https://i.ibb.co/1G1QSGf/ninhthuan-BEARTV.png
+53*file*https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+53*title*Nghệ An
 53*author*KÊNH ĐỊA PHƯƠNG
-53*thumbnail*https://i.ibb.co/JnH32XZ/Quang-Tri-BEARTV.png
-54*file*https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
-54*title*Bình Thuận
+53*thumbnail*https://i.ibb.co/fxwPrpH/NGHEAN-BEARTV.png
+54*file*https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+54*title*Phú Thọ
 54*author*KÊNH ĐỊA PHƯƠNG
-54*thumbnail*https://i.ibb.co/tY2nv03/BINHTHUAN-BEARTV.png
-55*file*http://truyenhinhbinhdinhonline.dynns.com:8086/live.m3u8
-55*title*Bình Định
+54*thumbnail*https://i.ibb.co/7SSr7KH/Phu-Tho-BEARTV.png
+55*file*https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+55*title*Phú Yên
 55*author*KÊNH ĐỊA PHƯƠNG
-55*thumbnail*https://i.ibb.co/tLtzj7y/binh-dinh-tv-BEARTV.png
-56*file*https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
-56*title*Thừa Thiên Huế
+55*thumbnail*https://i.ibb.co/hDPtwzj/phuyentv-BEARTV.png
+56*file*https://livecdn.fptplay.net/sda/quangbinh_2000.stream/chunklist.m3u8
+56*title*Quảng Bình
 56*author*KÊNH ĐỊA PHƯƠNG
-56*thumbnail*https://i.ibb.co/5X0YF3c/Hue-TV-BEARTV.png
-57*file*https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-57*title*Kon Tum
+56*thumbnail*https://i.ibb.co/YdH8Nh4/quangbinhtv-BEARTV.png
+57*file*http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+57*title*Quảng Nam
 57*author*KÊNH ĐỊA PHƯƠNG
-57*thumbnail*https://i.ibb.co/QmZB3WM/KONTUM-BEARTV.png
-58*file*https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
-58*title*Đắk Lắk
+57*thumbnail*https://i.ibb.co/GsJjkP1/QUANGNAM-BEARTV.png
+58*file*https://live.baoquangninh.com.vn/qtvlive/tv1live.m3u8
+58*title*Quảng Ninh 1
 58*author*KÊNH ĐỊA PHƯƠNG
-58*thumbnail*https://i.ibb.co/NmVVpFC/daklak-BEARTV.png
-59*file*https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
-59*title*Đắk Nông
+58*thumbnail*https://i.ibb.co/5hkJWkY/Quang-Ninh1-BEARTV.webp
+59*file*https://live.baoquangninh.com.vn/qtvlive/tv3live.m3u8
+59*title*Quảng Ninh 3
 59*author*KÊNH ĐỊA PHƯƠNG
-59*thumbnail*https://i.ibb.co/rpPXqVP/daknong-BEARTV.png
-60*file*https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
-60*title*Lâm Đồng
+59*thumbnail*https://i.ibb.co/c3v2x4X/Quang-Ninh3-BEARTV.webp
+60*file*http://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+60*title*Quảng Ngãi
 60*author*KÊNH ĐỊA PHƯƠNG
-60*thumbnail*https://i.ibb.co/YcBXy9Y/LAMDONG-BEARTV.png
-61*file*http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
-61*title*Gia Lai
+60*thumbnail*https://i.ibb.co/LSTRSpQ/quangngaitv-BEARTV.png
+61*file*https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
+61*title*Quảng Trị
 61*author*KÊNH ĐỊA PHƯƠNG
-61*thumbnail*https://i.ibb.co/n0XJG3Q/GIALAI-BEARTV.png
-62*file*https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-62*title*Đồng Nai 1
+61*thumbnail*https://i.ibb.co/JnH32XZ/Quang-Tri-BEARTV.png
+62*file*https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+62*title*Sóc Trăng 1
 62*author*KÊNH ĐỊA PHƯƠNG
-62*thumbnail*https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png
-63*file*https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-63*title*Đồng Nai 2
+62*thumbnail*https://i.ibb.co/T8mqnnF/soctrang1-BEARTV.png
+63*file*http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+63*title*Sóc Trăng 2
 63*author*KÊNH ĐỊA PHƯƠNG
-63*thumbnail*https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png
-64*file*http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
-64*title*Tây Ninh
+63*thumbnail*https://i.ibb.co/DQSzGXs/soctrang2-BEARTV.png
+64*file*https://lms-public-ingest.swiftfederation.com/sltvlive/tv1live-transmux.m3u8
+64*title*Sơn La
 64*author*KÊNH ĐỊA PHƯƠNG
-64*thumbnail*https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png
-65*file*https://60acee235f4d5.streamlock.net/live/mystream/chunklist_w1911661624.m3u8
-65*title*Ninh Thuận
+64*thumbnail*https://i.ibb.co/z5Q0bkz/sonlatv-BEARTV.png
+65*file*http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+65*title*Tây Ninh
 65*author*KÊNH ĐỊA PHƯƠNG
-65*thumbnail*https://i.ibb.co/1G1QSGf/ninhthuan-BEARTV.png
-66*file*https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
-66*title*Bạc Liêu
+65*thumbnail*https://i.ibb.co/QbtMB5F/TAYNINH11-BEARTV.png
+66*file*http://thtg.vn:8001/stream_hi.m3u8
+66*title*Tiền Giang
 66*author*KÊNH ĐỊA PHƯƠNG
-66*thumbnail*https://i.ibb.co/sQw9Z3v/baclieutv-BEARTV.png
-67*file*https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
-67*title*Bến Tre
+66*thumbnail*https://i.ibb.co/RvJg1zF/TIENGIANG-BEARTV.png
+67*file*https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+67*title*Tuyên Quang
 67*author*KÊNH ĐỊA PHƯƠNG
-67*thumbnail*https://i.ibb.co/1zRv1bF/BENTRE-BEARTV.png
-68*file*https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
-68*title*Khánh Hòa
+67*thumbnail*https://i.ibb.co/Hp6pHKp/TUYENQUANG-BEARTV.png
+68*file*http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+68*title*Thái Bình
 68*author*KÊNH ĐỊA PHƯƠNG
-68*thumbnail*https://i.ibb.co/hWG82NP/KHANHHOA-BEARTV.png
-69*file*https://tv.tchgroup.vn/live/tv_web/chunklist_w1293608901.m3u8
-69*title*Cần Thơ
+68*thumbnail*https://i.ibb.co/f2z3wGt/THAIBINH-BEARTV.png
+69*file*https://streaming.thainguyentv.vn/hls/livestream.m3u8
+69*title*Thái Nguyên
 69*author*KÊNH ĐỊA PHƯƠNG
-69*thumbnail*https://i.ibb.co/0XXxcNv/CANTHO-BEARTV.png
-70*file*https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
-70*title*Sóc Trăng 1
+69*thumbnail*https://i.ibb.co/2PgPvnB/thainguyen1-BEARTV.png
+70*file*https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+70*title*Thanh Hóa
 70*author*KÊNH ĐỊA PHƯƠNG
-70*thumbnail*https://i.ibb.co/T8mqnnF/soctrang1-BEARTV.png
-71*file*http://113.163.189.104:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
-71*title*Sóc Trăng 2
+70*thumbnail*https://i.ibb.co/pr7CGhb/THANHHOA-BEARTV.png
+71*file*https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
+71*title*Thừa Thiên Huế
 71*author*KÊNH ĐỊA PHƯƠNG
-71*thumbnail*https://i.ibb.co/DQSzGXs/soctrang2-BEARTV.png
-72*file*https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
-72*title*Cà Mau
-72*author*KÊNH ĐỊA PHƯƠNG
-72*thumbnail*https://i.ibb.co/B2HPbYF/camautv-BEARTV.png
-73*file*https://la34.vncdn.vn/live/LA34AAA/chunklist_w462621088.m3u8
-73*title*Long An
-73*author*KÊNH ĐỊA PHƯƠNG
-73*thumbnail*https://i.ibb.co/fF2QLy5/LONGAN-BEARTV.png
-74*file*https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
-74*title*An Giang
-74*author*KÊNH ĐỊA PHƯƠNG
-74*thumbnail*https://i.ibb.co/Jz474K1/An-Giang-BEARTV.png
-75*file*http://thtg.vn:8001/stream_hi.m3u8
-75*title*Tiền Giang
-75*author*KÊNH ĐỊA PHƯƠNG
-75*thumbnail*https://i.ibb.co/RvJg1zF/TIENGIANG-BEARTV.png
+71*thumbnail*https://i.ibb.co/5X0YF3c/Hue-TV-BEARTV.png
+72*file*https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+72*title*THVL1 HD
+72*author*Địa Phương
+72*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/04/08/7jm88eeg_thvl1b93bd99b1200b60730d4539bd79b6ec9_296_168.webp
+73*file*https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+73*title*THVL2 HD
+73*author*Địa Phương
+73*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fstbcaqz_thvl2-moi14271023d66c7689e4dd5709bbe22024_296_168.webp
+74*file*https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+74*title*THVL3 HD
+74*author*Địa Phương
+74*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/96zx88xd_thvl3_296_168.webp
+75*file*https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+75*title*THVL4 HD
+75*author*Địa Phương
+75*thumbnail*https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/14/bayzt9n8_thvl4_296_168.webp
 76*file*https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 76*title*Trà Vinh
 76*author*KÊNH ĐỊA PHƯƠNG
@@ -311,11 +311,11 @@ saveplaypos=0
 77*title*Trà Vinh 2
 77*author*KÊNH ĐỊA PHƯƠNG
 77*thumbnail*https://i.ibb.co/ccbQMZs/THTV2-BEARTV.webp
-78*file*https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w819569343.m3u8
-78*title*Hậu Giang
+78*file*http://vinhphuctv.vn:8090/vinhphuclive/web.stream_720p/chunklist_w508825293.m3u8
+78*title*Vĩnh Phúc
 78*author*KÊNH ĐỊA PHƯƠNG
-78*thumbnail*https://i.ibb.co/pPxv3Ld/Hau-Giang-BEARTV.png
-79*file*https://stream.brt.vn:8081/live/tv2.stream_record/chunklist_w419871790.m3u8
-79*title*Bà Rịa – Vũng Tàu
+78*thumbnail*https://i.ibb.co/x76KZwh/vinhphuc-BEARTV.png
+79*file*https://yenbaitv.org.vn/hls/livestream.m3u8
+79*title*Yên Bái
 79*author*KÊNH ĐỊA PHƯƠNG
-79*thumbnail*https://i.ibb.co/ZMVBv8X/BRT-BEARTV.png
+79*thumbnail*https://i.ibb.co/CV4TkJj/YENBAI-BEARTV.png

@@ -1,6 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-topindex=46
+playname=http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+playtime=575879
+topindex=12
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 1*title*Animax
@@ -71,7 +72,7 @@ saveplaypos=0
 24*played*1
 25*file*https://1028513096.vnns.net/tv1-abr/playlist.m3u8
 25*title*HANOI TV 1 HD
-26*file*https://1028513096.vnns.net/tv2-abr/playlist.m3u8
+26*file*https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
 26*title*HANOI TV 2 HD
 27*file*https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 27*title*HTV7 HD
