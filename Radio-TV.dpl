@@ -1,5 +1,6 @@
 ﻿DAUMPLAYLIST
-playname=https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+playname=https://nvzoftzsvflivcf.vcdn.com.vn/vtv1/index.m3u8
+playtime=581777
 topindex=0
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
@@ -10,8 +11,10 @@ saveplaypos=0
 3*title*Arirang World
 4*file*https://neetball.net/live/neet3.m3u8
 4*title*AT-X (720p)
-5*file*https://api.vthanhtivi.pw/test/jp.php?id=107
+4*invalid*1
+5*file*https://code.vthanhtivi.pw/getlink/jptv/107/playlist.m3u8
 5*title*AT-X (1080p)
+5*invalid*1
 5*author*CS
 5*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
 6*file*https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
@@ -87,9 +90,9 @@ saveplaypos=0
 30*title*Nippon TV
 30*author*Undefined
 30*thumbnail*https://i.imgur.com/xHKVbey.png
-31*file*https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
+31*file*https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 31*title*NTV News24 (480p)
-32*file*https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+32*file*https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 32*title*NTV News24 (480p)
 33*file*http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuTAXTexrhetbOe3zgskJBQ/live
 33*title*NTV News24 (1080p)
@@ -101,7 +104,6 @@ saveplaypos=0
 35*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/a3/NHK_BS4K_logo_2020.png
 36*file*http://redlabmcdn.s.llnwi.net/nv02/bs02hd/index.m3u8
 36*title*NHK BSP
-36*invalid*1
 37*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/index.m3u8
 37*title*NHK E
 38*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa2hd/index.m3u8
@@ -138,6 +140,7 @@ saveplaypos=0
 48*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/tbs-channel-2-jp.png
 49*file*https://api.vthanhtivi.pw/test/jp.php?id=17
 49*title*Tokyo MX1
+49*invalid*1
 50*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
 50*title*Tokyo MX1 (480p)
 51*file*https://movie.mcas.jp/mcas/mx1_2/master.m3u8
@@ -149,6 +152,7 @@ saveplaypos=0
 53*played*1
 54*file*https://api.vthanhtivi.pw/test/jp.php?id=160
 54*title*TV Asahi Channel 1
+54*invalid*1
 54*author*CS
 54*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/tv_asahi_channel1.png
 55*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/index.m3u8
@@ -173,36 +177,36 @@ saveplaypos=0
 59*played*1
 59*author*📻| Radio
 59*thumbnail*https://image.ibb.co/eTNs59/r_voh99.png
-60*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-60*title*VOV GT Hà Nội & Hà Tây Cũ
-60*played*1
-60*author*📻| Radio
-60*thumbnail*https://i.imgur.com/OIzhtBi.png
-61*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-61*title*VOV GT MEKONG
+60*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
+60*title*VOV TV (1080p) [Not 24/7]
+61*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+61*title*VOV1
+61*played*1
 61*author*📻| Radio
-61*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
-62*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-62*title*VOV GT Thành Phố Hồ Chí Minh
+61*thumbnail*https://i.imgur.com/mbPvLmS.png
+62*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+62*title*VOV2
+62*played*1
 62*author*📻| Radio
-62*thumbnail*https://i.imgur.com/OIzhtBi.png
-63*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
-63*title*VOV TV (1080p) [Not 24/7]
-64*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-64*title*VOV1
+62*thumbnail*https://i.imgur.com/rS7TG49.png
+63*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+63*title*VOV3
+63*played*1
+63*author*📻| Radio
+63*thumbnail*https://i.imgur.com/1ZfyuG0.png
+64*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+64*title*VOV GT Hà Nội
 64*played*1
 64*author*📻| Radio
-64*thumbnail*https://i.imgur.com/mbPvLmS.png
-65*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-65*title*VOV2
-65*played*1
+64*thumbnail*https://i.imgur.com/OIzhtBi.png
+65*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+65*title*VOV GT Thành Phố Hồ Chí Minh
 65*author*📻| Radio
-65*thumbnail*https://i.imgur.com/rS7TG49.png
-66*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-66*title*VOV3
-66*played*1
+65*thumbnail*https://i.imgur.com/OIzhtBi.png
+66*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+66*title*VOV GT MEKONG
 66*author*📻| Radio
-66*thumbnail*https://i.imgur.com/1ZfyuG0.png
+66*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
 67*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
 67*title*VTV Cần Thơ
 67*author*VTV
