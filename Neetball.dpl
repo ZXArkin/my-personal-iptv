@@ -1,6 +1,5 @@
 ﻿DAUMPLAYLIST
-playname=https://neetball.net/live/neet.m3u8
-playtime=182186
+playname=https://neetball.net/live/neet3.m3u8
 topindex=0
 saveplaypos=0
 1*file*https://neetball.net/live/neet.m3u8
@@ -8,5 +7,7 @@ saveplaypos=0
 2*file*https://neetball.net/live/neet2.m3u8
 2*title*Neetball-Live-2
 2*invalid*1
-3*file*https://neetball.net/live/neet.m3u8
-3*title*AT-X (720p)
+3*file*https://neetball.net/live/neet3.m3u8
+3*title*Neetball-Live-3
+4*file*https://neetball.net/live/neet.m3u8
+4*title*AT-X (720p)
