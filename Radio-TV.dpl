@@ -1,6 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://code.vthanhtivi.pw/getlink/jptv/107/playlist.m3u8
-topindex=0
+playname=http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
+playtime=97964
+topindex=5
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 1*title*Animax
@@ -33,53 +34,52 @@ saveplaypos=0
 12*title*BS TV Tokyo
 13*file*https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
 13*title*Cartoon Network Vietnam
-14*file*http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-14*title*Celestial Classic Movies (Indonesia Sub)
-15*file*http://210.210.155.37/dr9445/h/h14/index.m3u8
-15*title*Celestial Movies (Indonesia Sub)
-16*file*http://118.107.85.5:1935/radio/dongnai_aac/chunklist_w462744784.m3u8
-16*title*DONG NAI RADIO
-17*file*https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-17*title*Đồng Nai 1
-17*author*KÊNH ĐỊA PHƯƠNG
-17*thumbnail*https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png
-18*file*https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-18*title*Đồng Nai 2
+14*file*http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+14*title*CCTV4 (Asia)
+15*file*http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+15*title*Celestial Classic Movies (Indonesia Sub)
+16*file*http://210.210.155.37/dr9445/h/h14/index.m3u8
+16*title*Celestial Movies (Indonesia Sub)
+17*file*http://118.107.85.5:1935/radio/dongnai_aac/chunklist_w462744784.m3u8
+17*title*DONG NAI RADIO
+18*file*https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+18*title*Đồng Nai 1
 18*author*KÊNH ĐỊA PHƯƠNG
-18*thumbnail*https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png
-19*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
-19*title*Fuji TV
-19*author*Undefined
-19*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png
-20*file*https://code.vthanhtivi.pw/getlink/jptv/147/playlist.m3u8
-20*title*Fuji TV Two
-20*author*🇯🇵| Nhật Bản
-20*thumbnail*https://lh3.googleusercontent.com/-MP8mJB2EBi0/Y1F5aeGZRXI/AAAAAAAABGk/sBeehcugFCA3PO8zR6IeQfHxc2g4fJvCACNcBGAsYHQ/135.png
-21*file*https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-21*title*Gunma TV (720p)
-21*author*Undefined
-21*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png
-22*file*https://1028513096.vnns.net/fm90/chunks.m3u8
-22*title*HANOI FM-1-News-Traffic
-22*played*1
-23*file*https://1028513096.vnns.net/fm96/chunks.m3u8
-23*title*HANOI FM-2-NEWS
+18*thumbnail*https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png
+19*file*https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+19*title*Đồng Nai 2
+19*author*KÊNH ĐỊA PHƯƠNG
+19*thumbnail*https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png
+20*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+20*title*Fuji TV
+20*author*Undefined
+20*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png
+21*file*https://code.vthanhtivi.pw/getlink/jptv/147/playlist.m3u8
+21*title*Fuji TV Two
+21*author*🇯🇵| Nhật Bản
+21*thumbnail*https://lh3.googleusercontent.com/-MP8mJB2EBi0/Y1F5aeGZRXI/AAAAAAAABGk/sBeehcugFCA3PO8zR6IeQfHxc2g4fJvCACNcBGAsYHQ/135.png
+22*file*https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+22*title*Gunma TV (720p)
+22*author*Undefined
+22*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png
+23*file*https://1028513096.vnns.net/fm90/chunks.m3u8
+23*title*HANOI FM-1-News-Traffic
 23*played*1
-24*file*https://1028513096.vnns.net/tv1-abr/playlist.m3u8
-24*title*HANOI TV 1 HD
-25*file*https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
-25*title*HANOI TV 2 HD
-26*file*https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-26*title*HTV7 HD
-26*author*🇻🇳| HTV - HTVC
-26*thumbnail*https://i.imgur.com/PPFu7pv.png
-27*file*https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-27*title*HTV9 HD
+24*file*https://1028513096.vnns.net/fm96/chunks.m3u8
+24*title*HANOI FM-2-NEWS
+24*played*1
+25*file*https://1028513096.vnns.net/tv1-abr/playlist.m3u8
+25*title*HANOI TV 1 HD
+26*file*https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
+26*title*HANOI TV 2 HD
+27*file*https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+27*title*HTV7 HD
 27*author*🇻🇳| HTV - HTVC
-27*thumbnail*https://i.imgur.com/1SgC1yo.png
-28*file*https://neetball.net/live/neet2.m3u8
-28*title*NeetBall-Live-2
-28*invalid*1
+27*thumbnail*https://i.imgur.com/PPFu7pv.png
+28*file*https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+28*title*HTV9 HD
+28*author*🇻🇳| HTV - HTVC
+28*thumbnail*https://i.imgur.com/1SgC1yo.png
 29*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa3hd/index.m3u8
 29*title*Nippon TV
 29*author*Undefined
@@ -186,10 +186,12 @@ saveplaypos=0
 60*thumbnail*https://i.imgur.com/OIzhtBi.png
 61*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
 61*title*VOV GT MEKONG
+61*played*1
 61*author*📻| Radio
 61*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
 62*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
 62*title*VOV GT Thành Phố Hồ Chí Minh
+62*played*1
 62*author*📻| Radio
 62*thumbnail*https://i.imgur.com/OIzhtBi.png
 63*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
