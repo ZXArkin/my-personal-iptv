@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/index.m3u8
-playtime=97964
-topindex=5
+playname=http://redlabmcdn.s.llnwi.net/nv02/ryowa5hd/index.m3u8
+playtime=51117
+topindex=9
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 1*title*Animax
@@ -9,29 +9,29 @@ saveplaypos=0
 2*title*ANIMAX ASIA - VIETNAM
 3*file*https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 3*title*Arirang World
-4*file*https://code.vthanhtivi.pw/getlink/jptv/107/playlist.m3u8
-4*title*AT-X (1080p)
-4*author*CS
-4*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
+4*file*https://code.vthanhtivi.pw/getlink/jptv/Nxk7xMmj7dV7iq_k08p2fQ==/playlist.m3u8
+4*title*AT-X
+4*author*🇯🇵| Nhật Bản
+4*thumbnail*https://lh3.googleusercontent.com/-SOWyiD9kb_4/Y1F5UhbwKYI/AAAAAAAABE8/rR6-DgZZV7o9oEJ5qanVLJt8HEN0qZLXgCNcBGAsYHQ/107.png
 5*file*https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
 5*title*Boomerang South East Asia (Vietnamese dub) (1080p)
-6*file*https://code.vthanhtivi.pw/getlink/jptv/157/playlist.m3u8
-6*title*BS 11
-6*author*🇯🇵| Nhật Bản
-6*thumbnail*https://lh3.googleusercontent.com/-JpO_TLzjOkU/Y1F5b21HQ9I/AAAAAAAABG8/0YYUoGYBmM8N8PM5B783RwTnzc4-wLMBACNcBGAsYHQ/141.png
-7*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
-7*title*BS 12
-8*file*http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
-8*title*BS Asahi
-9*file*http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
-9*title*BS Fuji TV
-10*file*http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
-10*title*BS Nippon TV
-10*played*1
-11*file*http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
-11*title*BS TBS
-12*file*http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
-12*title*BS TV Tokyo
+6*file*http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+6*title*BS Asahi
+7*file*http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+7*title*BS Fuji TV
+8*file*http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+8*title*BS Nippon TV
+8*played*1
+9*file*http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+9*title*BS TBS
+10*file*http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+10*title*BS TV Tokyo
+11*file*https://code.vthanhtivi.pw/getlink/jptv/pGtcPp5upFDuPqvtBIBFlA==/playlist.m3u8
+11*title*BS11
+11*author*🇯🇵| Nhật Bản
+11*thumbnail*https://lh3.googleusercontent.com/-JpO_TLzjOkU/Y1F5b21HQ9I/AAAAAAAABG8/0YYUoGYBmM8N8PM5B783RwTnzc4-wLMBACNcBGAsYHQ/141.png
+12*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+12*title*BS12
 13*file*https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
 13*title*Cartoon Network Vietnam
 14*file*http://210.210.155.37/qwr9ew/s/s19/index.m3u8
@@ -54,7 +54,7 @@ saveplaypos=0
 20*title*Fuji TV
 20*author*Undefined
 20*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png
-21*file*https://code.vthanhtivi.pw/getlink/jptv/147/playlist.m3u8
+21*file*https://code.vthanhtivi.pw/getlink/jptv/xU1ix5hIdSVM9DfWLcR0Mg==/playlist.m3u8
 21*title*Fuji TV Two
 21*author*🇯🇵| Nhật Bản
 21*thumbnail*https://lh3.googleusercontent.com/-MP8mJB2EBi0/Y1F5aeGZRXI/AAAAAAAABGk/sBeehcugFCA3PO8zR6IeQfHxc2g4fJvCACNcBGAsYHQ/135.png
@@ -125,7 +125,7 @@ saveplaypos=0
 45*title*TBS Channel 2
 45*author*🇯🇵| Nhật Bản
 45*thumbnail*https://lh3.googleusercontent.com/-1VME58Rc0Pc/Y1F5Z45F0TI/AAAAAAAABGc/DsvTw-VwySsTXa3c4FoeK8hssrXZI39ggCNcBGAsYHQ/133.png
-46*file*https://code.vthanhtivi.pw/getlink/jptv/17/playlist.m3u8
+46*file*https://code.vthanhtivi.pw/getlink/jptv/9-SZo2YQISIfL52o5p6Wtg==/playlist.m3u8
 46*title*TOKYO MX1
 46*author*🇯🇵| Nhật Bản
 46*thumbnail*https://lh3.googleusercontent.com/-Hgv04I10xVo/YyU5ESKYi0I/AAAAAAAAA-s/f_2a1GE-RZ42md-dmjqMGz3G4F1N_-vpACNcBGAsYHQ/17.jpg
@@ -138,7 +138,7 @@ saveplaypos=0
 50*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/index.m3u8
 50*title*TV Asahi (480p)
 50*played*1
-51*file*https://code.vthanhtivi.pw/getlink/jptv/160/playlist.m3u8
+51*file*https://code.vthanhtivi.pw/getlink/jptv/RSLBSv8wc5UF7dw1kqw0mA==/playlist.m3u8
 51*title*TV Asahi Channel 1
 51*author*🇯🇵| Nhật Bản
 51*thumbnail*https://lh3.googleusercontent.com/-u3QbsNEIKL0/Y1F5cekboVI/AAAAAAAABHE/OZPpexFtb8ETZiK74FTU2x3HQIy8iif_ACNcBGAsYHQ/143.png
@@ -164,38 +164,38 @@ saveplaypos=0
 56*played*1
 56*author*📻| Radio
 56*thumbnail*https://image.ibb.co/eTNs59/r_voh99.png
-57*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-57*title*VOV1
+57*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+57*title*VOV GT Hà Nội
 57*played*1
 57*author*📻| Radio
-57*thumbnail*https://i.imgur.com/mbPvLmS.png
-58*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-58*title*VOV2
+57*thumbnail*https://i.imgur.com/OIzhtBi.png
+58*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+58*title*VOV GT MEKONG
 58*played*1
 58*author*📻| Radio
-58*thumbnail*https://i.imgur.com/rS7TG49.png
-59*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-59*title*VOV3
+58*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
+59*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+59*title*VOV GT Thành Phố Hồ Chí Minh
 59*played*1
 59*author*📻| Radio
-59*thumbnail*https://i.imgur.com/1ZfyuG0.png
-60*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-60*title*VOV GT Hà Nội
-60*played*1
-60*author*📻| Radio
-60*thumbnail*https://i.imgur.com/OIzhtBi.png
-61*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-61*title*VOV GT MEKONG
+59*thumbnail*https://i.imgur.com/OIzhtBi.png
+60*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
+60*title*VOV TV (1080p) [Not 24/7]
+61*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+61*title*VOV1
 61*played*1
 61*author*📻| Radio
-61*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
-62*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-62*title*VOV GT Thành Phố Hồ Chí Minh
+61*thumbnail*https://i.imgur.com/mbPvLmS.png
+62*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+62*title*VOV2
 62*played*1
 62*author*📻| Radio
-62*thumbnail*https://i.imgur.com/OIzhtBi.png
-63*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
-63*title*VOV TV (1080p) [Not 24/7]
+62*thumbnail*https://i.imgur.com/rS7TG49.png
+63*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+63*title*VOV3
+63*played*1
+63*author*📻| Radio
+63*thumbnail*https://i.imgur.com/1ZfyuG0.png
 64*file*https://nvzoftzsvflivcf.vcdn.com.vn/vtv6/index.m3u8
 64*title*VTV Cần Thơ
 64*author*VTV
