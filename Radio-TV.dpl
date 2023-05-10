@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-playtime=499428
-topindex=49
+playname=https://stream.vovmedia.vn/vov5
+playtime=6186
+topindex=44
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 1*title*Animax
@@ -206,43 +206,46 @@ saveplaypos=0
 66*played*1
 66*author*📻| Radio
 66*thumbnail*https://i.imgur.com/1ZfyuG0.png
-67*file*https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-67*title*VTV Cần Thơ
-67*author*VTV
-67*thumbnail*https://cdn.hqth.me/logo/thumbs/8.png
-68*file*https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-68*title*VTV1
+67*file*https://stream.vovmedia.vn/vov5
+67*title*TTLTSXCT_VOV5
+67*played*1
+68*file*https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+68*title*VTV Cần Thơ
 68*author*VTV
-68*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
-69*file*https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-69*title*VTV2
+68*thumbnail*https://cdn.hqth.me/logo/thumbs/8.png
+69*file*https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+69*title*VTV1
 69*author*VTV
-69*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
-70*file*https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-70*title*VTV3
+69*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
+70*file*https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+70*title*VTV2
 70*author*VTV
-70*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
-71*file*https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-71*title*VTV4
+70*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
+71*file*https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+71*title*VTV3
 71*author*VTV
-71*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
-72*file*https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-72*title*VTV5
+71*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
+72*file*https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+72*title*VTV4
 72*author*VTV
-72*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
-73*file*https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
-73*title*VTV5 Tây Nguyên
-74*file*https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-74*title*VTV7
-74*author*VTV
-74*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
-75*file*https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-75*title*VTV8
+72*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
+73*file*https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+73*title*VTV5
+73*author*VTV
+73*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
+74*file*https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
+74*title*VTV5 Tây Nguyên
+75*file*https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+75*title*VTV7
 75*author*VTV
-75*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
-76*file*https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-76*title*VTV9
+75*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
+76*file*https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+76*title*VTV8
 76*author*VTV
-76*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
-77*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-77*title*Weathernews (720p)
+76*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
+77*file*https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+77*title*VTV9
+77*author*VTV
+77*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
+78*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+78*title*Weathernews (720p)
