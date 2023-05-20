@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
 playname=https://strmx.voh.com.vn/radio/channel3/chunklist_w367254057.m3u8
-playtime=572672
-topindex=39
+playtime=574272
+topindex=0
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
 1*title*Animax
@@ -31,7 +31,7 @@ saveplaypos=0
 11*invalid*1
 11*author*🇯🇵| Nhật Bản
 11*thumbnail*https://lh3.googleusercontent.com/-JpO_TLzjOkU/Y1F5b21HQ9I/AAAAAAAABG8/0YYUoGYBmM8N8PM5B783RwTnzc4-wLMBACNcBGAsYHQ/141.png
-12*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/index.m3u8
+12*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/manifest.mpd
 12*title*BS12
 13*file*https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
 13*title*Cartoon Network Vietnam
