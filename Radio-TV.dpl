@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
 playname=https://strmx.voh.com.vn/radio/channel3/chunklist_w367254057.m3u8
-playtime=574240
-topindex=33
+playtime=578720
+topindex=18
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/manifest.mpd
 1*title*Animax
@@ -60,7 +60,7 @@ saveplaypos=0
 22*title*Family Theater
 22*author*CS (v2)
 22*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png
-23*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/index.m3u8
+23*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/manifest.mpd
 23*title*Fuji TV
 23*invalid*1
 23*author*Undefined
