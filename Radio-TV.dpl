@@ -1,6 +1,6 @@
 ﻿DAUMPLAYLIST
 playname=https://strmx.voh.com.vn/radio/channel3/chunklist_w367254057.m3u8
-playtime=574272
+playtime=572288
 topindex=0
 saveplaypos=0
 1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
@@ -15,16 +15,16 @@ saveplaypos=0
 4*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
 5*file*https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
 5*title*Boomerang South East Asia (Vietnamese dub) (1080p)
-6*file*http://redlabmcdn.s.llnwi.net/nv02/bs04hd/index.m3u8
+6*file*http://redlabmcdn.s.llnwi.net/nv02/bs04hd/manifest.mpd
 6*title*BS Asahi
-7*file*http://redlabmcdn.s.llnwi.net/nv02/bs07hd/index.m3u8
+7*file*http://redlabmcdn.s.llnwi.net/nv02/bs07hd/manifest.mpd
 7*title*BS Fuji TV
-8*file*http://redlabmcdn.s.llnwi.net/nv02/bs03hd/index.m3u8
+8*file*http://redlabmcdn.s.llnwi.net/nv02/bs03hd/manifest.mpd
 8*title*BS Nippon TV
 8*played*1
-9*file*http://redlabmcdn.s.llnwi.net/nv02/bs05hd/index.m3u8
+9*file*http://redlabmcdn.s.llnwi.net/nv02/bs05hd/manifest.mpd
 9*title*BS TBS
-10*file*http://redlabmcdn.s.llnwi.net/nv02/bs06hd/index.m3u8
+10*file*http://redlabmcdn.s.llnwi.net/nv02/bs06hd/manifest.mpd
 10*title*BS TV Tokyo
 11*file*https://code.vthanhtivi.pw/getlink/jptv2/157/playlist.m3u8
 11*title*BS11
