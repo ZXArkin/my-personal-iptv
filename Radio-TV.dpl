@@ -1,9 +1,9 @@
 ﻿DAUMPLAYLIST
 playname=https://strmx.voh.com.vn/radio/channel3/chunklist_w367254057.m3u8
-playtime=572288
+playtime=575776
 topindex=0
 saveplaypos=0
-1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/index.m3u8
+1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/manifest.mpd
 1*title*Animax
 2*file*https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
 2*title*ANIMAX ASIA - VIETNAM
