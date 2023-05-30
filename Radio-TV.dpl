@@ -1,260 +1,216 @@
 ﻿DAUMPLAYLIST
-playname=https://strmx.voh.com.vn/radio/channel3/chunklist_w367254057.m3u8
-playtime=578720
-topindex=18
+playname=http://donglao.duckdns.org/vn360sport/viettel.php?id=98
+playtime=47114
+topindex=37
 saveplaypos=0
-1*file*http://redlabmcdn.s.llnwi.net/nv02/bs14hd/manifest.mpd
-1*title*Animax
-2*file*https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
-2*title*ANIMAX ASIA - VIETNAM
-3*file*https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
-3*title*Arirang World
-4*file*https://code.vthanhtivi.pw/getlink/jptv/Nxk7xMmj7dV7iq_k08p2fQ==/playlist.m3u8
-4*title*AT-X
-4*author*CS
-4*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
-5*file*https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
-5*title*Boomerang South East Asia (Vietnamese dub) (1080p)
-6*file*http://redlabmcdn.s.llnwi.net/nv02/bs04hd/manifest.mpd
-6*title*BS Asahi
-7*file*http://redlabmcdn.s.llnwi.net/nv02/bs07hd/manifest.mpd
-7*title*BS Fuji TV
-8*file*http://redlabmcdn.s.llnwi.net/nv02/bs03hd/manifest.mpd
-8*title*BS Nippon TV
-8*played*1
-9*file*http://redlabmcdn.s.llnwi.net/nv02/bs05hd/manifest.mpd
-9*title*BS TBS
-10*file*http://redlabmcdn.s.llnwi.net/nv02/bs06hd/manifest.mpd
-10*title*BS TV Tokyo
-11*file*https://code.vthanhtivi.pw/getlink/jptv2/157/playlist.m3u8
-11*title*BS11
-11*invalid*1
-11*author*🇯🇵| Nhật Bản
-11*thumbnail*https://lh3.googleusercontent.com/-JpO_TLzjOkU/Y1F5b21HQ9I/AAAAAAAABG8/0YYUoGYBmM8N8PM5B783RwTnzc4-wLMBACNcBGAsYHQ/141.png
-12*file*http://redlabmcdn.s.llnwi.net/nv02/bs08hd/manifest.mpd
-12*title*BS12
-13*file*https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
-13*title*Cartoon Network Vietnam
-13*invalid*1
-14*file*http://210.210.155.37/qwr9ew/s/s19/index.m3u8
-14*title*CCTV4 (Asia)
-15*file*http://210.210.155.37/qwr9ew/s/s31/index.m3u8
-15*title*Celestial Classic Movies (Indonesia Sub)
-16*file*http://210.210.155.37/dr9445/h/h14/index.m3u8
-16*title*Celestial Movies (Indonesia Sub)
-17*file*https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-17*title*Discovery
-18*file*https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
-18*title*Discovery Asia HD
-19*file*http://118.107.85.5:1935/radio/dongnai_aac/chunklist_w462744784.m3u8
-19*title*DONG NAI RADIO
-20*file*https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
-20*title*Đồng Nai 1
-20*author*KÊNH ĐỊA PHƯƠNG
-20*thumbnail*https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png
-21*file*https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
-21*title*Đồng Nai 2
-21*author*KÊNH ĐỊA PHƯƠNG
-21*thumbnail*https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png
-22*file*http://rip.hidari.moe/get/jptv/get.php?id=YZdcUvyN3G-Zw8OiuJVXxA==
-22*title*Family Theater
-22*author*CS (v2)
-22*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png
-23*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa7hd/manifest.mpd
-23*title*Fuji TV
-23*invalid*1
-23*author*Undefined
-23*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png
-24*file*http://rip.hidari.moe/get/jptv/get.php?id=3q1U1u-6q9QMDWuMuvpPUA==
-24*title*Fuji TV Two
-24*author*CS (v2)
-24*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_two.png
-25*file*https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
-25*title*Gunma TV (720p)
-25*author*Undefined
-25*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png
-26*file*https://1028513096.vnns.net/fm90/chunks.m3u8
-26*title*HANOI FM-1-News-Traffic
-26*played*1
-27*file*https://1028513096.vnns.net/fm96/chunks.m3u8
-27*title*HANOI FM-2-NEWS
-27*played*1
-28*file*https://1028513096.vnns.net/tv1-abr/playlist.m3u8
-28*title*HANOI TV 1 HD
-29*file*https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
-29*title*HANOI TV 2 HD
-30*file*https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
-30*title*HTV1
-31*file*https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
-31*title*HTV7 HD
-31*author*🇻🇳| HTV - HTVC
-31*thumbnail*https://i.imgur.com/PPFu7pv.png
-32*file*https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
-32*title*HTV9 HD
-32*author*🇻🇳| HTV - HTVC
-32*thumbnail*https://i.imgur.com/1SgC1yo.png
-33*file*http://rip.hidari.moe/get/jptv/get.php?id=vi2tgiOfMprwHEgs9gJxag==
-33*title*Jidaigeki / 時代劇専門チャンネル(v2)
-33*author*CS (v2)
-33*thumbnail*https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png
-34*file*https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
-34*title*Little Saigon TV (US/VN)
-35*file*https://neetball.net/live/neet2.m3u8
-35*title*Neetball-Live-2
-36*file*https://ntv4.mov3.co/hls/ntv.m3u8
-36*title*Nippon TV
-36*author*Undefined
-36*thumbnail*https://i.imgur.com/xHKVbey.png
-37*file*https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-37*title*NTV NEWS 24
-38*file*http://redlabmcdn.s.llnwi.net/nv02/bs01hd/manifest.mpd
-38*title*NHK BS1
-39*file*http://redlabmcdn.s.llnwi.net/nv02/bs02hd/manifest.mpd
-39*title*NHK BSP
-40*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa1hd/manifest.mpd
-40*title*NHK E
-41*file*https://nhk3.mov3.co/hls/nhk.m3u8
-41*title*NHK G
-42*file*https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-42*title*NHK Premium
-42*author*🌏| Quốc tế
-42*thumbnail*https://i.imgur.com/mknS1CV.png
-43*file*http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-43*title*NHK World Japan
-43*author*Quốc Tế
-43*thumbnail*https://i.imgur.com/f3f3d79.png
-44*file*https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263943/live_s.m3u8
-44*title*NHK World Radio Japan
+1*file*https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/playlist.m3u8
+1*title*ANIMAX ASIA - VIETNAM
+1*invalid*1
+2*file*https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
+2*title*Arirang World
+3*file*https://code.vthanhtivi.pw/getlink/jptv/Nxk7xMmj7dV7iq_k08p2fQ==/playlist.m3u8
+3*title*AT-X
+3*author*CS
+3*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
+4*file*https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist.m3u8
+4*title*Boomerang South East Asia (Vietnamese dub) (1080p)
+5*file*https://code.vthanhtivi.pw/getlink/jptv2/157/playlist.m3u8
+5*title*BS11
+5*invalid*1
+5*author*🇯🇵| Nhật Bản
+5*thumbnail*https://lh3.googleusercontent.com/-JpO_TLzjOkU/Y1F5b21HQ9I/AAAAAAAABG8/0YYUoGYBmM8N8PM5B783RwTnzc4-wLMBACNcBGAsYHQ/141.png
+6*file*https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist.m3u8
+6*title*Cartoon Network Vietnam
+6*invalid*1
+7*file*http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+7*title*CCTV4 (Asia)
+8*file*http://210.210.155.37/qwr9ew/s/s31/index.m3u8
+8*title*Celestial Classic Movies (Indonesia Sub)
+9*file*http://210.210.155.37/dr9445/h/h14/index.m3u8
+9*title*Celestial Movies (Indonesia Sub)
+10*file*https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+10*title*Discovery
+11*file*https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+11*title*Discovery Asia HD
+12*file*http://118.107.85.5:1935/radio/dongnai_aac/chunklist_w462744784.m3u8
+12*title*DONG NAI RADIO
+13*file*https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+13*title*Đồng Nai 1
+13*author*KÊNH ĐỊA PHƯƠNG
+13*thumbnail*https://i.ibb.co/9TBsXRP/dongnai1-BEARTV.png
+14*file*https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+14*title*Đồng Nai 2
+14*author*KÊNH ĐỊA PHƯƠNG
+14*thumbnail*https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png
+15*file*http://rip.hidari.moe/get/jptv/get.php?id=YZdcUvyN3G-Zw8OiuJVXxA==
+15*title*Family Theater
+15*author*CS (v2)
+15*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png
+16*file*http://rip.hidari.moe/get/jptv/get.php?id=3q1U1u-6q9QMDWuMuvpPUA==
+16*title*Fuji TV Two
+16*author*CS (v2)
+16*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/fuji_tv_two.png
+17*file*https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+17*title*Gunma TV (720p)
+17*author*Undefined
+17*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Gtv_logo_ja_01.svg/512px-Gtv_logo_ja_01.svg.png
+18*file*https://1028513096.vnns.net/fm90/chunks.m3u8
+18*title*HANOI FM-1-News-Traffic
+18*played*1
+19*file*https://1028513096.vnns.net/fm96/chunks.m3u8
+19*title*HANOI FM-2-NEWS
+19*played*1
+20*file*https://1028513096.vnns.net/tv1-abr/playlist.m3u8
+20*title*HANOI TV 1 HD
+21*file*https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
+21*title*HANOI TV 2 HD
+22*file*https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+22*title*HTV1
+23*file*https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+23*title*HTV7 HD
+23*author*🇻🇳| HTV - HTVC
+23*thumbnail*https://i.imgur.com/PPFu7pv.png
+24*file*https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+24*title*HTV9 HD
+24*author*🇻🇳| HTV - HTVC
+24*thumbnail*https://i.imgur.com/1SgC1yo.png
+25*file*http://rip.hidari.moe/get/jptv/get.php?id=vi2tgiOfMprwHEgs9gJxag==
+25*title*Jidaigeki / 時代劇専門チャンネル(v2)
+25*author*CS (v2)
+25*thumbnail*https://www.lyngsat-logo.com/logo/tv/jj/jidaigeki.png
+26*file*https://media.streambrothers.com:1936/8228/8228/playlist.m3u8
+26*title*Little Saigon TV (US/VN)
+27*file*https://ntv4.mov3.co/hls/ntv.m3u8
+27*title*Nippon TV
+27*invalid*1
+27*author*Undefined
+27*thumbnail*https://i.imgur.com/xHKVbey.png
+28*file*https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+28*title*NTV NEWS 24
+29*file*https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
+29*title*NHK Premium
+29*author*🌏| Quốc tế
+29*thumbnail*https://i.imgur.com/mknS1CV.png
+30*file*http://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+30*title*NHK World Japan
+30*author*Quốc Tế
+30*thumbnail*https://i.imgur.com/f3f3d79.png
+31*file*https://nhkworld.webcdn.stream.ne.jp/www11/radiojapan/all/263943/live_s.m3u8
+31*title*NHK World Radio Japan
+31*played*1
+32*file*https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+32*title*QVC Japan (720p) [Not 24/7]
+33*file*https://stream3.shopch.jp/HLS/master.m3u8
+33*title*Shop Channel (1080p) [Not 24/7]
+34*file*http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
+34*title*TAY NINH RADIO (103.1 Mhz)
+35*file*http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+35*title*TÂY NINH TV-11 (1080p)
+36*file*https://tbs3.mov3.co/hls/tbs.m3u8
+36*title*TBS TV
+37*file*https://code.vthanhtivi.pw/getlink/jptv/9-SZo2YQISIfL52o5p6Wtg==/playlist.m3u8
+37*title*Tokyo MX1
+38*file*https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u
+38*title*Tokyo MX1 (MCasting)
+39*file*https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u
+39*title*Tokyo MX2 (MCasting)
+40*file*https://neetball.net/live/neet2.m3u8
+40*title*Tokyo MX1 (Neetball)
+40*invalid*1
+41*file*https://stream.vovmedia.vn/vov5
+41*title*TTLTSXCT_VOV5
+41*played*1
+42*file*https://stream.vovmedia.vn/fm89
+42*title*TTLTSXCT_VOV89_L
+42*played*1
+43*file*https://strmx.voh.com.vn/radio/channel2/chunklist_w487233168.m3u8
+43*title*VOH1 - 610Khz
+43*played*1
+43*author*📻| Radio
+43*thumbnail*https://i.ibb.co/RTqj6Y9/voh610.png
+44*file*https://strmx.voh.com.vn/live/channel5/chunklist_w1110542895.m3u8
+44*title*VOH2 - 87.7Mhz
 44*played*1
-45*file*https://livevlive.vtvcab.vn/BONGDA_HD/m401_index.m3u8
-45*title*ON FOOTBALL HD
-45*invalid*1
-46*file*https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-46*title*QVC Japan (720p) [Not 24/7]
-47*file*https://stream3.shopch.jp/HLS/master.m3u8
-47*title*Shop Channel (1080p) [Not 24/7]
-48*file*http://202.43.109.142:1935/radio11/tnradio/playlist.m3u8
-48*title*TAY NINH RADIO (103.1 Mhz)
-49*file*http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
-49*title*TÂY NINH TV-11 (1080p)
-50*file*https://tbs3.mov3.co/hls/tbs.m3u8
-50*title*TBS TV
-51*file*http://rip.hidari.moe/get/jptv/get.php?id=9FvJseD6_AtVYU1vxvgzFA==
-51*title*TOKYO MX1
-51*invalid*1
-51*author*Kanto / 関東 (v2)
-51*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
-52*file*https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u
-52*title*Tokyo MX1 (MCasting)
-53*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa8hd/manifest.mpd
-53*title*Tokyo MX1 (480p)
-53*invalid*1
-54*file*http://rip.hidari.moe/get/jptv/get.php?id=u6-t-I0UVIdrkCYJzXFkpg==
-54*title*TOKYO MX2
-54*invalid*1
-54*author*Kanto / 関東 (v2)
-54*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
-55*file*https://stream.vovmedia.vn/vov5
-55*title*TTLTSXCT_VOV5
-55*played*1
-56*file*https://stream.vovmedia.vn/fm89
-56*title*TTLTSXCT_VOV89_L
-56*played*1
-57*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa4hd/manifest.mpd
-57*title*TV Asahi (480p)
-57*played*1
-58*file*http://redlabmcdn.s.llnwi.net/nv02/ryowa6hd/manifest.mpd
-58*title*TV Tokyo
-58*invalid*1
-59*file*https://strmx.voh.com.vn/radio/channel2/chunklist_w487233168.m3u8
-59*title*VOH1 - 610Khz
-59*played*1
-59*author*📻| Radio
-59*thumbnail*https://i.ibb.co/RTqj6Y9/voh610.png
-60*file*https://strmx.voh.com.vn/live/channel5/chunklist_w1110542895.m3u8
-60*title*VOH2 - 87.7Mhz
-60*played*1
-60*author*📻| Radio
-60*thumbnail*https://i.ibb.co/LYGM648/r-voh87.png
-61*file*https://strmx.voh.com.vn/radio/channel1/chunklist_w1479565200.m3u8
-61*title*VOH3 - 95.6Mhz
-61*played*1
-61*author*📻| Radio
-61*thumbnail*https://image.ibb.co/i3ZuJU/r_voh95.png
-62*file*https://strmx.voh.com.vn/radio/channel3/chunklist_w367254057.m3u8
-62*title*VOH4 - 99.9Mhz
-62*played*1
-62*author*📻| Radio
-62*thumbnail*https://image.ibb.co/eTNs59/r_voh99.png
-63*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
-63*title*VOV GT Hà Nội
-63*played*1
-63*author*📻| Radio
-63*thumbnail*https://i.imgur.com/OIzhtBi.png
-64*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
-64*title*VOV GT MEKONG
-64*played*1
-64*author*📻| Radio
-64*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
-65*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
-65*title*VOV GT Thành Phố Hồ Chí Minh
-65*played*1
-65*author*📻| Radio
-65*thumbnail*https://i.imgur.com/OIzhtBi.png
-66*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
-66*title*VOV TV
-67*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-67*title*VOV1
-67*played*1
-67*author*📻| Radio
-67*thumbnail*https://i.imgur.com/mbPvLmS.png
-68*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-68*title*VOV2
-68*played*1
-68*author*📻| Radio
-68*thumbnail*https://i.imgur.com/rS7TG49.png
-69*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
-69*title*VOV3
-69*played*1
-69*author*📻| Radio
-69*thumbnail*https://i.imgur.com/1ZfyuG0.png
-70*file*https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
-70*title*VTV Cần Thơ
-70*author*VTV
-70*thumbnail*https://cdn.hqth.me/logo/thumbs/8.png
-71*file*https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
-71*title*VTV1
-71*author*VTV
-71*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
-72*file*https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
-72*title*VTV2
-72*author*VTV
-72*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
-73*file*https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
-73*title*VTV3
-73*author*VTV
-73*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
-74*file*https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-74*title*VTV4
-74*author*VTV
-74*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
-75*file*https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
-75*title*VTV5
-75*author*VTV
-75*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
-76*file*https://code.vthanhtivi.pw/getlink/tv360/207/2.m3u8
-76*title*VTV5 Tây Nguyên
-77*file*https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-77*title*VTV7
-77*author*VTV
-77*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
-78*file*https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-78*title*VTV8
-78*author*VTV
-78*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
-79*file*https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
-79*title*VTV9
-79*author*VTV
-79*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
-80*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
-80*title*Weathernews (720p)
+44*author*📻| Radio
+44*thumbnail*https://i.ibb.co/LYGM648/r-voh87.png
+45*file*https://strmx.voh.com.vn/radio/channel1/chunklist_w1479565200.m3u8
+45*title*VOH3 - 95.6Mhz
+45*played*1
+45*author*📻| Radio
+45*thumbnail*https://image.ibb.co/i3ZuJU/r_voh95.png
+46*file*https://strm.voh.com.vn/radio/channel3/chunklist_w1153044397.m3u8
+46*title*VOH4 - 99.9Mhz
+46*played*1
+47*file*https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+47*title*VOV GT Hà Nội
+47*played*1
+47*author*📻| Radio
+47*thumbnail*https://i.imgur.com/OIzhtBi.png
+48*file*https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/playlist.m3u8
+48*title*VOV GT MEKONG
+48*played*1
+48*author*📻| Radio
+48*thumbnail*https://raw.githubusercontent.com/PeterHCM/Logo/main/Peter_VOV_Mekong.png
+49*file*https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+49*title*VOV GT Thành Phố Hồ Chí Minh
+49*played*1
+49*author*📻| Radio
+49*thumbnail*https://i.imgur.com/OIzhtBi.png
+50*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
+50*title*VOV TV
+51*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+51*title*VOV1
+51*played*1
+51*author*📻| Radio
+51*thumbnail*https://i.imgur.com/mbPvLmS.png
+52*file*https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+52*title*VOV2
+52*played*1
+52*author*📻| Radio
+52*thumbnail*https://i.imgur.com/rS7TG49.png
+53*file*https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+53*title*VOV3
+53*played*1
+53*author*📻| Radio
+53*thumbnail*https://i.imgur.com/1ZfyuG0.png
+54*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=2
+54*title*VTV1
+54*author*VTV
+54*thumbnail*https://i.pinimg.com/originals/cb/e2/7a/cbe27aaa234aa19ec8693b298b5718c6.png
+55*file*http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
+55*title*VTV2
+55*author*VTV
+55*thumbnail*https://i.pinimg.com/originals/b6/01/e4/b601e4afaf3c5de11b93e6da11563f3b.png
+56*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=4
+56*title*VTV3
+56*author*VTV
+56*thumbnail*https://i.pinimg.com/originals/5a/46/e5/5a46e565ad086932e8afd4ac9393d60f.png
+57*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=108
+57*title*VTV4
+57*author*VTV
+57*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv4.png?1544944575
+58*file*http://live-ali4.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+58*title*VTV5
+58*author*VTV
+58*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png?1544944635
+59*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=207
+59*title*VTV5 Tây Nguyên
+60*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=157
+60*title*VTV5 Tây Nam Bộ
+61*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=98
+61*title*VTV Cần Thơ
+62*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=6
+62*title*VTV7
+62*invalid*1
+62*author*VTV
+62*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv7.png?1544944934
+63*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=115
+63*title*VTV8
+63*author*VTV
+63*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv8.png?1544945092
+64*file*http://donglao.duckdns.org/vn360sport/viettel.php?id=8
+64*title*VTV9
+64*author*VTV
+64*thumbnail*https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv9.png?1544945164
+65*file*http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+65*title*Weathernews (720p)
