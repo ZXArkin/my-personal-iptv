@@ -1,17 +1,17 @@
 ﻿DAUMPLAYLIST
 playname=https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
-playtime=567209
+playtime=582953
 topindex=33
 saveplaypos=0
 1*file*http://sg.tinchuanchuaanh.com:8080/ANIMAX_HD/index.m3u8
 1*title*Animax Asia
 2*file*https://livecdn.fptplay.net/sdb/arirang_hls.smil/chunklist_b2500000.m3u8
 2*title*Arirang World
-3*file*https://code.vthanhtivi.pw/getlink/jptv1/Nxk7xMmj7dV7iq_k08p2fQ==/playlist.m3u8
-3*title*AT-X
+3*file*http://103.82.39.163:8080/AT-X/index.m3u8
+3*title*AT-X (Test)
 3*author*🇯🇵| Nhật Bản 3
 3*thumbnail*http://asian.ynnhcwdf.com:9083/query/s/Nxk7xMmj7dV7iq_k08p2fQ==.jpg?type=live&thumbnail=thumbnail_small.jpg
-4*file*https://code.vthanhtivi.pw/getlink/jptvvn/26/playlist.m3u8
+4*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 4*title*BS ASAHI
 5*file*https://code.vthanhtivi.pw/getlink/jptvvn/38/playlist.m3u8
 5*title*BS Nippon Eiga
@@ -31,7 +31,7 @@ saveplaypos=0
 11*title*Đồng Nai 2
 11*author*KÊNH ĐỊA PHƯƠNG
 11*thumbnail*https://i.ibb.co/6B0LCKJ/dongnai2-BEARTV.png
-12*file*http://code.vthanhtivi.pw/getlink/jptvvn/14/playlist.m3u8
+12*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 12*title*Fuji TV
 12*author*🇯🇵| Nhật Bản 2
 12*thumbnail*https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png
@@ -114,13 +114,13 @@ saveplaypos=0
 38*title*TBS TV
 39*file*http://123.25.238.45:1935/live/radio/chunklist.m3u8
 39*title*Tiền Giang 96.2FM
-40*file*http://code.vthanhtivi.pw/getlink/jptvvn/70/playlist.m3u8
+40*file*http://103.82.39.163:8080/TOKYO-MX-1/index.m3u8
 40*title*Tokyo MX1
 41*file*https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u
 41*title*Tokyo MX1 (MXCasting)
 42*file*https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u
 42*title*Tokyo MX2 (MXCasting)
-43*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+43*file*http://code.vthanhtivi.pw/getlink/jptvvn/15/playlist.m3u8
 43*title*TV Asahi
 43*author*Japan
 43*thumbnail*https://static.epg.best/jp/Asahi1.jp.png
@@ -157,7 +157,7 @@ saveplaypos=0
 50*played*1
 50*author*📻| Radio
 50*thumbnail*https://i.imgur.com/OIzhtBi.png
-51*file*https://lms-public-ingest.swiftfederation.com/vovlive/tv1live.m3u8
+51*file*https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 51*title*VOV TV
 52*file*https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
 52*title*VOV1

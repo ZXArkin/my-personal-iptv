@@ -1,7 +1,7 @@
 ﻿DAUMPLAYLIST
-playname=http://code.vthanhtivi.pw/getlink/jptvvn/1/playlist.m3u8
-playtime=585343
-topindex=35
+playname=https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+playtime=579391
+topindex=28
 saveplaypos=0
 1*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 1*title*NHK BS1
@@ -142,223 +142,49 @@ saveplaypos=0
 44*title*TV Asahi
 44*author*Japan
 44*thumbnail*https://static.epg.best/jp/Asahi1.jp.png
-45*file*http://code.vthanhtivi.pw/getlink/jptvvn/1/playlist.m3u8
-45*title*NHK G
-45*author*🇯🇵| Nhật Bản 2
-45*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
-46*file*http://code.vthanhtivi.pw/getlink/jptvvn/2/playlist.m3u8
-46*title*NHK E
-46*author*🇯🇵| Nhật Bản 2
-46*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png
-47*file*http://code.vthanhtivi.pw/getlink/jptvvn/4/playlist.m3u8
-47*title*NTV
-47*author*🇯🇵| Nhật Bản 2
-47*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png
-48*file*http://code.vthanhtivi.pw/getlink/jptvvn/13/playlist.m3u8
-48*title*TBS
-48*author*🇯🇵| Nhật Bản 2
-48*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png
-49*file*http://code.vthanhtivi.pw/getlink/jptvvn/14/playlist.m3u8
-49*title*Fuji TV
-49*author*🇯🇵| Nhật Bản 2
-49*thumbnail*https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png
-50*file*http://code.vthanhtivi.pw/getlink/jptvvn/15/playlist.m3u8
-50*title*TV Asahi
-50*author*🇯🇵| Nhật Bản 2
-50*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png
-51*file*http://code.vthanhtivi.pw/getlink/jptvvn/16/playlist.m3u8
-51*title*TV Tokyo
-51*author*🇯🇵| Nhật Bản 2
-51*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png
-52*file*http://code.vthanhtivi.pw/getlink/jptvvn/70/playlist.m3u8
-52*title*TOKYO MX1
-52*author*🇯🇵| Nhật Bản 2
-52*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
-53*file*http://code.vthanhtivi.pw/getlink/jptvvn/69/playlist.m3u8
-53*title*NHK G Osaka
-53*author*🇯🇵| Nhật Bản 2
-53*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
-54*file*https://code.vthanhtivi.pw/getlink/jptvvn/17/playlist.m3u8
-54*title*MBS
-54*author*🇯🇵| Nhật Bản 2
-54*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png
-55*file*https://code.vthanhtivi.pw/getlink/jptvvn/18/playlist.m3u8
-55*title*ABC
-55*author*🇯🇵| Nhật Bản 2
-55*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png
-56*file*https://code.vthanhtivi.pw/getlink/jptvvn/19/playlist.m3u8
-56*title*Kansai TV
-56*author*🇯🇵| Nhật Bản 2
-56*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png
-57*file*https://code.vthanhtivi.pw/getlink/jptvvn/20/playlist.m3u8
-57*title*Yomiuri TV
-57*author*🇯🇵| Nhật Bản 2
-57*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png
-58*file*https://code.vthanhtivi.pw/getlink/jptvvn/21/playlist.m3u8
-58*title*TV Osaka
-58*author*🇯🇵| Nhật Bản 2
-58*thumbnail*https://seeklogo.com/images/T/tv-osaka-logo-8BA164D52E-seeklogo.com.png
-59*file*https://code.vthanhtivi.pw/getlink/jptvvn/22/playlist.m3u8
-59*title*SUN TV
-59*author*🇯🇵| Nhật Bản 2
-59*thumbnail*https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png
-60*file*https://code.vthanhtivi.pw/getlink/jptvvn/23/playlist.m3u8
-60*title*NHK BS1
-60*author*🇯🇵| Nhật Bản 2
-60*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png
-61*file*https://code.vthanhtivi.pw/getlink/jptvvn/24/playlist.m3u8
-61*title*NHK BS Premium
-61*author*🇯🇵| Nhật Bản 2
-61*thumbnail*https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png
-62*file*https://code.vthanhtivi.pw/getlink/jptvvn/25/playlist.m3u8
-62*title*BS NTV
-62*author*🇯🇵| Nhật Bản 2
-62*thumbnail*https://i.postimg.cc/wvCmCc2p/t-i-xu-ng.png
-63*file*https://code.vthanhtivi.pw/getlink/jptvvn/26/playlist.m3u8
-63*title*BS Asahi
-63*author*🇯🇵| Nhật Bản 2
-63*thumbnail*https://company.tv-asahi.co.jp/saiyo/group/img/company/logo-bsasahi.png
-64*file*https://code.vthanhtivi.pw/getlink/jptvvn/27/playlist.m3u8
-64*title*BS TBS
-64*author*🇯🇵| Nhật Bản 2
-64*thumbnail*https://www.lyngsat-logo.com/logo/tv/bb/bs-tbs-jp.png
-65*file*https://code.vthanhtivi.pw/getlink/jptvvn/28/playlist.m3u8
-65*title*BS TV Tokyo
-65*author*🇯🇵| Nhật Bản 2
-65*thumbnail*https://www.lyngsat-logo.com/logo/tv/bb/bs-tokyo-jp.png
-66*file*https://code.vthanhtivi.pw/getlink/jptvvn/29/playlist.m3u8
-66*title*BS Fuji
-66*author*🇯🇵| Nhật Bản 2
-66*thumbnail*https://www.zne-iptv.com/wp-content/uploads/2017/10/22-BS-FUJI-770x480.jpg
-67*file*https://code.vthanhtivi.pw/getlink/jptvvn/30/playlist.m3u8
-67*title*WOWOW Prime
-67*author*🇯🇵| Nhật Bản 2
-67*thumbnail*http://www.lyngsat-logo.com/logo/tv/ww/wowow_prime.png
-68*file*https://code.vthanhtivi.pw/getlink/jptvvn/31/playlist.m3u8
-68*title*WOWOW Live
-68*author*🇯🇵| Nhật Bản 2
-68*thumbnail*https://www.lyngsat-logo.com/logo/tv/ww/wowow_live.png
-69*file*https://code.vthanhtivi.pw/getlink/jptvvn/32/playlist.m3u8
-69*title*WOWOW Cinema
-69*author*🇯🇵| Nhật Bản 2
-69*thumbnail*https://www.lyngsat-logo.com/logo/tv/ww/wowow_cinema.png
-70*file*https://code.vthanhtivi.pw/getlink/jptvvn/33/playlist.m3u8
-70*title*Star Channel 1
-70*author*🇯🇵| Nhật Bản 2
-70*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png
-71*file*https://code.vthanhtivi.pw/getlink/jptvvn/34/playlist.m3u8
-71*title*Star Channel 2
-71*author*🇯🇵| Nhật Bản 2
-71*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_2.png
-72*file*https://code.vthanhtivi.pw/getlink/jptvvn/35/playlist.m3u8
-72*title*Star Channel 3
-72*author*🇯🇵| Nhật Bản 2
-72*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_3.png
-73*file*https://code.vthanhtivi.pw/getlink/jptvvn/41/playlist.m3u8
-73*title*Green Channel
-73*author*🇯🇵| Nhật Bản 2
-73*thumbnail*https://www.lyngsat-logo.com/logo/tv/gg/green_channel_jp.png
-74*file*https://code.vthanhtivi.pw/getlink/jptvvn/37/playlist.m3u8
-74*title*BS Animax
-74*author*🇯🇵| Nhật Bản 2
-74*thumbnail*https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png
-75*file*https://code.vthanhtivi.pw/getlink/jptvvn/43/playlist.m3u8
-75*title*J SPORTS 1
-75*author*🇯🇵| Nhật Bản 2
-75*thumbnail*https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png
-76*file*https://code.vthanhtivi.pw/getlink/jptvvn/44/playlist.m3u8
-76*title*J SPORTS 2
-76*author*🇯🇵| Nhật Bản 2
-76*thumbnail*https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png
-77*file*https://code.vthanhtivi.pw/getlink/jptvvn/45/playlist.m3u8
-77*title*J SPORTS 3
-77*author*🇯🇵| Nhật Bản 2
-77*thumbnail*https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png
-78*file*https://code.vthanhtivi.pw/getlink/jptvvn/46/playlist.m3u8
-78*title*J SPORTS 4
-78*author*🇯🇵| Nhật Bản 2
-78*thumbnail*https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png
-79*file*https://code.vthanhtivi.pw/getlink/jptvvn/40/playlist.m3u8
-79*title*BS Fishing Vision
-79*author*🇯🇵| Nhật Bản 2
-79*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png
-80*file*https://code.vthanhtivi.pw/getlink/jptvvn/36/playlist.m3u8
-80*title*WOWOW Plus
-80*author*🇯🇵| Nhật Bản 2
-80*thumbnail*https://www.lyngsat-logo.com/logo/tv/ww/wowow-plus-jp.png
-81*file*https://code.vthanhtivi.pw/getlink/jptvvn/38/playlist.m3u8
-81*title*BS Japan Movie Channel
-81*author*🇯🇵| Nhật Bản 2
-81*thumbnail*https://www.lyngsat-logo.com/logo/tv/nn/nihon_eiga_senmon.png
-82*file*https://code.vthanhtivi.pw/getlink/jptvvn/39/playlist.m3u8
-82*title*Disney Channel
-82*author*🇯🇵| Nhật Bản 2
-82*thumbnail*https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg
-83*file*https://code.vthanhtivi.pw/getlink/jptvvn/59/playlist.m3u8
-83*title*ホームドラマチャンネル / Home Drama Channel
-83*author*🇯🇵| Nhật Bản 2
-83*thumbnail*https://www.lyngsat-logo.com/logo/tv/hh/home-drama-channelpng-jp.png
-84*file*https://code.vthanhtivi.pw/getlink/jptvvn/58/playlist.m3u8
-84*title*東映チャンネル / Toei Channel
-84*author*🇯🇵| Nhật Bản 2
-84*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png
-85*file*https://code.vthanhtivi.pw/getlink/jptvvn/57/playlist.m3u8
-85*title*衛星劇場 / Eisei Gekijo
-85*author*🇯🇵| Nhật Bản 2
-85*thumbnail*https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png
-86*file*https://code.vthanhtivi.pw/getlink/jptvvn/56/playlist.m3u8
-86*title*映画・チャンネルNECO / Neco
-86*author*🇯🇵| Nhật Bản 2
-86*thumbnail*https://www.lyngsat-logo.com/logo/tv/cc/channel-neco-jp.png
-87*file*https://code.vthanhtivi.pw/getlink/jptvvn/141/playlist.m3u8
-87*title*ザ・シネマ / The Cinema
-87*author*🇯🇵| Nhật Bản 2
-87*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/the-cinema-jp.png
-88*file*https://code.vthanhtivi.pw/getlink/jptvvn/49/playlist.m3u8
-88*title*ムービープラス / Movie Plus
-88*author*🇯🇵| Nhật Bản 2
-88*thumbnail*https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png
-89*file*https://code.vthanhtivi.pw/getlink/jptvvn/47/playlist.m3u8
-89*title*スカイ・A / Sky A
-89*author*🇯🇵| Nhật Bản 2
-89*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png
-90*file*https://code.vthanhtivi.pw/getlink/jptvvn/48/playlist.m3u8
-90*title*GAORA SPORTS
-90*author*🇯🇵| Nhật Bản 2
-90*thumbnail*https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png
-91*file*https://code.vthanhtivi.pw/getlink/jptvvn/158/playlist.m3u8
-91*title*日テレジータス / Nittele G+
-91*author*🇯🇵| Nhật Bản 2
-91*thumbnail*https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png
-92*file*https://code.vthanhtivi.pw/getlink/jptvvn/60/playlist.m3u8
-92*title*ファミリー劇場 / Family Gekijyo
-92*author*🇯🇵| Nhật Bản 2
-92*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png
-93*file*https://code.vthanhtivi.pw/getlink/jptvvn/63/playlist.m3u8
-93*title*FOX
-93*author*🇯🇵| Nhật Bản 2
-93*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/fox-us.svg
-94*file*https://code.vthanhtivi.pw/getlink/jptvvn/50/playlist.m3u8
-94*title*MTV
-94*author*🇯🇵| Nhật Bản 2
-94*thumbnail*https://www.lyngsat-logo.com/logo/tv/mm/mtv-us.svg
-95*file*https://code.vthanhtivi.pw/getlink/jptvvn/64/playlist.m3u8
-95*title*キッズステーション / Kids Staton TV
-95*author*🇯🇵| Nhật Bản 2
-95*thumbnail*https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png
-96*file*https://code.vthanhtivi.pw/getlink/jptvvn/71/playlist.m3u8
-96*title*ディズニージュニア / Disney Junior
-96*author*🇯🇵| Nhật Bản 2
-96*thumbnail*https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png
-97*file*https://code.vthanhtivi.pw/getlink/jptvvn/53/playlist.m3u8
-97*title*Discovery Channel
-97*author*🇯🇵| Nhật Bản 2
-97*thumbnail*https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png
-98*file*https://code.vthanhtivi.pw/getlink/jptvvn/51/playlist.m3u8
-98*title*ナショナル ジオグラフィック / National Geographic
-98*author*🇯🇵| Nhật Bản 2
-98*thumbnail*https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-us.svg
-99*file*https://nhkwlive-pre-in.webcdn.stream.ne.jp/hls/live/nhkwlive-pre/index_1M.m3u8
-99*title*NHK World Premium
-99*author*🌏| Quốc tế
-99*thumbnail*https://i.imgur.com/mknS1CV.png
+45*file*https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium/playlist.m3u8
+45*title*NHK World Premium
+45*author*CS
+45*thumbnail*https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-premium-jp.png
+46*file*http://google.com
+46*title*paypal.me/Tieptran1970 | Donate
+46*author*Information
+47*file*https://google.com
+47*title*TEST LIST! report issue in github
+47*author*Information
+48*file*http://103.82.39.163:8080/NHKG/index.m3u8
+48*title*NHK G (Test)
+48*author*Kanto
+48*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
+49*file*http://103.82.39.163:8080/NHKE/index.m3u8
+49*title*NHK E (Test)
+49*author*Kanto
+49*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png
+50*file*http://103.82.39.163:8080/NIPPONTV/index.m3u8
+50*title*NTV (Test)
+50*author*Kanto
+50*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png
+51*file*http://103.82.39.163:8080/TBS/index.m3u8
+51*title*TBS (Test)
+51*author*Kanto
+51*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png
+52*file*http://103.82.39.163:8080/FUJITV/index.m3u8
+52*title*Fuji TV (Test)
+52*author*Kanto
+52*thumbnail*https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/2097px-Fuji_TV_logo.svg.png
+53*file*http://103.82.39.163:8080/TVASAHI/index.m3u8
+53*title*TV Asahi (Test)
+53*author*Kanto
+53*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png
+54*file*http://103.82.39.163:8080/TVTOKYO/index.m3u8
+54*title*TV Tokyo (Test)
+54*author*Kanto
+54*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png
+55*file*http://103.82.39.163:8080/TOKYO-MX-1/index.m3u8
+55*title*TOKYO MX1 (Test)
+55*author*Kanto
+55*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
+56*file*http://103.82.39.163:8080/AT-X/index.m3u8
+56*title*AT-X (Test)
+56*author*Kanto
+56*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
