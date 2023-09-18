@@ -13,7 +13,7 @@ If you slow connection? Use "Cloudflare WARP VPN" to internet fastest!
 
 Also have listen radio.
 
-Supports player: VLC & Potplayer.
+Supports player: VLC, Kodi & Potplayer.
 
 Contact me for email: ltdat2001alt@gmail.com
 
