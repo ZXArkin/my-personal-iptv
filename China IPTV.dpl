@@ -1,0 +1,184 @@
+﻿DAUMPLAYLIST
+playname=http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+topindex=0
+saveplaypos=0
+1*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+1*title*CCTV-1 综合
+1*thumbnail*cctv1.png
+2*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+2*title*CCTV-2 财经
+2*thumbnail*cctv2.png
+3*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+3*title*CCTV-3 综艺
+3*thumbnail*cctv3.png
+4*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+4*title*CCTV-4 中文国际
+4*thumbnail*cctv4.png
+5*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+5*title*CCTV-5 体育
+5*thumbnail*cctv5.png
+6*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+6*title*CCTV-5+ 体育赛事
+6*thumbnail*cctv5plus.png
+7*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+7*title*CCTV-6 电影
+7*thumbnail*cctv6.png
+8*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+8*title*CCTV-7 国防军事
+8*thumbnail*cctv7.png
+9*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+9*title*CCTV-8 电视剧
+9*thumbnail*cctv8.png
+10*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+10*title*CCTV-9 纪录
+10*thumbnail*cctvjilu.png
+11*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+11*title*CCTV-10 科教
+11*thumbnail*cctv10.png
+12*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+12*title*CCTV-11 戏曲
+12*thumbnail*cctv11.png
+13*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+13*title*CCTV-12 社会与法
+13*thumbnail*cctv12.png
+14*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+14*title*CCTV-13 新闻
+14*thumbnail*cctv13.png
+15*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+15*title*CCTV-14 少儿
+15*thumbnail*cctvchild.png
+16*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+16*title*CCTV-15 音乐
+16*thumbnail*cctv15.png
+17*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+17*title*CCTV-16 奥林匹克
+17*thumbnail*cctv16.png
+18*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+18*title*CCTV-17 农业农村
+18*thumbnail*cctv17.png
+19*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
+19*title*安徽卫视
+19*thumbnail*anhui.png
+20*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
+20*title*兵团卫视
+20*thumbnail*bingtuan.png
+21*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
+21*title*北京卫视
+21*thumbnail*btv1.png
+22*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
+22*title*卡酷少儿
+22*thumbnail*btvchild.png
+23*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+23*title*BTV纪实
+23*thumbnail*btvjishi.png
+24*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+24*title*CETV-1
+24*thumbnail*cetv1.png
+25*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
+25*title*CETV-2
+25*thumbnail*cetv2.png
+26*file*http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
+26*title*CETV-3
+26*thumbnail*cetv3.png
+27*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+27*title*CETV-4
+27*thumbnail*cetv4.png
+28*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
+28*title*重庆卫视
+28*thumbnail*chongqing.png
+29*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
+29*title*东方卫视
+29*thumbnail*dongfang.png
+30*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226341/index.m3u8
+30*title*东南卫视
+30*thumbnail*dongnan.png
+31*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225633/index.m3u8
+31*title*甘肃卫视
+31*thumbnail*gansu.png
+32*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+32*title*广东卫视
+32*thumbnail*guangdong.png
+33*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+33*title*广西卫视
+33*thumbnail*guangxi.png
+34*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
+34*title*贵州卫视
+34*thumbnail*guizhou.png
+35*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
+35*title*河北卫视
+35*thumbnail*hebei.png
+36*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
+36*title*黑龙江卫视
+36*thumbnail*heilongjiang.png
+37*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226480/index.m3u8
+37*title*河南卫视
+37*thumbnail*henan.png
+38*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
+38*title*湖北卫视
+38*thumbnail*hubei.png
+39*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+39*title*湖南卫视
+39*thumbnail*hunan.png
+40*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225613/index.m3u8
+40*title*江苏卫视
+40*thumbnail*jiangsu.png
+41*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
+41*title*江西卫视
+41*thumbnail*jiangxi.png
+42*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
+42*title*吉林卫视
+42*thumbnail*jilin.png
+43*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225619/index.m3u8
+43*title*辽宁卫视
+43*thumbnail*liaoning.png
+44*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
+44*title*内蒙古卫视
+44*thumbnail*neimenggu.png
+45*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
+45*title*宁夏卫视
+45*thumbnail*ningxia.png
+46*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225628/index.m3u8
+46*title*青海卫视
+46*thumbnail*qinghai.png
+47*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+47*title*山东教育电视台
+47*thumbnail*sdetv.png
+48*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226456/index.m3u8
+48*title*山东卫视
+48*thumbnail*shandong.png
+49*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225624/index.m3u8
+49*title*山西卫视
+49*thumbnail*shan1xi.png
+50*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
+50*title*陕西卫视
+50*thumbnail*shan3xi.png
+51*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
+51*title*深圳卫视
+51*thumbnail*shenzhen.png
+52*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+52*title*四川卫视
+52*thumbnail*sichuan.png
+53*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
+53*title*天津卫视
+53*thumbnail*tianjin.png
+54*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+54*title*海南卫视
+54*thumbnail*travel.png
+55*file*http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
+55*title*厦门卫视
+55*thumbnail*xiamen.png
+56*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
+56*title*新疆卫视
+56*thumbnail*xinjiang.png
+57*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
+57*title*西藏卫视
+57*thumbnail*xizang.png
+58*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
+58*title*延边卫视
+58*thumbnail*yanbian.png
+59*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226444/index.m3u8
+59*title*云南卫视
+59*thumbnail*yunnan.png
+60*file*http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+60*title*浙江卫视
+60*thumbnail*zhejiang.png

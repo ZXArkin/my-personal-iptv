@@ -1,190 +1,350 @@
 ﻿DAUMPLAYLIST
-playname=https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-playtime=579391
-topindex=28
+playname=http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+playtime=195121
+topindex=20
 saveplaypos=0
-1*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-1*title*NHK BS1
-1*duration2*1000
-2*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-2*title*NHK BS Premium
-2*duration2*1000
-3*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-3*title*BS NTV
-3*duration2*1000
-4*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-4*title*BS Asahi
-4*duration2*1000
-5*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-5*title*BS TBS
-5*duration2*1000
-6*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-6*title*BS TV Tokyo
-6*duration2*1000
-7*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS181&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-7*title*BS Fuji
-7*duration2*1000
-8*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-8*title*WOWOW Prime
-8*duration2*1000
-9*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-9*title*WOWOW Live
-9*duration2*1000
-10*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-10*title*WOWOW Cinema
-10*duration2*1000
-11*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-11*title*Star Channel 1
-11*duration2*1000
-12*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS201&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-12*title*Star Channel 2
-12*duration2*1000
-13*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS202&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-13*title*Star Channel 3
-13*duration2*1000
-14*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-14*title*BS Animax
-14*duration2*1000
-15*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-15*title*BS Sky PerfecTV!
-15*duration2*1000
-16*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-16*title*J Sports 1
-16*duration2*1000
-17*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-17*title*J Sports 2
-17*duration2*1000
-18*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-18*title*J Sports 3
-18*duration2*1000
-19*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-19*title*J Sports 4
-19*duration2*1000
-20*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-20*title*BS Tsuri Vision
-20*duration2*1000
-21*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-21*title*Nippon Eiga Senmon Channel
-21*duration2*1000
-22*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-22*title*Toei Channel
-22*duration2*1000
-23*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS223&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-23*title*Channel Neco
-23*duration2*1000
-24*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-24*title*Movie Plus
-24*duration2*1000
-25*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-25*title*Sky A
-25*duration2*1000
-26*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-26*title*Gaora Sports
-26*duration2*1000
-27*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS257&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-27*title*Nittere G+
-27*duration2*1000
-28*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-28*title*Golf Network
-28*duration2*1000
-29*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-29*title*Jidaigeki Senmon Channel
-29*duration2*1000
-30*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-30*title*Family Gekijo
-30*duration2*1000
-31*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-31*title*Channel Ginga
-31*duration2*1000
-32*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-32*title*Super! Drama TV
-32*duration2*1000
-33*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-33*title*Fox Japan
-33*duration2*1000
-34*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-34*title*Lala TV
-34*duration2*1000
-35*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-35*title*Music On! TV
-35*duration2*1000
-36*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-36*title*Kids Station
-36*duration2*1000
-37*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=CS349&r=HD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-37*title*Nittere News 24
-37*duration2*1000
-38*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-38*title*Nippon TV
-38*author*Japan
-38*thumbnail*https://static.epg.best/jp/NipponTV.jp.png
-39*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS298&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-39*title*Fuji TV (JOCX-DTV)
-39*author*Japan
-39*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE4-081-400x400.png
-40*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS296&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-40*title*TBS (JORX-DTV)
-40*author*Japan
-40*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE3-061-400x400.png
-41*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-41*title*TV Tokyo (JOTX-DTV)
-41*author*Japan
-41*thumbnail*https://static.epg.best/jp/TVTokyo.jp.png
-42*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-42*title*NHK General TV
-42*author*Japan
-42*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE0-011-400x400.png
-43*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-43*title*NHK Educational TV
-43*author*Japan
-43*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/otd/logo-7FE1-021-400x400.png
-44*file*https://stream01.willfonk.com/live_playlist.m3u8?cid=BS295&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-44*title*TV Asahi
-44*author*Japan
-44*thumbnail*https://static.epg.best/jp/Asahi1.jp.png
-45*file*https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium/playlist.m3u8
-45*title*NHK World Premium
-45*author*CS
-45*thumbnail*https://www.lyngsat-logo.com/logo/tv/nn/nhk-world-premium-jp.png
-46*file*http://google.com
-46*title*paypal.me/Tieptran1970 | Donate
-46*author*Information
-47*file*https://google.com
-47*title*TEST LIST! report issue in github
-47*author*Information
-48*file*http://103.82.39.163:8080/NHKG/index.m3u8
-48*title*NHK G (Test)
-48*author*Kanto
-48*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
-49*file*http://103.82.39.163:8080/NHKE/index.m3u8
-49*title*NHK E (Test)
-49*author*Kanto
-49*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png
-50*file*http://103.82.39.163:8080/NIPPONTV/index.m3u8
-50*title*NTV (Test)
-50*author*Kanto
-50*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png
-51*file*http://103.82.39.163:8080/TBS/index.m3u8
-51*title*TBS (Test)
-51*author*Kanto
-51*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png
-52*file*http://103.82.39.163:8080/FUJITV/index.m3u8
-52*title*Fuji TV (Test)
-52*author*Kanto
-52*thumbnail*https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/2097px-Fuji_TV_logo.svg.png
-53*file*http://103.82.39.163:8080/TVASAHI/index.m3u8
-53*title*TV Asahi (Test)
-53*author*Kanto
-53*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png
-54*file*http://103.82.39.163:8080/TVTOKYO/index.m3u8
-54*title*TV Tokyo (Test)
-54*author*Kanto
-54*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png
-55*file*http://103.82.39.163:8080/TOKYO-MX-1/index.m3u8
-55*title*TOKYO MX1 (Test)
-55*author*Kanto
-55*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
-56*file*http://103.82.39.163:8080/AT-X/index.m3u8
-56*title*AT-X (Test)
-56*author*Kanto
-56*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
+1*file*https://google.com
+1*title*We need donations to maintain the host!
+1*author*Information
+2*file*http://google.com
+2*title*Donate: https://ko-fi.com/dinhluong
+2*author*Information
+3*file*http://google.com
+3*title*Test channels are not stable! Report them in Issue if faced any error.
+3*author*Information
+4*file*https://vnpt.nekocdn.xyz/hls/NHK_G/index.m3u8
+4*title*NHK G
+4*author*Tokyo
+4*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
+5*file*https://vnpt.nekocdn.xyz/hls/NHK_E/index.m3u8
+5*title*NHK E
+5*author*Tokyo
+5*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png
+6*file*https://vnpt.nekocdn.xyz/hls/Nippon_TV/index.m3u8
+6*title*NTV
+6*author*Tokyo
+6*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png
+7*file*https://vnpt.nekocdn.xyz/hls/TBS/index.m3u8
+7*title*TBS
+7*author*Tokyo
+7*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png
+8*file*https://vnpt.nekocdn.xyz/hls/Fuji_TV/index.m3u8
+8*title*Fuji TV
+8*author*Tokyo
+8*thumbnail*https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png
+9*file*https://vnpt.nekocdn.xyz/hls/TV_Asahi/index.m3u8
+9*title*TV Asahi
+9*author*Tokyo
+9*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png
+10*file*https://vnpt.nekocdn.xyz/hls/TV_Tokyo/index.m3u8
+10*title*TV Tokyo
+10*author*Tokyo
+10*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png
+11*file*https://vnpt.nekocdn.xyz/hls/Tokyo_MX1/index.m3u8
+11*title*TOKYO MX1
+11*author*Tokyo
+11*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
+12*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01
+12*title*NHKG-540
+12*author*Tokyo
+12*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
+13*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02
+13*title*NHKE-540
+13*author*Tokyo
+13*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png
+14*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd03
+14*title*NTV-540
+14*author*Tokyo
+14*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png
+15*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04
+15*title*TBS-540
+15*author*Tokyo
+15*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png
+16*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05
+16*title*Fuji-540
+16*author*Tokyo
+16*thumbnail*https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png
+17*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06
+17*title*TVAsahi-540
+17*author*Tokyo
+17*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png
+18*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07
+18*title*TVTokyo-540
+18*author*Tokyo
+18*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TV_Tokyo_logo_20110629.svg/2560px-TV_Tokyo_logo_20110629.svg.png
+19*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08
+19*title*TOKYOMX1-540
+19*author*Tokyo
+19*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
+20*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
+20*title*NHK G Osaka
+20*author*Osaka
+20*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
+21*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01
+21*title*MBS
+21*author*Osaka
+21*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/2560px-Mainichi_Broadcasting_System_logo.svg.png
+22*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02
+22*title*ABC
+22*author*Osaka
+22*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/2560px-Asahi_Broadcasting_Corporation_Logo.svg.png
+23*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03
+23*title*Kansai TV
+23*author*Osaka
+23*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/2560px-Ktv_logo.svg.png
+24*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+24*title*Yomiuri TV
+24*author*Osaka
+24*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/2560px-Yomiuri_Telecasting_Corporation_Logo.svg.png
+25*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
+25*title*TV Osaka
+25*author*Osaka
+25*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png
+26*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
+26*title*SUN TV
+26*author*Osaka
+26*thumbnail*https://upload.wikimedia.org/wikipedia/commons/b/b9/SUN-TV_wordmark_2019.png
+27*file*https://vnpt.nekocdn.xyz/hls/NHK_BS/index.m3u8
+27*title*NHK BS
+27*author*BS
+27*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png
+28*file*https://vnpt.nekocdn.xyz/hls/BS11/index.m3u8
+28*title*BS11
+28*author*BS
+28*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png
+29*file*https://vnpt.nekocdn.xyz/hls/Animax/index.m3u8
+29*title*Animax
+29*author*BS
+29*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png
+30*file*https://vnpt.nekocdn.xyz/hls/WOWOW_Prime/index.m3u8
+30*title*WOWOW Prime (nekocdn)
+30*author*BS
+30*thumbnail*https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png
+31*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+31*title*NHK BS
+31*author*BS
+31*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png
+32*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+32*title*NHK BSP 4K
+32*author*BS
+32*thumbnail*https://upload.wikimedia.org/wikipedia/commons/7/77/NHK_BSP4K.png
+33*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02
+33*title*BS NTV
+33*author*BS
+33*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/1200px-BS4_logo.svg.png
+34*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03
+34*title*BS Asahi
+34*author*BS
+34*thumbnail*https://www.lyngsat.com/logo/tv/bb/bs_asahi.png
+35*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04
+35*title*BS TBS
+35*author*BS
+35*thumbnail*https://www.lyngsat.com/logo/tv/bb/bs-tbs-jp.png
+36*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05
+36*title*BS TV Tokyo
+36*author*BS
+36*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/2560px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png
+37*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06
+37*title*BS Fuji HD
+37*author*BS
+37*thumbnail*https://www.bsfuji.tv/top/index/img/sns_img.png
+38*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12
+38*title*WOWOW Prime
+38*author*BS
+38*thumbnail*https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_prime.png
+39*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
+39*title*WOWOW Live
+39*author*BS
+39*thumbnail*https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_live.png
+40*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
+40*title*WOWOW Cinema
+40*author*BS
+40*thumbnail*https://corporate.wowow.co.jp/recruit/assets/img/logo-wowow_cinema.png
+41*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08
+41*title*Star Channel
+41*author*BS
+41*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/star_channel_jp_1.png
+42*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+42*title*BS Animax
+42*author*BS
+42*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1200px-Animax.svg.png
+43*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+43*title*J SPORTS 1
+43*author*BS
+43*thumbnail*https://www.jsports.co.jp/img/icon/ch1.png
+44*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+44*title*J SPORTS 2
+44*author*BS
+44*thumbnail*https://www.jsports.co.jp/img/icon/ch2.png
+45*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+45*title*J SPORTS 3
+45*author*BS
+45*thumbnail*https://www.jsports.co.jp/img/icon/ch3.png
+46*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+46*title*J SPORTS 4
+46*author*BS
+46*thumbnail*https://www.jsports.co.jp/img/icon/ch4.png
+47*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14
+47*title*Green Channel
+47*author*BS
+47*thumbnail*https://www.lyngsat.com/logo/tv/gg/green_channel_jp.png
+48*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23
+48*title*BS Japan Movie Channel
+48*author*BS
+48*thumbnail*https://www.starcat.co.jp/ch/upload/channel/3/nihon-eiga_logo.jpg
+49*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
+49*title*Disney Channel
+49*author*BS
+49*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png
+50*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+50*title*Fishing Vision
+50*author*BS
+50*thumbnail*https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png
+51*file*https://vnpt.nekocdn.xyz/hls/AT-X/index.m3u8
+51*title*AT-X
+51*author*CS
+51*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
+52*file*https://neetball.net/live/neet3.m3u8
+52*title*AT-X (neetball)
+52*author*CS
+52*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
+53*file*https://vnpt.nekocdn.xyz/hls/MTV/index.m3u8
+53*title*MTV
+53*author*CS
+53*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png
+54*file*https://vnpt.nekocdn.xyz/hls/Space_Shower/index.m3u8
+54*title*Space Shower TV (n3ko)
+54*author*CS
+54*thumbnail*https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png
+55*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+55*title*Jidaigeki Senmon
+55*author*CS
+55*thumbnail*https://www.lyngsat.com/logo/tv/jj/jidaigeki.png
+56*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27
+56*title*Toei Channel
+56*author*CS
+56*thumbnail*https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png
+57*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22
+57*title*Eisei Gekijo
+57*author*CS
+57*thumbnail*https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png
+58*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
+58*title*Family Gekijyo
+58*author*CS
+58*thumbnail*https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png
+59*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14
+59*title*Movie Plus
+59*author*CS
+59*thumbnail*https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png
+60*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05
+60*title*Home Drama Channel
+60*author*CS
+60*thumbnail*https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png
+61*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12
+61*title*Tabi Channel
+61*author*CS
+61*thumbnail*https://www.lyngsat.com/logo/tv/tt/tabi_channel.png
+62*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26
+62*title*Fuji TV Next
+62*author*CS
+62*thumbnail*https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png
+63*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+63*title*Sky A
+63*author*CS
+63*thumbnail*https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png
+64*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17
+64*title*GAORA SPORTS
+64*author*CS
+64*thumbnail*https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png
+65*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03
+65*title*Golf Network
+65*author*CS
+65*thumbnail*https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png
+66*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+66*title*Nittele G+
+66*author*CS
+66*thumbnail*https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png
+67*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21
+67*title*Mondo TV
+67*author*CS
+67*thumbnail*https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png
+68*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29
+68*title*Channel Ginga
+68*author*CS
+68*thumbnail*https://www.lyngsat.com/logo/tv/cc/channel_ginga.png
+69*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs26
+69*title*Space Shower TV
+69*author*CS
+69*thumbnail*https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png
+70*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06
+70*title*Music Japan TV
+70*author*CS
+70*thumbnail*https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png
+71*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13
+71*title*Kayo Pops
+71*author*CS
+71*thumbnail*https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png
+72*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+72*title*MTV (2)
+72*author*CS
+72*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png
+73*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
+73*title*LaLa TV
+73*author*CS
+73*thumbnail*https://www.lyngsat.com/logo/tv/ll/lala_tv.png
+74*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28
+74*title*Takarazuka Sky Stage
+74*author*CS
+74*thumbnail*https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png
+75*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+75*title*Kids Staton TV
+75*author*CS
+75*thumbnail*https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png
+76*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+76*title*Cartoon Network
+76*author*CS
+76*thumbnail*https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg
+77*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+77*title*Disney Junior
+77*author*CS
+77*thumbnail*https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png
+78*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+78*title*Discovery Channel
+78*author*CS
+78*thumbnail*https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png
+79*file*http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
+79*title*CNNj
+79*author*CS
+79*thumbnail*https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg
+80*file*http://csui.djtmewibu.com/nhkg/index.m3u8
+80*title*NHK G Osaka (Not Stable)
+80*author*Test
+80*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
+81*file*http://csui.djtmewibu.com/tvk/index.m3u8
+81*title*tvk (Not Stable)
+81*author*Test
+81*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Tvk_logo.svg/1920px-Tvk_logo.svg.png
+82*file*http://csui.djtmewibu.com/tvs/index.m3u8
+82*title*TV Saitama (Not Stable)
+82*author*Test
+82*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Tvs_logo.svg/1920px-Tvs_logo.svg.png
+83*file*http://csui.djtmewibu.com/mx2/index.m3u8
+83*title*Tokyo MX2 (Not Stable)
+83*author*Test
+83*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
+84*file*http://csui.djtmewibu.com/ux21/index.m3u8
+84*title*Niigata UX (Not Stable)
+84*author*Test
+84*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Niigata_UX_logo.svg/1920px-Niigata_UX_logo.svg.png
+85*file*http://csui.djtmewibu.com/rcc/index.m3u8
+85*title*RCC (Not Stable)
+85*author*Test
+85*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Rcc_logo_2022.svg/1920px-Rcc_logo_2022.svg.png
+86*file*http://csui.djtmewibu.com/bs11/index.m3u8
+86*title*BS11 HD (Not Stable)
+86*author*Test
+86*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png
+87*file*http://csui.djtmewibu.com/at-x/index.m3u8
+87*title*AT-X HD (Not Stable)
+87*author*Test
+87*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
