@@ -7,7 +7,8 @@ Included country IPTV:
 
 1. Japan
 
-2. Vietnam
+2. Vietnam...
+
 
 If you slow connection? Use "Cloudflare WARP VPN" to internet fastest!
 
@@ -17,9 +18,8 @@ Supports player: VLC, Kodi & Potplayer.
 
 Contact me for email: ltdat2001alt@gmail.com
 
-Follow me in Twitter: https://twitter.com/zxarkin
+Follow me in X: https://x.com/zxarkin
 
 Discord user: ZXArkin
 
-
-credits for luongz and Vthanhtivi
+credits for luongz and friends.
