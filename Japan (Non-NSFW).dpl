@@ -1,0 +1,281 @@
+﻿DAUMPLAYLIST
+playname=https://vn.utako.moe/entermei_tele/index.m3u8
+playtime=580582
+topindex=8
+saveplaypos=0
+1*file*https://vn.utako.moe/test/intro.mp4/index.m3u8
+1*title*We need donations to maintain the server! | サーバー維持のため寄付募集中！
+1*author*Information
+1*thumbnail*https://i.imgur.com/2OINFaA.png
+2*file*https://vn.utako.moe/test/intro.mp4/index.m3u8
+2*title*Donate/寄付: https://ko-fi.com/dinhluong
+2*author*Information
+2*thumbnail*https://i.imgur.com/vFOBppE.png
+3*file*https://vn.utako.moe/test/intro.mp4/index.m3u8
+3*title*Please refrain from re-sharing those URLs! Read github for details.
+3*author*Information
+3*thumbnail*https://cdn-icons-png.flaticon.com/512/0/49.png
+4*file*https://vn.utako.moe/test/intro.mp4/index.m3u8
+4*title*「utako.moe」リンクURLの他所への転載お断り!!詳細はgithubのREADME
+4*author*Information
+4*thumbnail*https://cdn-icons-png.flaticon.com/512/0/49.png
+5*file*https://vn.utako.moe/NHK_G/index.m3u8
+5*title*NHK G
+5*author*Tokyo
+5*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png
+6*file*https://vn.utako.moe/NHK_E/index.m3u8
+6*title*NHK E
+6*author*Tokyo
+6*thumbnail*https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png
+7*file*https://vn.utako.moe/Nippon_TV/index.m3u8
+7*title*NTV
+7*author*Tokyo
+7*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png
+8*file*https://vn.utako.moe/TBS/index.m3u8
+8*title*TBS
+8*author*Tokyo
+8*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png
+9*file*https://vn.utako.moe/Fuji_TV/index.m3u8
+9*title*Fuji TV
+9*author*Tokyo
+9*thumbnail*https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png
+10*file*https://vn.utako.moe/TV_Asahi/index.m3u8
+10*title*TV Asahi
+10*author*Tokyo
+10*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png
+11*file*https://vn.utako.moe/TV_Tokyo/index.m3u8
+11*title*TV Tokyo
+11*author*Tokyo
+11*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png
+12*file*https://vn.utako.moe/Tokyo_MX1/index.m3u8
+12*title*TOKYO MX1
+12*author*Tokyo
+12*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
+13*file*https://vn.utako.moe/Tokyo_MX2/index.m3u8
+13*title*TOKYO MX2
+13*author*Tokyo
+13*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png
+14*file*https://vn.utako.moe/mbs/index.m3u8
+14*title*MBS
+14*author*Kansai
+14*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png
+15*file*https://vn.utako.moe/abc/index.m3u8
+15*title*ABC
+15*author*Kansai
+15*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png
+16*file*https://vn.utako.moe/tvo/index.m3u8
+16*title*TV Osaka
+16*author*Kansai
+16*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png
+17*file*https://vn.utako.moe/kansaitv/index.m3u8
+17*title*Kansai TV
+17*author*Kansai
+17*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png
+18*file*https://vn.utako.moe/ytv/index.m3u8
+18*title*ytv
+18*author*Kansai
+18*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png
+19*file*https://vn.utako.moe/kbs/index.m3u8
+19*title*KBS
+19*author*Kansai
+19*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png
+20*file*https://vn.utako.moe/suntv/index.m3u8
+20*title*SUN
+20*author*Kansai
+20*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png
+21*file*https://vn.utako.moe/NHK_BS/index.m3u8
+21*title*NHK BS
+21*author*BS
+21*thumbnail*https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png
+22*file*https://vn.utako.moe/Animax/index.m3u8
+22*title*Animax
+22*author*BS
+22*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png
+23*file*https://vn.utako.moe/bs10/index.m3u8
+23*title*BS10
+23*author*BS
+23*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Japan_BS10_logo.svg/250px-Japan_BS10_logo.svg.png
+24*file*https://vn.utako.moe/BS11/index.m3u8
+24*title*BS11
+24*author*BS
+24*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png
+25*file*https://vn.utako.moe/bs12/index.m3u8
+25*title*BS12
+25*author*BS
+25*thumbnail*https://www.lyngsat.com/logo/tv/bb/bs-12-jp.png
+26*file*https://vn.utako.moe/bsp4k/index.m3u8
+26*title*NHK BS4K
+26*author*BS
+26*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png
+27*file*https://vn.utako.moe/bsntv/index.m3u8
+27*title*BS NTV
+27*author*BS
+27*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png
+28*file*https://vn.utako.moe/bsasahi/index.m3u8
+28*title*BS Asahi
+28*author*BS
+28*thumbnail*https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg
+29*file*https://vn.utako.moe/bstbs/index.m3u8
+29*title*BS TBS
+29*author*BS
+29*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png
+30*file*https://vn.utako.moe/bstvtokyo/index.m3u8
+30*title*BS TV Tokyo
+30*author*BS
+30*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png
+31*file*https://vn.utako.moe/bsfuji/index.m3u8
+31*title*BS Fuji
+31*author*BS
+31*thumbnail*https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png
+32*file*https://vn.utako.moe/bstx4k/index.m3u8
+32*title*BS TV Tokyo 4K (test)
+32*author*BS
+32*thumbnail*https://www2.myjcom.jp/special/common/channel_logo/bs_tv_tokyo_4k.jpg
+33*file*https://vn.utako.moe/wprime/index.m3u8
+33*title*WOWOW Prime
+33*author*BS
+33*thumbnail*https://www.lyngsat.com/logo/tv/ww/wowow_prime.png
+34*file*https://vn.utako.moe/wcinema/index.m3u8
+34*title*WOWOW Cinema
+34*author*BS
+34*thumbnail*https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png
+35*file*https://vn.utako.moe/wlive/index.m3u8
+35*title*WOWOW Live
+35*author*BS
+35*thumbnail*https://www.lyngsat.com/logo/tv/ww/wowow_live.png
+36*file*https://vn.utako.moe/bs10_star/index.m3u8
+36*title*BS 10 Star Channel
+36*author*BS
+36*thumbnail*https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png
+37*file*https://vn.utako.moe/js1/index.m3u8
+37*title*JSport 1
+37*author*BS
+37*thumbnail*https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg
+38*file*https://vn.utako.moe/js2/index.m3u8
+38*title*JSport 2
+38*author*BS
+38*thumbnail*https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg
+39*file*https://vn.utako.moe/js3/index.m3u8
+39*title*JSport 3
+39*author*BS
+39*thumbnail*https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg
+40*file*https://vn.utako.moe/js4/index.m3u8
+40*title*JSport 4
+40*author*BS
+40*thumbnail*https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg
+41*file*https://vn.utako.moe/green/index.m3u8
+41*title*Green Channel
+41*author*BS
+41*thumbnail*https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg
+42*file*https://vn.utako.moe/gaora/index.m3u8
+42*title*Gaora Sports
+42*author*BS
+42*thumbnail*https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg
+43*file*https://vn.utako.moe/skya/index.m3u8
+43*title*Sky A
+43*author*BS
+43*thumbnail*https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg
+44*file*https://vn.utako.moe/nihon_eiga/index.m3u8
+44*title*Nihon Eiga Senmon
+44*author*CS
+44*thumbnail*https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png
+45*file*https://vn.utako.moe/spaceshower/index.m3u8
+45*title*Space Shower TV
+45*author*CS
+45*thumbnail*https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg
+46*file*https://vn.utako.moe/mtv/index.m3u8
+46*title*MTV
+46*author*CS
+46*thumbnail*https://www.lyngsat.com/logo/tv/mm/mtv-us.svg
+47*file*https://vn.utako.moe/kayopops/index.m3u8
+47*title*Kayo Pops
+47*author*CS
+47*thumbnail*https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg
+48*file*https://vn.utako.moe/AT-X/index.m3u8
+48*title*AT-X
+48*author*CS
+48*thumbnail*https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png
+49*file*https://vn.utako.moe/disneychan/index.m3u8
+49*title*Disney Channel
+49*author*CS
+49*thumbnail*https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg
+50*file*https://vn.utako.moe/cartoon_network/index.m3u8
+50*title*Cartoon Network Japan
+50*author*CS
+50*thumbnail*https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg
+51*file*https://vn.utako.moe/ntvgplus/index.m3u8
+51*title*Nittele G+
+51*author*CS
+51*thumbnail*https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png
+52*file*https://vn.utako.moe/familygeki/index.m3u8
+52*title*Family Gekijyo
+52*author*CS
+52*thumbnail*https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png
+53*file*https://vn.utako.moe/mondo/index.m3u8
+53*title*Mondo TV
+53*author*CS
+53*thumbnail*https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png
+54*file*https://vn.utako.moe/tbsch1/index.m3u8
+54*title*TBS Channel 1
+54*author*CS
+54*thumbnail*https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png
+55*file*https://vn.utako.moe/tbsch2/index.m3u8
+55*title*TBS Channel 2
+55*author*CS
+55*thumbnail*https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png
+56*file*https://vn.utako.moe/ex_ch1/index.m3u8
+56*title*TV Asahi Channel 1
+56*author*CS
+56*thumbnail*https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png
+57*file*https://vn.utako.moe/ex_ch2/index.m3u8
+57*title*TV Asahi Channel 2
+57*author*CS
+57*thumbnail*https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png
+58*file*https://vn.utako.moe/fuji_one/index.m3u8
+58*title*Fuji TV ONE
+58*author*CS
+58*thumbnail*https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png
+59*file*https://vn.utako.moe/fuji_two/index.m3u8
+59*title*Fuji TV TWO
+59*author*CS
+59*thumbnail*https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png
+60*file*https://vn.utako.moe/fuji_next/index.m3u8
+60*title*Fuji TV NEXT
+60*author*CS
+60*thumbnail*https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png
+61*file*https://vn.utako.moe/neco/index.m3u8
+61*title*Neco Channel
+61*author*CS
+61*thumbnail*https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png
+62*file*https://vn.utako.moe/dlife/index.m3u8
+62*title*Dlife
+62*author*CS
+62*thumbnail*https://www.lyngsat.com/logo/tv/dd/dlife-jp.png
+63*file*https://vn.utako.moe/toei/index.m3u8
+63*title*Toei Channel
+63*author*CS
+63*thumbnail*https://www.lyngsat.com/logo/tv/tt/toei_channel.png
+64*file*https://vn.utako.moe/fighting_tv/index.m3u8
+64*title*Fighting TV Samurai
+64*author*CS
+64*thumbnail*https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png
+65*file*https://vn.utako.moe/entermei_tele/index.m3u8
+65*title*Entermei Tele
+65*author*CS
+65*thumbnail*https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png
+66*file*https://vn.utako.moe/sport_live_plus/index.m3u8
+66*title*Sport Live Plus
+66*author*CS
+66*thumbnail*https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png
+67*file*https://vn.utako.moe/homedrama/index.m3u8
+67*title*Home Drama Channel
+67*author*CS
+67*thumbnail*https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png
+68*file*https://vn.utako.moe/gingach/index.m3u8
+68*title*Channel Ginga
+68*author*CS
+68*thumbnail*https://www.lyngsat.com/logo/tv/cc/channel_ginga.png
+69*file*https://vn.utako.moe/tabi/index.m3u8
+69*title*Tabi Channel
+69*author*CS
+69*thumbnail*https://www.lyngsat.com/logo/tv/tt/tabi_channel.png
