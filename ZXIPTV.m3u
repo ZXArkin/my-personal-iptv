@@ -209,6 +209,10 @@ https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="angiang3" group-title="Địa phương" tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV3 | TH An Giang 3
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+#EXTINF:-1 tvg-id="binhduong1"group-title="Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="binhduong2" group-title="Địa phương" tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2
+https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="Địa phương" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 Bchannel
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="Địa phương" tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV | TH Cà Mau
@@ -237,6 +241,8 @@ https://freem3u.xyz/api/live/play.m3u8?vid=50
 https://freem3u.xyz/api/live/play.m3u8?vid=72
 #EXTINF:-1 tvg-id="tayninh2" group-title="Địa phương" tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV2 | TH Tây Ninh 2
 https://freem3u.xyz/api/live/play.m3u8?vid=86
+#EXTINF:-1 tvg-id="vungtau"group-title="Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT | TH Vũng Tàu
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang1" group-title="Địa phương" tvg-logo="https://i.imgur.com/EdXvjrH.png",DNRT1 | TH Đà Nẵng 1
 https://live.fptplay53.net/epzsd1/danang1_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="danang2" group-title="Địa phương" tvg-logo="https://i.imgur.com/6SujuqZ.png",DNRT2 | TH Đà Nẵng 2
@@ -366,13 +372,21 @@ http://125hvt.ddns.net:21585/tlc/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://xem.hoiquan.Click/BMT/abcaustralia/DoiTacDongGop.m3u8
 #EXTINF:0 tvg-id="BBC News" group-title="Quốc tế" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News
-https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2063
+https://mc-y23j21hvtq.bunny.run/dtv/2063/master.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="bloomberg" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
-https://hls.mskycdn.online/tv/bloomberg/index.m3u8
+https://66e4bbba.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfQmxvb21iZXJnVFZQbHVzX0hMUw/playlist.m3u8
 #EXTINF:-1 tvg-id="cna" group-title="Quốc tế" tvg-logo="https://i.imgur.com/awIDugE.png",CNA
 https://i.mjh.nz/.r/channel-news-asia.m3u8
 #EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://i.imgur.com/05S3yYZ.png",CNN
-https://viamotionhsi.netplus.ch/live/eds/cnn/browser-HLS8/cnn.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:inputstream.adaptive.license_type=widevine
+#KODIPROP:inputstream.adaptive.license_key=https://dtv-wv.b-cdn.net/channel?ccid=2601
+https://mc-y23j21hvtq.bunny.run/dtv/2601/master.m3u8
 #EXTINF:-1 tvg-id="cnbc" group-title="Quốc tế" tvg-logo="https://i.ibb.co/h7xsfby/cnbc.png",CNBC
 https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8
 #EXTINF:-1 tvg-id="dw" group-title="Quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
@@ -406,12 +420,12 @@ https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/.m3u8
 #EXTINF:-1 tvg-id="france24eng" group-title="Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Das_Erste_2014.svg/2880px-Das_Erste_2014.svg.png", Das Erste International
 https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="RTPInternacional.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacional.png",RTP Internacional
-#EXTVLCOPT:http-user-agent=IE
-https://streaming-live.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+http://162.212.178.69:4242/bysid/608
 #EXTINF:-1 tvg-id="RTNews.ru" group-title="Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a0/Russia-today-logo.svg/revision/latest/scale-to-width-down/200?cb=20180603181710", Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="pervy-kanal-eu" group-title="Quốc tế" tvg-logo="https://picon.ml/pervy-kanal-eu.png", OPT1
-https://pkvc-hls.cdnvideo.ru/Poehali/smil:Poehali.smil/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.skynetconnect.online/live/210.m3u8
 #EXTINF:-1 tvg-id="rtr-planeta-azia" group-title="Quốc tế" tvg-logo="https://picon.ml/rtr-planeta.png", RTR Planeta
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
 #EXTINF:-1 group-title="Quốc tế" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://i.imgur.com/tpqsFzm.png",Russia 24 International
@@ -420,7 +434,8 @@ https://player.smotrim.ru/iframe/stream/live_id/3214d57c-8651-435a-938c-be13bfd0
 #EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
 https://streaming.skynetconnect.online/live/213.m3u8
 #EXTINF:-1 tvg-id="rentv-int" group-title="Quốc tế" tvg-logo="https://i.imgur.com/0Tu5lte.png",РЕН ТВ International
-https://cdn1.skygo.mn/live/disk1/RenTV/HLS-FTA/RenTV.m3u8
+#EXTVLCOPT:http-referrer=https://televizor24tochka.ru/
+https://streaming.televizor-24-tochka.ru/live/14.m3u8
 #EXTINF:-1 group-title="Quốc tế" tvg-id="cubavi.tv.vodafone.pt" tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Cubavisión-Internacional.png",Cubavisión Internacional
 #EXTVLC:http-referrer=https://teveo.cu/
 https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/playlist.m3u8
@@ -462,26 +477,26 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 https://v2h.946985.qzz.io/live/ylxw/stream.m3u8
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="", TVB Xing He
 https://v2h.946985.qzz.io/live/tvbxh/stream.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="", Phoenix Movies Channel
+http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
 
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Mỹ" tvg-id="KYOUDT2.us",NBC
-https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_NBC/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-id="KMIZDT1.us",ABC 
-https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
+https://fl1.moveonjoy.com/FL_Tampa_ABC/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-logo="https://i.imgur.com/bHIK943.png",CBS
-https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_CBS/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-id="KQFXLD1.us",FOX
-https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
+https://fl1.moveonjoy.com/FL_West_Palm_Beach_FOX/index.m3u8
 #EXTINF:-1 group-title="Mỹ" tvg-logo="https://i.imgur.com/Njl2UVf.png", PBS
-https://cvtv.cvalley.net/hls/KCPTPBS/KCPTPBS.m3u8
-#EXTINF:-1 group-title="Mỹ" tvg-id="CBC",CBC
-http://cord-cutter.net:8080/hq3y4G/234247/57385
+https://cvtv.cvalley.net/hls/KMOSPBS/KMOSPBS.m3u8
 
 #EXTINF:-1 group-title="Anh Quốc", BBC News Channel
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.m3u8
 #EXTINF:-1 group-title="Anh Quốc", BBC One
-http://86.156.254.56:4202/bysid/17545
+http://88.98.244.12:9981/stream/channelid/171213643?profile=pass
 #EXTINF:-1 group-title="Anh Quốc", BBC Two
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8
@@ -492,7 +507,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 group-title="Anh Quốc", BBC Parliament
-http://86.156.254.56:4200/bysid/4736
+http://88.98.244.12:9981/stream/channelid/1021877991?profile=pass
 #EXTINF:-1 group-title="Anh Quốc", CBBC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
@@ -500,7 +515,7 @@ https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
 #EXTINF:-1 group-title="Anh Quốc", ITV1
-http://86.156.254.56:4202/bysid/17609
+http://88.98.244.12:9981/stream/channelid/901577102?profile=pass
 #EXTINF:-1 group-title="Anh Quốc", ITV2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8
@@ -522,6 +537,18 @@ https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8
 #EXTINF:-1 group-title="Anh Quốc", Channel 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://viamotionhsi.netplus.ch/live/eds/channel5/browser-HLS8/channel5.m3u8
+#EXTINF:0 group-title="Anh Quốc",RTE One
+http://10.0.12.252:4200/bysid/2101
+#EXTINF:0 group-title="Anh Quốc",RTE2 +1
+http://10.0.12.252:4200/bysid/2102
+#EXTINF:0 group-title="Anh Quốc",Virgin Media 3
+http://10.0.12.252:4200/bysid/2103
+#EXTINF:0 group-title="Anh Quốc",Virgin Media 4
+http://10.0.12.252:4200/bysid/2107
+#EXTINF:0 group-title="Anh Quốc",RTE One +1
+http://10.0.12.252:4200/bysid/2111
+#EXTINF:0 group-title="Anh Quốc",RTE Junior
+http://10.0.12.252:4200/bysid/2117
 
 --------------------------------------------------------------------------------
 
@@ -679,8 +706,6 @@ https://ncdn.telewebion.com/irinn2/live/playlist.m3u8
 http://178.212.71.253:8000/play/62/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал
 http://178.212.71.253:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал +4
-https://hoiquan.click/OPT1_HANOITIME
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ4
 http://178.212.71.253:8000/play/106/index.m3u8
 #EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ
@@ -1180,72 +1205,104 @@ https://ext.cdn.nashnet.tv/228.0.3.231/index.m3u8
 --------------------------------------------------------------------------------
 
 
-#EXTINF:-1 group-title="Tàu Cộng",CCTV1
-https://live.catvod.com/live.php?id=cctv1&token=265399b3355c812689d07abd83c8ef27d1ca30e0580ee06e9ac5fe45ce287e6c%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV2
-https://live.catvod.com/live.php?id=cctv2&token=9c4acfe72760c836f39b32da4939f8e98f4d8ff2ced9ff76b8543052903d1723%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV3
-https://live.catvod.com/live.php?id=cctv3&token=54398e1ca6a32bf30c781460a68540df44055d1165b8643dce9cd8d4e445af23%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV4
-https://live.catvod.com/live.php?id=Cctv4&token=416bd1e3b49d15356c8e4a4db2909a5ed6647a714e3ce16b259faa5b38f074cb%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV4
-https://live.catvod.com/live.php?id=cctv4&token=60e269c7d02794a6a30e22b9361a8922ad72e183828ea7a459b6eb8c2911c30c%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV5
-https://live.catvod.com/live.php?id=cctv5&token=3c838ca44fadd6982aa0aa75d962393f49d7b52251f6f191b04243a62f7dc6b9%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV5+
-https://live.catvod.com/live.php?id=cctv5plus&token=decd7ff7a2f2f0f578db09d3e906b1579848dcbb714964b8fd4f3aeb85c472b9%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV6
-https://live.catvod.com/live.php?id=cctv6&token=11caf45cc0bf428e3624a30e0995b78e5c6eeec19230ef56df9051ea69470dd7%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV7
-https://live.catvod.com/live.php?id=cctv7&token=6d4e0a05bf4ef02a7ce50a1a83b1a069c231c481ba8b97458bfb524dc384e594%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV8
-https://live.catvod.com/live.php?id=cctv8hd&token=ed607b995da21fbb1b08a1feaa79e0e5daa3d24ce50f51ab511f9ec5b857b022%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV9
-https://live.catvod.com/live.php?id=cctv9hd&token=a797973aa55d44a2fbce9e95faed2b82252a5c1c001ef505e6b1a45644a74c0c%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV10
-https://live.catvod.com/live.php?id=cctv10hd&token=b429d97ca6ad97f8eb6d40f6791f45004d0ad40e8cc76083bd38eb50078ef41c%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV11
-https://live.catvod.com/live.php?id=cctv11&token=e52c3013a5e03ccffae05bc62ced30d7fa9dffc955d33bab204df3bd492f0bf8%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV-12
-https://live.catvod.com/live.php?id=cctv12&token=0e9cea5536c38fff3d64ab9a1526168ce6ec508ba409fb6cc3eb9fdc71286051%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV-13
-https://live.catvod.com/live.php?id=cctv13&token=b41ca430e493756eb2d7384ad9381a259e7ba46dd4e5597cfda0f497b3b77a38%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV-14
-https://live.catvod.com/live.php?id=cctv14&token=872fb4d3aff1a97ca195112ac27c6140fa1260395d0eb68e97ff3504cb71eaae%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV-15
-https://live.catvod.com/live.php?id=cctv15&token=ea115314b53d90700113e9c2a617adb45cc30b6fd6d7bcfa5f4d91cf6429a3a7%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV-16
-https://live.catvod.com/live.php?id=cctv16&token=341f4d7eee4c851fd5077da25552f508d918f69b652141184b76e0610e3a52af%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CCTV-17
-https://live.catvod.com/live.php?id=cctv17&token=9201b524498efc68e80e473cfd036c37504b4d1e56b0bccb258f07fb0621280e%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",湖南卫视
-https://live.catvod.com/live.php?id=hunan_twn&token=3ea8a7ef720c19151236f3221ee1cbd857735b4860b112844fd2f477ddcaa754%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",浙江卫视
-https://live.catvod.com/live.php?id=zhejiang_twn&token=3be7625fa52a010818da77c64b5ccb66d9e292de20bd86ebe9c5aa63afbd8e95%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",江苏卫视
-https://live.catvod.com/live.php?id=jiangsu_twn&token=1138ccf2f0635e8c3bd8e3e763693c02cefd2ab81a32680a41bddcbc3df6d0fe%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",东方卫视
-https://live.catvod.com/live.php?id=dongfangweishi_twn&token=998a93eaa40555e732c15424f6d8b5f725b48d75af83277a9980684adad58c92%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",北京卫视
-https://live.catvod.com/live.php?id=beijing&token=be892eda615f5b2c969e179ade568c9543a7a6aeb69c607599dc0f223e60c1c1%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",深圳卫视
-https://live.catvod.com/live.php?id=shenzhen&token=156aa963e0a4f414b46462fe5cf600bf94c7ab02f8b70459cb5261426a13ffad%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",广东卫视
-https://live.catvod.com/live.php?id=guangdongweishi_twn&token=66cdcc8570af75d1601b8fb9a8a593535e7d1caee77e1ddb75d12db9bce129d8%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",大湾区卫视
-https://live.catvod.com/live.php?id=nanfang_twn&token=b103b0f131e50e97f8e4c7453504d3fbeb9ba183b8ff0b37bbe6f4dfb48b1832%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",珠江
-https://live.catvod.com/live.php?id=zhujiang&token=10622d851addc9cb46e258679f3764458b849dfb169bbccb2a359eaddf9fb77e%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",东南卫视
-https://live.catvod.com/live.php?id=fujian&token=be59fd804092a8799d27dae53a628a378720ff42cdf9fa822835ba7d9a03778e%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",广西卫视
-https://live.catvod.com/live.php?id=guangxi&token=b23e75521b7f2ffabfb830df345970902c07f3695ae9d56aebf6cb6785d7cf0c%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",湖北卫视
-https://live.catvod.com/live.php?id=hubei&token=88c96170a0e32833257fd7e2aa9656245900d98e403c31776d84a36029c9ebf7%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",四川卫视
-https://live.catvod.com/live.php?id=sichuan_twn&token=9f1636955a468e1b9eda0d7d8467dfb02c38d5eaa4c0d1572a15fb53feeb9b92%3A1761441368%3AMTE4LjY4LjIxNS4x
-#EXTINF:-1 group-title="Tàu Cộng",CGTN
-https://live.catvod.com/live.php?id=CGTN&token=8544918c6a7aa986abe7cd929803e8123f1e480c1ad10d92da4e9fc2ce104c61%3A1761441368%3AMTE4LjY4LjIxNS4x
+#EXTINF:-1 tvg-name="CCTV1" group-title="Tàu Cộng",CCTV-1 综合
+http://123.14.180.161:8899/hls/1/index.m3u8
+#EXTINF:-1 tvg-name="CCTV2" group-title="Tàu Cộng",CCTV-2 财经
+http://123.14.180.161:8899/hls/2/index.m3u8
+#EXTINF:-1 tvg-name="CCTV3" group-title="Tàu Cộng",CCTV-3 综艺
+http://123.14.180.161:8899/hls/3/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" group-title="Tàu Cộng",CCTV-4 中文国际
+http://123.14.180.161:8899/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5" group-title="Tàu Cộng",CCTV-5 体育
+http://123.14.180.161:8899/hls/5/index.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" group-title="Tàu Cộng",CCTV-5+ 体育赛事
+http://123.14.180.161:8899/hls/18/index.m3u8
+#EXTINF:-1 tvg-name="CCTV6" group-title="Tàu Cộng",CCTV-6 电影
+http://123.14.180.161:8899/hls/6/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" group-title="Tàu Cộng",CCTV-7 国防军事
+http://123.14.180.161:8899/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" group-title="Tàu Cộng",CCTV-8 电视剧
+http://123.14.180.161:8899/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV9" group-title="Tàu Cộng",CCTV-9 纪录
+http://123.14.180.161:8899/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" group-title="Tàu Cộng",CCTV-10 科教
+http://123.14.180.161:8899/hls/10/index.m3u8
+#EXTINF:-1 tvg-name="CCTV11" group-title="Tàu Cộng",CCTV-11 戏曲
+http://123.14.180.161:8899/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" group-title="Tàu Cộng",CCTV-12 社会与法
+http://123.14.180.161:8899/hls/12/index.m3u8
+#EXTINF:-1 tvg-name="CCTV13" group-title="Tàu Cộng",CCTV-13 新闻
+http://123.14.180.161:8899/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" group-title="Tàu Cộng",CCTV-14 少儿
+http://123.14.180.161:8899/hls/14/index.m3u8
+#EXTINF:-1 tvg-name="CCTV15" group-title="Tàu Cộng",CCTV-15 音乐
+http://123.14.180.161:8899/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV16" group-title="Tàu Cộng",CCTV-16 奥林匹克
+http://27.129.145.110:4433/hls/16/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" group-title="Tàu Cộng",CCTV-17 农业农村
+http://123.14.180.161:8899/hls/17/index.m3u8
+#EXTINF:-1 tvg-name="浙江卫视" group-title="Tàu Cộng",浙江卫视
+http://123.14.180.161:8899/hls/33/index.m3u8
+#EXTINF:-1 tvg-name="东方卫视" group-title="Tàu Cộng",东方卫视
+http://123.14.180.161:8899/hls/34/index.m3u8
+#EXTINF:-1 tvg-name="江苏卫视" group-title="Tàu Cộng",江苏卫视
+http://123.14.180.161:8899/hls/35/index.m3u8
+#EXTINF:-1 tvg-name="北京卫视" group-title="Tàu Cộng",北京卫视
+http://123.14.180.161:8899/hls/36/index.m3u8
+#EXTINF:-1 tvg-name="广东卫视" group-title="Tàu Cộng",广东卫视
+http://123.14.180.161:8899/hls/37/index.m3u8
+#EXTINF:-1 tvg-name="黑龙江卫视" group-title="Tàu Cộng",黑龙江卫视
+http://123.14.180.161:8899/hls/38/index.m3u8
+#EXTINF:-1 tvg-name="山东卫视" group-title="Tàu Cộng",山东卫视
+http://123.14.180.161:8899/hls/39/index.m3u8
+#EXTINF:-1 tvg-name="安徽卫视" group-title="Tàu Cộng",安徽卫视
+http://123.14.180.161:8899/hls/40/index.m3u8
+#EXTINF:-1 tvg-name="辽宁卫视" group-title="Tàu Cộng",辽宁卫视
+http://123.14.180.161:8899/hls/41/index.m3u8
+#EXTINF:-1 tvg-name="陕西卫视" group-title="Tàu Cộng",陕西卫视
+http://123.14.180.161:8899/hls/42/index.m3u8
+#EXTINF:-1 tvg-name="贵州卫视" group-title="Tàu Cộng",贵州卫视
+http://123.14.180.161:8899/hls/43/index.m3u8
+#EXTINF:-1 tvg-name="河北卫视" group-title="Tàu Cộng",河北卫视
+http://123.14.180.161:8899/hls/44/index.m3u8
+#EXTINF:-1 tvg-name="江西卫视" group-title="Tàu Cộng",江西卫视
+http://123.14.180.161:8899/hls/45/index.m3u8
+#EXTINF:-1 tvg-name="湖南卫视" group-title="Tàu Cộng",湖南卫视
+http://123.14.180.161:8899/hls/46/index.m3u8
+#EXTINF:-1 tvg-name="深圳卫视" group-title="Tàu Cộng",深圳卫视
+http://123.14.180.161:8899/hls/47/index.m3u8
+#EXTINF:-1 tvg-name="四川卫视" group-title="Tàu Cộng",四川卫视
+http://123.14.180.161:8899/hls/48/index.m3u8
+#EXTINF:-1 tvg-name="湖北卫视" group-title="Tàu Cộng",湖北卫视
+http://123.14.180.161:8899/hls/49/index.m3u8
+#EXTINF:-1 tvg-name="天津卫视" group-title="Tàu Cộng",天津卫视
+http://123.14.180.161:8899/hls/50/index.m3u8
+#EXTINF:-1 tvg-name="云南卫视" group-title="Tàu Cộng",云南卫视
+http://123.14.180.161:8899/hls/51/index.m3u8
+#EXTINF:-1 tvg-name="重庆卫视" group-title="Tàu Cộng",重庆卫视
+http://123.14.180.161:8899/hls/52/index.m3u8
+#EXTINF:-1 tvg-name="吉林卫视" group-title="Tàu Cộng",吉林卫视
+http://123.14.180.161:8899/hls/53/index.m3u8
+#EXTINF:-1 tvg-name="宁夏卫视" group-title="Tàu Cộng",宁夏卫视
+http://123.14.180.161:8899/hls/54/index.m3u8
+#EXTINF:-1 tvg-name="东南卫视" group-title="Tàu Cộng",东南卫视
+http://123.14.180.161:8899/hls/55/index.m3u8
+#EXTINF:-1 tvg-name="内蒙古卫视" group-title="Tàu Cộng",内蒙古卫视
+http://123.14.180.161:8899/hls/56/index.m3u8
+#EXTINF:-1 tvg-name="广西卫视" group-title="Tàu Cộng",广西卫视
+http://123.14.180.161:8899/hls/57/index.m3u8
+#EXTINF:-1 tvg-name="山西卫视" group-title="Tàu Cộng",山西卫视
+http://123.14.180.161:8899/hls/58/index.m3u8
+#EXTINF:-1 tvg-name="海南卫视" group-title="Tàu Cộng",海南卫视
+http://123.14.180.161:8899/hls/59/index.m3u8
+#EXTINF:-1 tvg-name="甘肃卫视" group-title="Tàu Cộng",甘肃卫视
+http://123.14.180.161:8899/hls/60/index.m3u8
+#EXTINF:-1 tvg-name="青海卫视" group-title="Tàu Cộng",青海卫视
+http://123.14.180.161:8899/hls/61/index.m3u8
+#EXTINF:-1 tvg-name="西藏卫视" group-title="Tàu Cộng",西藏卫视
+http://123.14.180.161:8899/hls/65/index.m3u8
+#EXTINF:-1 tvg-name="新疆卫视" group-title="Tàu Cộng",新疆卫视
+http://123.14.180.161:8899/hls/68/index.m3u8
 
 --------------------------------------------------------------------------------
 
@@ -1470,292 +1527,138 @@ https://live.catvod.com/live.php?id=asiatravel_twn&token=22d871fa4a9f5c31e6c8d1d
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-https://us1001.utako.moe/NHK_G/index.m3u8
+https://nl.utako.moe/NHK_G/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-https://us1001.utako.moe/NHK_E/index.m3u8
+https://nl.utako.moe/NHK_E/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV
-https://us1001.utako.moe/Nippon_TV/index.m3u8
+https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-https://us1001.utako.moe/TBS/index.m3u8
+https://nl.utako.moe/TBS/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://us1001.utako.moe/Fuji_TV/index.m3u8
+https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi
-https://us1001.utako.moe/TV_Asahi/index.m3u8
+https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-https://us1001.utako.moe/TV_Tokyo/index.m3u8
+https://nl.utako.moe/TV_Tokyo/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-https://us1001.utako.moe/Tokyo_MX1/index.m3u8
+https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
-https://us1001.utako.moe/Tokyo_MX2/index.m3u8
-
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd05
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=hdgd08
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd01
-#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd02
-#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd03
-#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd04
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd05
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/2560px-TV_Asahi_Logo.svg.png",TV Asahi (NSFW) (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd06
-#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd07
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gd08
+https://nl.utako.moe/Tokyo_MX2/index.m3u8
 
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-https://us1001.utako.moe/mbs/index.m3u8
+https://nl.utako.moe/mbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-https://us1001.utako.moe/abc/index.m3u8
+https://nl.utako.moe/abc/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka
-https://us1001.utako.moe/tvo/index.m3u8
+https://nl.utako.moe/tvo/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV
-https://us1001.utako.moe/kansaitv/index.m3u8
+https://nl.utako.moe/kansaitv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv
-https://us1001.utako.moe/ytv/index.m3u8
+https://nl.utako.moe/ytv/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-https://us1001.utako.moe/kbs/index.m3u8
+https://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
-https://us1001.utako.moe/suntv/index.m3u8
-
-#EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx06
-#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx01
-#EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx02
-#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx03
-#EXTINF:-1 group-title="Kansai" tvg-id="yomiuri_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx04
-#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx05
-#EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=gx07
+https://nl.utako.moe/suntv/index.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-https://nl00.utako.moe/NHK_BS/index.m3u8
+https://nl.utako.moe/NHK_BS/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV
-https://nl00.utako.moe/bsntv/index.m3u8
+https://nl.utako.moe/bsntv/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-https://nl00.utako.moe/bsasahi/index.m3u8
+https://nl.utako.moe/bsasahi/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS
-https://nl00.utako.moe/bstbs/index.m3u8
+https://nl.utako.moe/bstbs/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-https://nl00.utako.moe/bstvtokyo/index.m3u8
+https://nl.utako.moe/bstvtokyo/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji
-https://nl00.utako.moe/bsfuji/index.m3u8
+https://nl.utako.moe/bsfuji/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11
-https://nl00.utako.moe/BS11/index.m3u8
+https://nl.utako.moe/BS11/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-https://nl00.utako.moe/bsp4k/index.m3u8
+https://nl.utako.moe/bsp4k/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime
-https://nl00.utako.moe/wprime/index.m3u8
+https://nl.utako.moe/wprime/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema
-https://nl00.utako.moe/wcinema/index.m3u8
+https://nl.utako.moe/wcinema/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live
-https://nl00.utako.moe/wlive/index.m3u8
+https://nl.utako.moe/wlive/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel
-https://nl00.utako.moe/bs10_star/index.m3u8
+https://nl.utako.moe/bs10_star/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-https://nl00.utako.moe/js1/index.m3u8
+https://nl.utako.moe/js1/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-https://nl00.utako.moe/js2/index.m3u8
+https://nl.utako.moe/js2/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-https://nl00.utako.moe/js3/index.m3u8
+https://nl.utako.moe/js3/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-https://nl00.utako.moe/js4/index.m3u8
+https://nl.utako.moe/js4/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel
-https://nl00.utako.moe/green/index.m3u8
+https://nl.utako.moe/green/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax
-https://nl00.utako.moe/Animax/index.m3u8
+https://nl.utako.moe/Animax/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon
-https://nl00.utako.moe/nihoneiga/index.m3u8
+https://nl.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
-https://nl00.utako.moe/skya/index.m3u8
-
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs11
-#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/2560px-BS4_logo.svg.png",BS NTV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs02
-#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs03
-#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs04
-#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs05
-#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs06
-#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp_4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs01
-#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs12
-#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs07
-#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs20
-#EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs08
-#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs18
-#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs19
-#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs21
-#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs22
-#EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs14
-#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs15
-#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs23
-#EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="BS" tvg-id="fishing_vision" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs25
-#EXTINF:-1 group-title="BS" tvg-id="disney_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs24 
-#EXTINF:-1 group-title="BS" tvg-id="jcom_bs" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=bs31
+https://nl.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports
-https://nl00.utako.moe/gaora/index.m3u8
+https://nl.utako.moe/gaora/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="at_x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X
-https://nl00.utako.moe/AT-X/index.m3u8
+https://nl.utako.moe/AT-X/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV
-https://nl00.utako.moe/spaceshower/index.m3u8
+https://nl.utako.moe/spaceshower/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV
-https://nl00.utako.moe/mtv/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
-https://nl00.utako.moe/mnet/index.m3u8
+https://nl.utako.moe/mtv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops
-https://nl00.utako.moe/kayopops/index.m3u8
+https://nl.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton
+https://nl.utako.moe/kids_station/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel
-https://nl00.utako.moe/disneychan/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network Japan
-https://nl00.utako.moe/cartoon_network/index.m3u8
+https://nl.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg
+https://nl.utako.moe/cartoon_network/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+
-https://nl00.utako.moe/ntvgplus/index.m3u8
+https://nl.utako.moe/ntvgplus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo
-https://nl00.utako.moe/familygeki/index.m3u8
+https://nl.utako.moe/familygeki/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV
-https://nl00.utako.moe/mondo/index.m3u8
+https://nl.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV
+https://nl.utako.moe/musicon/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet
+https://nl.utako.moe/mnet/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1
-https://nl00.utako.moe/tbsch1/index.m3u8
+https://nl.utako.moe/tbsch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2
-https://nl00.utako.moe/tbsch2/index.m3u8
+https://nl.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
-https://nl00.utako.moe/ex_ch1/index.m3u8
+https://nl.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
-https://nl00.utako.moe/ex_ch2/index.m3u8
+https://nl.utako.moe/ex_ch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
-https://nl00.utako.moe/fuji_one/index.m3u8
+https://nl.utako.moe/fuji_one/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
-https://nl00.utako.moe/fuji_two/index.m3u8
+https://nl.utako.moe/fuji_two/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://nl00.utako.moe/fuji_next/index.m3u8
+https://nl.utako.moe/fuji_next/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
-https://nl00.utako.moe/neco/index.m3u8
+https://nl.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
-https://nl00.utako.moe/dlife/index.m3u8
+https://nl.utako.moe/dlife/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel
-https://nl00.utako.moe/toei/index.m3u8
+https://nl.utako.moe/toei/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai
-https://nl00.utako.moe/fighting_tv/index.m3u8
+https://nl.utako.moe/fighting_tv/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele
-https://nl00.utako.moe/entermei_tele/index.m3u8
+https://nl.utako.moe/entermei_tele/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus
-https://nl00.utako.moe/sport_live_plus/index.m3u8
+https://nl.utako.moe/sport_live_plus/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel
-https://nl00.utako.moe/homedrama/index.m3u8
+https://nl.utako.moe/homedrama/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga
-https://nl00.utako.moe/gingach/index.m3u8
+https://nl.utako.moe/gingach/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel
-https://nl00.utako.moe/tabi/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW)
-https://nl00.utako.moe/pigoo/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
-https://nl00.utako.moe/v_paradise/index.m3u8
-
-#EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs04
-#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs27
-#EXTINF:-1 group-title="CS" tvg-id="eigeki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs22
-#EXTINF:-1 group-title="CS" tvg-id="family_geki" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs20
-#EXTINF:-1 group-title="CS" tvg-id="movie_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs14
-#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs05
-#EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs12
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs26
-#EXTINF:-1 group-title="CS" tvg-id="sky_a" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A  (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs01
-#EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs17
-#EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs03
-#EXTINF:-1 group-title="CS" tvg-id="ntv_plus" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs02
-#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs21
-#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=cs29
-#EXTINF:-1 group-title="CS" tvg-id="space_shower" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=bs26
-#EXTINF:-1 group-title="CS" tvg-id="music_japan_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs06
-#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs13
-#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs18
-#EXTINF:-1 group-title="CS" tvg-id="lala_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs19
-#EXTINF:-1 group-title="CS" tvg-id="sky_stage" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=2&id=cs28
-#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs07
-#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs25
-#EXTINF:-1 group-title="CS" tvg-id="natgeo" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan (Primehome) 
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs10
-#EXTINF:-1 group-title="CS" tvg-id="disney_junior" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs23
-#EXTINF:-1 group-title="CS" tvg-id="discovery_channel" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel (Primehome)  
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs08
-#EXTINF:-1 group-title="CS" tvg-id="animal_planet" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs24
-#EXTINF:-1 group-title="CS" tvg-id="history_channel" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs09
-#EXTINF:-1 group-title="CS" tvg-id="cnn_j" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj (Primehome) 
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs16
-#EXTINF:-1 group-title="CS" tvg-id="bbc_news" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News (Primehome)  
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs15
-#EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
-https://proxyvn.utako.moe/ph.php?&isp=1&id=cs11
+https://nl.utako.moe/tabi/index.m3u8
 
 --------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Korean_Central_Television_2005.svg/1200px-Korean_Central_Television_2005.svg.png" group-title="Hột nhãn tiên sinh",KCTV
@@ -1779,7 +1682,7 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 #EXTINF:-1 tvg-id="HLAQDTV.kr" tvg-logo="https://i.imgur.com/FGsKCH3.png" group-title="🇰🇷 Hàn Quốc",MBC 
 https://5c3639aa99149.streamlock.net/live_TV/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="HLDFDTV.kr" tvg-logo="https://github.com/HaNoiIPTV/HaNoiIPTV.m3u/blob/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/H%C3%A0%20N%E1%BB%99i%20IPTV%202%20-%20SBS%20HD.png?raw=true" group-title="🇰🇷 Hàn Quốc",SBS
-http://1.222.207.80:1935/live/cjbtv/playlist.m3u8
+rtmp://210.216.76.120/live/sbsonair
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="🇰🇷 Hàn Quốc",JTBC
 http://warlock0.synology.me:9999/klive/api/url.m3u8?m=url&s=tving&i=C01582&q=SD&apikey=5MY50EII66
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e8w10pk.jpeg" group-title="🇰🇷 Hàn Quốc",MNet
@@ -2036,6 +1939,8 @@ https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
 https://mifntechnology.github.io/siaranMy/channels/TvOkey/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="TV6" tvg-name="TV6" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/Tv6.png",TV6
 https://mifntechnology.github.io/siaranMy/channels/Tv6/index.m3u8
+#EXTINF:-1 tvg-id="RTM Sports HD" tvg-name="RTM Sports HD" tvg-logo="" group-title="ĐÔNG NAM Á",RTM Sports HD
+https://tzh911.qzz.io/play-smt.php?id=Rtmsport
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="DidikTVKPM" tvg-name="DidikTv KPM" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/DidikTv.png",DidikTv KPM
 https://mifntechnology.github.io/siaranMy/channels/DidikTvKPM/index.m3u8
 #EXTINF:-1 group-title="ĐÔNG NAM Á" tvg-id="8TV" tvg-name="8TV" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8tv.png",8TV
@@ -2075,153 +1980,207 @@ http://php.jdshipin.com/smt.php?id=AEC
 http://php.jdshipin.com/smt.php?id=Quanjia
 #EXTINF:-1 tvg-name="Astro欢喜台" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Astro_Hua_Hee_Dai_%282024%29.png",Astro欢喜台
 http://php.jdshipin.com/smt.php?id=Huahee
+#EXTINF:-1 tvg-id="Arena" tvg-name="Arena" tvg-logo="" group-title="ĐÔNG NAM Á",Arena
+https://tzh911.qzz.io/play-smt.php?id=Arena
+#EXTINF:-1 tvg-id="Arena 2" tvg-name="Arena 2" tvg-logo="" group-title="ĐÔNG NAM Á",Arena 2
+https://tzh911.qzz.io/play-smt.php?id=Arena2
+#EXTINF:-1 tvg-id="BolaArena 1" tvg-name="BolaArena 1" tvg-logo="" group-title="ĐÔNG NAM Á",BolaArena 1
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena1
+#EXTINF:-1 tvg-id="BolaArena 2" tvg-name="BolaArena 2" tvg-logo="" group-title="ĐÔNG NAM Á",BolaArena 2
+https://tzh911.qzz.io/play-smt.php?id=Bolaarena2
+#EXTINF:-1 tvg-id="Astro LOL" tvg-name="Astro LOL" tvg-logo="" group-title="ĐÔNG NAM Á",Astro LOL
+https://tzh911.qzz.io/play-smt.php?id=Astro_lol
+#EXTINF:-1 tvg-id="Astro Rusi" tvg-name="Astro Rusi" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Rusi
+https://tzh911.qzz.io/play-smt.php?id=Rusi
+#EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="Astro Premier League 1" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Premier League 1
+https://tzh911.qzz.io/play-smt.php?id=go_assp1
+#EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-name="Astro EPL 1 backup" tvg-logo="" group-title="ĐÔNG NAM Á",Astro EPL 1 backup
+https://tzh911.qzz.io/play-smt.php?id=go_assp1x
+#EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="Astro Premier League 2" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Premier League 2
+https://tzh911.qzz.io/play-smt.php?id=go_assp2
+#EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="Astro Grandstand" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Grandstand
+https://tzh911.qzz.io/play-smt.php?id=go_assp3
+#EXTINF:-1 tvg-id="Astro Football" tvg-name="Astro Football" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Football
+https://tzh911.qzz.io/play-smt.php?id=go_assp4
+#EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="Astro Sports Plus" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Sports Plus
+https://tzh911.qzz.io/play-smt.php?id=go_sportsplus
+#EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="Astro Badminton 1" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Badminton 1
+https://tzh911.qzz.io/play-smt.php?id=go_badminton1
+#EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="Astro Badminton 2" tvg-logo="" group-title="ĐÔNG NAM Á",Astro Badminton 2
+https://tzh911.qzz.io/play-smt.php?id=go_badminton2
+#EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="Astro W-Sports" tvg-logo="" group-title="ĐÔNG NAM Á",Astro W-Sports
+https://tzh911.qzz.io/play-smt.php?id=go_assp5
 #EXTINF:-1 tvg-id="201" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/RTB_Sukmaindera.png" group-title="ĐÔNG NAM Á",RTB Sukmaindera
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 https://d1211whpimeups.cloudfront.net/smil:rtb1/chunklist_b4096000_slENG.m3u8
 #EXTINF:-1 tvg-id="202" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/aa/RTB_Aneka.png" group-title="ĐÔNG NAM Á",RTB Aneka
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 https://d1211whpimeups.cloudfront.net/smil:rtb2/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://iili.io/doGYNpI.png" group-title="ĐÔNG NAM Á",Kapamilya Channel
+#EXTINF:-1 tvg-id="1093" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126306082.png" group-title="ĐÔNG NAM Á",GMA 7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-http://143.44.136.110:6910/001/2/ch00000090990000001286/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://iili.io/2EyRTXa.png" group-title="ĐÔNG NAM Á",PTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=71a130a851b9484bb47141c8966fb4a3:ad1f003b4f0b31b75ea4593844435600
-https://qp-pldt-live-grp-2-prod.akamaized.net/out/u/cg_ptv4_sd.mpd
-#EXTINF:-1 tvg-id="PTV.ph" tvg-logo="https://i.imgur.com/nMSt2j0.png" group-title="ĐÔNG NAM Á",GMA 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=31363231383438333031323033393138:38694e34324d543478316b7455753437
-http://143.44.136.110:6910/001/2/ch00000090990000001093/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://iili.io/JmUFYsR.png" group-title="ĐÔNG NAM Á",TV5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2615129ef2c846a9bbd43a641c7303ef:07c7f996b1734ea288641a68e1cfdc4d
-https://qp-pldt-live-grp-2-prod.akamaized.net/out/u/tv5_hd.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1093/manifest.mpd
+#EXTINF:-1 tvg-id="1286" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129013828.png" group-title="ĐÔNG NAM Á",KAPAMILYA HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="gtvph1" tvg-name="GTV (CON01)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ĐÔNG NAM Á",GTV
-http://143.44.136.110:6910/001/2/ch00000090990000001143/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-logo="https://iili.io/JmUF7Wv.png" group-title="ĐÔNG NAM Á",RPTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1917f4caf2364e6d9b1507326a85ead6:a1340a251a5aa63a9b0ea5d9d7f67595
-https://qp-pldt-live-grp-3-prod.akamaized.net/out/u/cnn_rptv_prod_hd.mpd
-#EXTINF:-1 tvg-id="A2Z.ph" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/A2Z_Channel_11_Logo.png"group-title="ĐÔNG NAM Á", A2Z
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f703e4c8ec9041eeb5028ab4248fa094:c22f2162e176eee6273a5d0b68d19530
-https://qp-pldt-live-grp-2-prod.akamaized.net/out/u/cg_a2z.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1286/manifest.mpd
+#EXTINF:-1 tvg-id="1143" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126332757.png" group-title="ĐÔNG NAM Á",GTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://143.44.136.74:9443/widevine/?deviceId=02:00:00:00:00:00
-#EXTINF:-1 tvg-id="oneph1" tvg-name="ONE PH (CON)" tvg-logo="https://i.imgur.com/0xo8Ivs.png" group-title="ĐÔNG NAM Á",ONE PH
-http://143.44.136.110:6910/001/2/ch00000090990000001198/manifest.mpd?virtualDomain=001.live_hls.zte.com
-#EXTINF:-1 tvg-id="" tvg-name="TAP TV" tvg-logo="https://deprecated.cc/tv/images/KJaSftF.png" group-title="ĐÔNG NAM Á",TAP TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f6804251e90b4966889b7df94fdc621e:55c3c014f2bd12d6bd62349658f24566
-https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_taptv_sd.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Tap Edge" tvg-logo="https://deprecated.cc/tv/images/EKt9NGv.png" group-title="ĐÔNG NAM Á",Tap Edge
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4553f7e8011f411fb625cefc39274300:98f2f1d153367e84b5d559dc9dfb9a35
-https://qp-pldt-live-grp-12-prod.akamaized.net/out/u/dr_tapedge.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Tap Sports" tvg-logo="https://deprecated.cc/tv/images/EEDMg6S.png" group-title="ĐÔNG NAM Á",Tap Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=eabd2d95c89e42f2b0b0b40ce4179ea0:0e7e35a07e2c12822316c0dc4873903f
-https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_tapsports.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Tap Movies" tvg-logo="https://deprecated.cc/tv/images/5mRcvMS.png" group-title="ĐÔNG NAM Á",Tap Movies
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=71cbdf02b595468bb77398222e1ade09:c3f2aa420b8908ab8761571c01899460
-https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_tapmovies_hd1.mpd
-#EXTINF:-1 tvg-id="" tvg-name="Tap Action Flix" tvg-logo="https://deprecated.cc/tv/images/70wmIdp.png" group-title="ĐÔNG NAM Á",Tap Action Flix
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bee1066160c0424696d9bf99ca0645e3:f5b72bf3b89b9848de5616f37de040b7
-https://qp-pldt-live-grp-6-prod.akamaized.net/out/u/cg_tapactionflix_hd1.mpd
-
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1143/manifest.mpd
+#EXTINF:-1 tvg-id="1179" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723136602348.png" group-title="ĐÔNG NAM Á",ALL TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1179/manifest.mpd
+#EXTINF:-1 tvg-id="1088" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134335547.png" group-title="ĐÔNG NAM Á",TV5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1088/manifest.mpd
+#EXTINF:-1 tvg-id="1094" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133873954.png" group-title="ĐÔNG NAM Á",RPTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1094/manifest.mpd
+#EXTINF:-1 tvg-id="1087" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125016586.png" group-title="ĐÔNG NAM Á",A2Z
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1087/manifest.mpd
+#EXTINF:-1 tvg-id="1089" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723128890006.png" group-title="ĐÔNG NAM Á",IBC 13
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1089/manifest.mpd
+#EXTINF:-1 tvg-id="1086" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133792284.png" group-title="ĐÔNG NAM Á",PTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1086/manifest.mpd
+#EXTINF:-1 tvg-id="1081" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134030645.png" group-title="ĐÔNG NAM Á",SOLAR SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1081/manifest.mpd
+#EXTINF:-1 tvg-id="1243" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134009531.png" group-title="ĐÔNG NAM Á",SOLAR FLIX
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1243/manifest.mpd
+#EXTINF:-1 tvg-id="1109" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125129835.png" group-title="ĐÔNG NAM Á",ALIW TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1109/manifest.mpd
+#EXTINF:-1 tvg-id="1090" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723129823252.png" group-title="ĐÔNG NAM Á",NET 25
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1090/manifest.mpd
+#EXTINF:-1 tvg-id="1174" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723126004028.png" group-title="ĐÔNG NAM Á",DZRH
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1174/manifest.mpd
+#EXTINF:-1 tvg-id="1159" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723133830822.png" group-title="ĐÔNG NAM Á",RJTV 29
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1159/manifest.mpd
+#EXTINF:-1 tvg-id="1124" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605539308.png" group-title="ĐÔNG NAM Á",BILYONARYO NEWS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1124/manifest.mpd
+#EXTINF:-1 tvg-id="1340" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723604992973.png" group-title="ĐÔNG NAM Á",KNOWLEDGE CHANNEL
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1340/manifest.mpd
+#EXTINF:-1 tvg-id="1314" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723125735177.png" group-title="ĐÔNG NAM Á",CLTV36
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1314/manifest.mpd
+#EXTINF:-1 tvg-id="1091" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723134409636.png" group-title="ĐÔNG NAM Á",UNTV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1091/manifest.mpd
+#EXTINF:-1 tvg-id="1083" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723131202156.png" group-title="ĐÔNG NAM Á",ONE SPORTS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1083/manifest.mpd
+#EXTINF:-1 tvg-id="1234" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1735903243498.png" group-title="ĐÔNG NAM Á",GNN tv44
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1234/manifest.mpd
+#EXTINF:-1 tvg-id="1249" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1749519196399.png" group-title="ĐÔNG NAM Á",DZMM TELERADYO
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1249/manifest.mpd
+#EXTINF:-1 tvg-id="1092" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723605495653.png" group-title="ĐÔNG NAM Á",INC TV
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1092/manifest.mpd
+#EXTINF:-1 tvg-id="1216" tvg-logo="https://ottepg8.comclark.com:8443/iptvepg/images/markurl/mark_1723219396137.png" group-title="ĐÔNG NAM Á",ANC HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://key.nathcreqtives.com/widevine/?deviceId=02:00:00:00:00:00
+https://converse.nathcreqtives.com/1216/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=303eeb13aee345d3b04d6a407b4ff199:cdf924eb0f1b5017ac590f4f70f00a53
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_118.jpg" group-title="ĐÔNG NAM Á", TVRI Nasional
-https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mpd/TVRINasional.mpd
-
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI World" tvg-logo="https://iili.io/JV3xmPe.png" group-title="ĐÔNG NAM Á", TVRI World
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://mncvision.id/userfiles/image/channel/sctv.png" group-title="ĐÔNG NAM Á", SCTV
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://mncvision.id/userfiles/image/channel/Indosiar.png" group-title="ĐÔNG NAM Á", Indosiar
-https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Moji.id" tvg-name="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="ĐÔNG NAM Á", MOJI
-https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=16e50b43a8fe4f9d8ed63a436161a28b:aa556111c986ba164a582811fb0d8c30
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_110.png" group-title="ĐÔNG NAM Á", Trans 7
-https://atemeshield1-voe.sysln.id/live/eds/Trans7HD/mpd/Trans7HD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_115.png" group-title="ĐÔNG NAM Á",ANTV
-https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_107.png" group-title="ĐÔNG NAM Á", Metro TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TVOne" tvg-logo="https://mncvision.id/userfiles/image/channel/tvone.png" group-title="ĐÔNG NAM Á", TVOne
-https://atemeshield1-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV.id" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_106.png" group-title="ĐÔNG NAM Á", Kompas TV
-https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="DAAI TV.id" tvg-name="DAAI TV" tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13" group-title="ĐÔNG NAM Á", DAAI TV
-https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fee85fded8ea4591b643468412bee3be:7e364f3ffd09c7b51c8d81430819177f
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="JakTV.id" tvg-name="Jak TV" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_113.jpg" group-title="ĐÔNG NAM Á", JakTV
-https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=96528db3a2fc4bf3a415f2c5c274b79c:3d77cf2d7ef8385d4c5fc876b742610a
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="JTV.id" tvg-name="JTV" tvg-logo="https://images.indihometv.com/assets/88_JTV_2025_03_17_15_01_58.png" group-title="ĐÔNG NAM Á", JTV
-https://atemeshield1-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/JTV/mpd/JTV.mpd
+#EXTINF:-1 tvg-id="TVRI National" tvg-name="TVRI National" tvg-logo="" group-title="ĐÔNG NAM Á",TVRI National
+https://tzh911.qzz.io/play-smt.php?id=TVRI
+#EXTINF:-1 tvg-id="RCTI" tvg-name="RCTI" tvg-logo="" group-title="ĐÔNG NAM Á",RCTI
+https://tzh911.qzz.io/play-smt.php?id=Rcti
+#EXTINF:-1 tvg-id="Kompass TV" tvg-name="Kompass TV" tvg-logo="" group-title="ĐÔNG NAM Á",Kompass TV
+https://tzh911.qzz.io/play-smt.php?id=Kompass
+#EXTINF:-1 tvg-id="Berita Satu" tvg-name="Berita Satu" tvg-logo="" group-title="ĐÔNG NAM Á",Berita Satu
+https://tzh911.qzz.io/play-smt.php?id=BeritaSatu_eko
+#EXTINF:-1 tvg-id="Indosiar HD" tvg-name="Indosiar HD" tvg-logo="" group-title="ĐÔNG NAM Á",Indosiar HD
+https://tzh911.qzz.io/play-smt.php?id=Indosiar
+#EXTINF:-1 tvg-id="AnTV" tvg-name="AnTV" tvg-logo="" group-title="ĐÔNG NAM Á",AnTV
+https://tzh911.qzz.io/play-smt.php?id=Antv
+#EXTINF:-1 tvg-id="MNC TV" tvg-name="MNC TV" tvg-logo="" group-title="ĐÔNG NAM Á",MNC TV
+https://tzh911.qzz.io/play-smt.php?id=Mnctv
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="" group-title="ĐÔNG NAM Á",Trans 7
+https://tzh911.qzz.io/play-smt.php?id=Trans7_eko
+#EXTINF:-1 tvg-id="Transtv" tvg-name="Transtv" tvg-logo="" group-title="ĐÔNG NAM Á",Transtv
+https://tzh911.qzz.io/play-smt.php?id=Transtv
+#EXTINF:-1 tvg-id="JTV" tvg-name="JTV" tvg-logo="" group-title="ĐÔNG NAM Á",JTV
+https://tzh911.qzz.io/play-smt.php?id=JTV_eko
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="" group-title="ĐÔNG NAM Á",Metro TV
+https://tzh911.qzz.io/play-smt.php?id=metrotv_eko
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="" group-title="ĐÔNG NAM Á",Cinemax
+https://tzh911.qzz.io/play-smt.php?id=Cinemax
+#EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV" tvg-logo="" group-title="ĐÔNG NAM Á",SCTV
+https://tzh911.qzz.io/play-smt.php?id=SCTV
+#EXTINF:-1 tvg-id="Tvone" tvg-name="Tvone" tvg-logo="" group-title="ĐÔNG NAM Á",Tvone
+https://tzh911.qzz.io/play-smt.php?id=Tvone
+#EXTINF:-1 tvg-id="TVMU" tvg-name="TVMU" tvg-logo="" group-title="ĐÔNG NAM Á",TVMU
+https://tzh911.qzz.io/play-smt.php?id=TVMU_eko
+#EXTINF:-1 tvg-id="GTV" tvg-name="GTV" tvg-logo="" group-title="ĐÔNG NAM Á",GTV
+https://tzh911.qzz.io/play-smt.php?id=Gtv
+#EXTINF:-1 tvg-id="RTV" tvg-name="RTV" tvg-logo="" group-title="ĐÔNG NAM Á",RTV
+https://tzh911.qzz.io/play-smt.php?id=Rtv
+#EXTINF:-1 tvg-id="Jak TV" tvg-name="Jak TV" tvg-logo="" group-title="ĐÔNG NAM Á",Jak TV
+https://tzh911.qzz.io/play-smt.php?id=JakTV
+#EXTINF:-1 tvg-id="iNews TV" tvg-name="iNews TV" tvg-logo="" group-title="ĐÔNG NAM Á",iNews TV
+https://tzh911.qzz.io/play-smt.php?id=Inewstv
+#EXTINF:-1 tvg-id="Daai TV" tvg-name="Daai TV" tvg-logo="" group-title="ĐÔNG NAM Á",Daai TV
+https://tzh911.qzz.io/play-smt.php?id=DaaiTV
+#EXTINF:-1 tvg-id="Net TV" tvg-name="Net TV" tvg-logo="" group-title="ĐÔNG NAM Á",Net TV
+https://tzh911.qzz.io/play-smt.php?id=NetTV
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/szivqh2.png" group-title="Kênh 4K",HanoiTV2 4K
