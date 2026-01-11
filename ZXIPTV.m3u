@@ -1,6 +1,9 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_VN.xml"
 #EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
 #EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_JP.xml"
+#EXTM3U url-tvg="https://epg.pw/xmltv/epg_SG.xml"
+
 --------------------------------------------------------------------------------
 
 --------------------------------------------------------------------------------
