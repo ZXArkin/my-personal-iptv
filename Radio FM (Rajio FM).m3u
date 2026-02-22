@@ -1,183 +1,169 @@
-#EXTM3U url-tvg="https://vnepg.site/epg.xml.gz"
-
-#EXTINF:-1 tvg-id="vov1" group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://cdn.hqth.me/logo/thumbs/239.png", VOV1
-https://media-audio.vov.vn/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov2" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/240.png", VOV2
-https://media-audio.vov.vn/vov2.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov3" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/241.png", VOV3
-https://media-audio.vov.vn/vov3.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov4tb" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHWEST
-http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4tb" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 NORTHEAST
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
+https://stream.vovmedia.vn/vov-1
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
+https://stream.vovmedia.vn/vov-2
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
+https://stream.vovmedia.vn/vov-3
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/ebnHXbS.png" radio="true",VOV4 TAY BAC
+https://stream.vovmedia.vn/vov4tb
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/u5T9wiD.png" radio="true",VOV4 DONG BAC
 https://stream.vovmedia.vn/vov4db
-#EXTINF:-1 tvg-id="vov4tn" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 CENTRAL HIGHLANDS
-https://str.vov.gov.vn/vovlive/vov4.TayNguyen.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov4scl" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 MEKONG
-http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov4hcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/242.png", VOV4 SAIGON
-http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
-#EXTINF:-1 tvg-id="vov5" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV WORLD SERVICE
-https://media-audio.vov.vn/vov5.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vov247" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/243.png", VOV ENGLISH SERVICE
-https://media-audio.vov.vn/vov247vov5English.sdp_aac/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgthn" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HANOI
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/AvuIgG0.png" radio="true",VOV4 MIEN TRUNG
+https://stream.vovmedia.vn/vov4mt
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/6lFVwWD.png" radio="true",VOV4 TAY NGUYEN
+https://stream.vovmedia.vn/vov4tn
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/rpYoovn.png" radio="true",VOV4 HCMC
+https://stream.vovmedia.vn/vov4hcm
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/V1eCcOB.png" radio="true",VOV4 MEKONG
+https://stream.vovmedia.vn/vov4dbscl
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/1s4kWpx.png" radio="true",VOV5
+https://stream.vovmedia.vn/vov5
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/jjfSOYm.png" radio="true",VOV 24/7
+https://audio-lss.vov.vn/han/live/vov24_7/audio/manifest.m3u8
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/WthfvZR.png" radio="true",VOV6
+https://stream.vovmedia.vn/vov6
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HANOI
 https://play.vovgiaothong.vn/live/gthn/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgthcm" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/244.png", 91FM HCMC
+#EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/OIzhtBi.png" radio="true",VOV GT HCMC
 https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtmekong" group-title="VIỆT NAM" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", MEKONG FM90
+#EXTINF:-1 group-title="VOV" tvg-id="vovgtmekong" tvg-logo="https://cdn.hqth.me/logo/thumbs/245.png", VOV GT MEKONG
 https://play.vovgiaothong.vn/live/mekong/playlist.m3u8
-#EXTINF:-1 tvg-id="vovgtduyenhai" group-title="VIỆT NAM" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", DUYEN HAI FM91.5
-https://play.vovgiaothong.vn/live/duyenhai2/playlist.m3u8
-#EXTINF:-1 tvg-id="vtv1hd" group-title="VIỆT NAM" group-logo="https://cdn.hqth.me/logo/category/radio.png" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 AUDIO
+#EXTINF:-1 group-title="VOV" tvg-id="vovgtduyenhai" radio=true tvg-logo="https://byvn.net/vovgtduyenhai", VOV GT DUYEN HAI
+https://play.vovgiaothong.vn/live/duyenhai/playlist.m3u8
+#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vtv1hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV1 AUDIO
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="voh610" group-title="VIỆT NAM" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_VOH_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi",VOH AM 610Khz
+#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vt3hd" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VTV3 AUDIO
+https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
+#EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vietnamtoday" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VIETNAM TODAY AUDIO
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="voh610" radio=true group-title="VOH" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_HTV RADIO_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi",HTV RADIO AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
-#EXTINF:-1 tvg-id="voh999" group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvOL70mH31XprwaoKqLHWhsLJD1oz7kkaQQ&s",VOH FM 99.9Mhz
+#EXTINF:-1 tvg-id="voh999" radio=true group-title="VOH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvOL70mH31XprwaoKqLHWhsLJD1oz7kkaQQ&s",HTV RADIO FM 99.9Mhz
 https://strm.voh.com.vn/radio/channel3/playlist.m3u8
-#EXTINF:-1 tvg-id="voh956" group-title="VIỆT NAM" radio=true tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Logo_VOH_FM_95%2C6_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest?cb=20230728073622&path-prefix=vi",VOH FM 95.6Mhz
+#EXTINF:-1 tvg-id="voh956" radio=true group-title="VOH" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Logo_HTV RADIO_FM_95%2C6_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest?cb=20230728073622&path-prefix=vi",HTV RADIO FM 95.6Mhz
 https://strm.voh.com.vn/radio/channel1/playlist.m3u8
-#EXTINF:-1 tvg-id="voh877" group-title="VIỆT NAM" radio=true tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s",VOH FM 87.7Mhz
+#EXTINF:-1 tvg-id="voh877" radio=true group-title="VOH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s",HTV RADIO FM 87.7Mhz
 https://strm.voh.com.vn/radio/channel5/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true, VOH FM92.5MHz
-https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-binhduong.m3u8
+#EXTINF:-1 radio=true group-title="VOH" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Logo_VOH-M_FM_92-92%2C5_MHz_%28%C4%90%C3%A0i_Ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_TP.HCM%29.png/revision/latest/scale-to-width-down/200?cb=20251129151735&path-prefix=vi", HTV RADIO FM92.5MHz
+https://strm.voh.com.vn/radio/channel6/playlist.m3u8
 
-
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://byvn.net/W0ms" radio=true,SON LA (FM96MHz)
-https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://yt3.googleusercontent.com/WhYhTigacYJ_uemuW4bQHXNUmmstC3_qaPzhLBipbJ7m9kDjUzpK-mHzagihCogE-g8eErWlJGc=s900-c-k-c0x00ffffff-no-rj" radio=true,YEN BAI (FM92.1MHz) (LAO CAI FM SINCE JULY 1)
-https://bk.yenbaitv.org.vn/hls/audio/livestream.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96-zuuFTogPk5nu4EprYtOCaCt5_JdpPNpe57O9RrvfV9eB7CUCejNFgn9E1s-EUPDgE&usqp=CAU" radio=true,HGTV-FM HA GIANG (FM92MHz) (TUYEN QUANG FM SINCE JULY 1)
-https://hagiangtv.vn/radio-live
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96-zuuFTogPk5nu4EprYtOCaCt5_JdpPNpe57O9RrvfV9eB7CUCejNFgn9E1s-EUPDgE&usqp=CAU" radio=true,TUYEN QUANG RADIO (FM95.6MHz)
+#EXTINF:-1 tvg-logo="https://byvn.net/W0ms" radio=true,SON LA (FM96MHz)
+https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/WhYhTigacYJ_uemuW4bQHXNUmmstC3_qaPzhLBipbJ7m9kDjUzpK-mHzagihCogE-g8eErWlJGc=s900-c-k-c0x00ffffff-no-rj" radio=true, LAO CAI FM
+https://baolaocai.vn/radio
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT96-zuuFTogPk5nu4EprYtOCaCt5_JdpPNpe57O9RrvfV9eB7CUCejNFgn9E1s-EUPDgE&usqp=CAU" radio=true,TUYEN QUANG RADIO (FM95.6MHz)
 https://streaming.tuyenquangtv.vn/channel/tuyenquang_radio/chunks.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://thainguyentv.vn/stores/tpl_site_cfg_logo/2025/072025/01/08/logo-thainguyentvvn20250701080015.jpg?rt=20250701080015" radio=true,THAI NGUYEN (FM106.5MHz)
+#EXTINF:-1 tvg-logo="https://thainguyentv.vn/stores/tpl_site_cfg_logo/2025/072025/01/08/logo-thainguyentvvn20250701080015.jpg?rt=20250701080015" radio=true,THAI NGUYEN (FM106.5MHz)
 https://radio.thainguyentv.vn/hls/livestream.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://thainguyentv.vn/stores/tpl_site_cfg_logo/2025/072025/01/08/logo-thainguyentvvn20250701080015.jpg?rt=20250701080015" radio=true,BAC KAN (FM99.3MHz) (THAI NGUYEN FM SINCE JULY 1)
-http://14.224.167.97:8080/hls/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK39M54WqVK57t9MArYKg059HZ0RjmzUfOkw&s" radio=true,LANG SON (FM88.6MHz)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQK39M54WqVK57t9MArYKg059HZ0RjmzUfOkw&s" radio=true,LANG SON (FM88.6MHz)
 https://media.bacgiangtv.vn/live/langsonradio_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbi5zXmX6DH2SKCbSNiV4s4ZDS9G4G1HWcw&s" radio=true,BAC NINH (FM98.4MHz)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUbi5zXmX6DH2SKCbSNiV4s4ZDS9G4G1HWcw&s" radio=true,BAC NINH (FM98.4MHz)
 https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,QNR1 (FM97.8MHz)
+#EXTINF:-1 radio=true,QNR1 (FM97.8MHz)
 https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,QNR2 (FM94.7MHz)
+#EXTINF:-1 radio=true,QNR2 (FM94.7MHz)
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eADeW0yFwlpZZbFLiJ1ijGlmTJuKTMV_ow&s" radio=true,HANOI90 (KENH NAY BI NO BHXH)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eADeW0yFwlpZZbFLiJ1ijGlmTJuKTMV_ow&s" radio=true,HANOI90 (KENH NAY BI NO BHXH)
 http://14.162.146.90:8000/HANOI90
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIO4WBIFqHCwb2YzHt3XmD6Yh7iFsOQsL7vA&s" radio=true,HANOI96 (KENH NAY BI NO BHXH)
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIO4WBIFqHCwb2YzHt3XmD6Yh7iFsOQsL7vA&s" radio=true,HANOI96 (KENH NAY BI NO BHXH)
 http://222.252.21.96:8000/HANOI96
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/21VaHPT.png" radio=true,THP GENERAL SERVICE FM93.7
+#EXTINF:-1 tvg-logo="https://i.imgur.com/21VaHPT.png" radio=true,THP GENERAL SERVICE FM93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://i.imgur.com/pEFj2vE.png" radio=true,THP TRAFFIC SERVICE FM102.2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pEFj2vE.png" radio=true,THP TRAFFIC SERVICE FM102.2
 https://live.mediatech.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://yt3.googleusercontent.com/3FpAai8v4Ad25R_bqVLvcp2Urv5I8TTV5Vn8CBaGBDvI4HDU-QYgnpLkk9QH-D6WIkVeIIj58u0=s900-c-k-c0x00ffffff-no-rj" radio=true,HUNG YEN RADIO (FM92.7MHz)
-https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CuZ6JFmn5rbE43t3RKgaL9yPVHziv9gzRg&s" radio=true,THP3 FM (FM104.5MHz) 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2CuZ6JFmn5rbE43t3RKgaL9yPVHziv9gzRg&s" radio=true,THP3 FM (FM104.5MHz) 
 https://live.haiduongtv.vn/live/2858f932f24fa494996afb93ae0a7896ef9/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,NINH BINH FM (FM98.1MHz) - T CHI DE Y DEN MOV
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/3FpAai8v4Ad25R_bqVLvcp2Urv5I8TTV5Vn8CBaGBDvI4HDU-QYgnpLkk9QH-D6WIkVeIIj58u0=s900-c-k-c0x00ffffff-no-rj" radio=true,HUNG YEN RADIO (FM92.7MHz)
+https://live.mediatech.vn/live/285b6e443bc30734725a940da8b0629655b/playlist.m3u8
+#EXTINF:-1 radio=true,NINH BINH FM (FM98.1MHz) - T CHI DE Y DEN MOV
 https://live.mediatech.vn/live/285391a08f01f83458793b293c5e9517265/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,NGHE AN (FM99.6MHz)
+#EXTINF:-1 radio=true,NGHE AN (FM99.6MHz)
 https://live.mediatech.vn/live/285bfb777e354ec43038aa68950adbac3a4/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,HA TINH (FM97.8MHz)
+#EXTINF:-1 radio=true,HA TINH (FM97.8MHz)
 https://wse.hatinhtv.net/radio/voht/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,QUANG TRI (FM92.5MHz)
+#EXTINF:-1 radio=true,QUANG TRI (FM92.5MHz)
 http://quangtritv.vn/audios/audiovnpt2024.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,HUE (FM93MHz)
+#EXTINF:-1 radio=true,HUE (FM93MHz)
 https://live.huetv.com.vn/Radio-online/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,DANANG RADIO (AM 702kHz, FM 97.6, 98.5MHz)
+#EXTINF:-1 radio=true,DANANG RADIO (AM 702kHz, FM 97.6, 98.5MHz)
 https://live.mediatech.vn/live/2858a998b1c7fbf4522accd5554588ceae3/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,PTQ RADIO QUANG NGAI (FM102.9MHz)
+#EXTINF:-1 radio=true,PTQ RADIO QUANG NGAI (FM102.9MHz)
 https://stream.thingnet.vn/radio/quangngai_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,GIA LAI FM (FM 93.7MHz, 97MHz & FM99.9MHz) 
+#EXTINF:-1 radio=true,GIA LAI FM (FM 93.7MHz, 97MHz & FM99.9MHz) 
 http://14.224.130.186:8000/binhdinh
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,KHANH HOA RADIO (FM106.5MHz)
+#EXTINF:-1 radio=true,KHANH HOA RADIO (FM106.5MHz)
 https://tv.ktv.org.vn/hls/radio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,SCTV HAI DAK LAK FM (FM92.4MHz,94.7 & 96MHz)
+#EXTINF:-1 radio=true,DAK LAK FM (FM92.4MHz,94.7 & 96MHz)
 https://cdn.drt.vn/live/285054c4567dea54b3fb14bfd60d61230b5/chunklist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,LAM DONG (FM97MHz)
+#EXTINF:-1 radio=true,LAM DONG (FM97MHz)
 http://118.107.85.4:1935/radio/lamdong_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,DONG NAI RADIO (FM97.5MHz)
+#EXTINF:-1 radio=true,DONG NAI RADIO (FM97.5MHz)
 http://118.107.85.5:1935/radio/dongnai_aac/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,TAY NINH RADIO 1 (FM96.9MHz)
+#EXTINF:-1 radio=true,TAY NINH RADIO 1 (FM96.9MHz)
 https://live.la34.com.vn/la34/radio-transmux.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,TAY NINH RADIO 2 (FM103.1MHz)
+#EXTINF:-1 radio=true,TAY NINH RADIO 2 (FM103.1MHz)
 http://118.69.83.22:1935/radio11/tnradio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,DONG THAP RADIO (FM96.2 and 98.4MHz)
+#EXTINF:-1 radio=true,DONG THAP RADIO (FM96.2 and 98.4MHz)
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL TRA VINH FEED (FM92.7MHz) (KHMER OPT-OUTS)
-https://60acee235f4d5.streamlock.net/THTVR/travinhradio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,THVL RADIO VINH LONG (FM90.2MHz, 92.7 and 97.9 MHz)
-https://radiovietnamonline.com/api/v3/radios/phatthanh/radio-vinhlong.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,CAN THO (FM97.3MHz)
+#EXTINF:-1 radio=true,CAN THO (FM97.3MHz)
 https://live.canthotv.vn/live/radio/playlist.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,AN GIANG RADIO (FM 93.1 and 99.4MHz)
+#EXTINF:-1 radio=true,AN GIANG RADIO (FM 93.1 and 99.4MHz)
 https://tv.angiangtv.vn/live/kgaudio/kgaudio.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" radio=true,CA MAU FM (FM94.6MHz)
-http://tv.ctvcamau.vn/live/radio/radio.m3u8
+#EXTINF:-1 radio=true,CA MAU FM (FM94.6MHz)
+https://tv.ctvcamau.vn/live/radio/radio.m3u8
 
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", ZingRadio 1 - Vpop
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/5/0/8/f/508fb88137284723e67c83b9c9fede28.jpg", ZingRadio 1 - Vpop
 https://multi-playlist-zmp3.zmdcdn.me/odi6UBatld4/zhls/playback-realtime/6ddadf76e3330a6d5322/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", ZingRadio 2 - Chạm FM
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/avatars/7/7/8/d/778d152062edfbe0e4c4abf151858bf0.jpg", ZingRadio 2 - Cham FM
 https://multi-playlist-zmp3.zmdcdn.me/eHjZAdAk-sk/zhls/playback-realtime/59a2ee0ed24b3b15625a/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", ZingRadio 3 - Kpop
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/e/1/8/8/e1887a2c79f9d3d04984905cbf443a29.jpg", ZingRadio 3 - Kpop
 https://multi-playlist-zmp3.zmdcdn.me/rTbzjcKEO1A/zhls/playback-realtime/6600baac86e96fb736f8/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", ZingRadio 4 - USUK
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", ZingRadio 4 - USUK
 https://multi-playlist-zmp3.zmdcdn.me/-XosZVJX9XA/zhls/playback-realtime/f49e38320477ed29b466/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg", ZingRadio 5 - CPop
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/1/5/c/2/15c2abf5f4554b416384d4f675b2151e.jpg", ZingRadio 5 - CPop
 https://multi-playlist-zmp3.zmdcdn.me/_TAVBRh_ce4/zhls/playback-realtime/97b35e1f625a8b04d24b/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg", ZingRadio 6 - EDM
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/a/6/f/4/a6f4712ca91e9cc15530960ab44611da.jpg", ZingRadio 6 - EDM
 https://multi-playlist-zmp3.zmdcdn.me/lupi_x8-Su4/zhls/playback-realtime/7386bb2a876f6e31377e/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", ZingRadio 7 - Acoustic
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/8/1/d/6/81d6bc7e9ced5d11d01f6da4b440f146.jpg", ZingRadio 7 - Acoustic
 https://multi-playlist-zmp3.zmdcdn.me/AiekixzmitQ/zhls/playback-realtime/9b7b55d7699280ccd983/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", ZingRadio 8 - Bolero
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/d/6/7/4/d6746d1bbff609111133449abb9e622b.jpg", ZingRadio 8 - Bolero
 https://multi-playlist-zmp3.zmdcdn.me/ioZs7yhxUxk/zhls/playback-realtime/5bace800d4453d1b6454/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg", ZingRadio 9 - Rap Việt
+#EXTINF:-1 tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/0/c/2/e/0c2ee7cb5ef72b5db673341864312a2a.jpg", ZingRadio 9 - Rap Viet
 https://multi-playlist-zmp3.zmdcdn.me/XHOosOJ-f8g/zhls/playback-realtime/cef1015d3d18d4468d09/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg", ZingRadio 10 - Indie
+#EXTINF:-1 tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/9/5/5/b/955b98868b8b29e1e782fc0913d857d2.jpg", ZingRadio 10 - Indie
 https://multi-playlist-zmp3.zmdcdn.me/VV55kkJD6Qo/zhls/playback-realtime/eeff2a531616ff48a607/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/d/d/6/edd6b56e8f79898dd98acfcf55c5564a.jpg", ZingRadio 11 - Thiếu Nhi
+#EXTINF:-1 tvg-logo="https://photo-resize-zmp3.zmdcdn.me/w165_r1x1_jpeg/cover/e/d/d/6/edd6b56e8f79898dd98acfcf55c5564a.jpg", ZingRadio 11 - Thiếu Nhi
 https://multi-playlist-zmp3.zmdcdn.me/UKk_cQEl314/zhls/playback-realtime/ef512afd16b8ffe6a6a9/index.m3u8
-#EXTINF:-1 group-title="VIỆT NAM" tvg-logo="https://static2.mytuner.mobi/media/tvos_radios/svztgcvwrjew.png", Scientific Sounds Asia
-http://carol.epichosts.co.uk:8270/live.mp3
 
 
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1920px-BBC_World_Service_2022_%28Boxed%29.svg.png" group-title="QUỐC TẾ" radio=true,BBC World Service Asia HD
-http://as-hls-ww-live.akamaized.net/pool_31623735/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.png?t=2409" group-title="QUỐC TẾ" radio=true,BBC Radio 1 HD
-http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logog.png?t=2408" group-title="QUỐC TẾ" radio=true,BBC Radio 1Xtra HD
-http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://ukradiolive.com/public/uploads/radio_img/bbc-radio-1-dance/play_250_250.webp" group-title="QUỐC TẾ" radio=true,BBC Radio 1 Dance HD
-http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 2" tvg-logo="https://uk.radio.net/images/broadcasts/88/e1/3244/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 2 HD
-http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 3" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_three/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 3 HD
-http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4" tvg-logo="https://ie.radio.net/images/broadcasts/d3/09/3246/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4 HD
-http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4 Extra" tvg-logo="https://uk.radio.net/images/broadcasts/f6/75/12534/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4 Extra HD
-http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 5 Live" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EgCmT9UNSr.png" group-title="QUỐC TẾ" radio=true,BBC Radio 5 Live HD
-http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://ygo-assets-entities-emea.yougov.net/762d8e8a-ce07-11e8-a722-affcf7e3f830.jpg" group-title="QUỐC TẾ" radio=true,BBC Radio 6 HD
-http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_asian_network/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Asian Network HD
-http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p0l0jrdh.jpg.webp" group-title="QUỐC TẾ" radio=true,BBC Sounds News HD
-https://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio=96000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Wales" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_wales/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Wales HD
-http://as-hls-ww-live.akamaized.net/pool_97517794/live/ww/bbc_radio_wales_fm/bbc_radio_wales_fm.isml/bbc_radio_wales_fm-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Cymru" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cymru/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Cymru HD
-http://as-hls-ww-live.akamaized.net/pool_24792333/live/ww/bbc_radio_cymru/bbc_radio_cymru.isml/bbc_radio_cymru-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Cymru 2" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_cymru_2/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Cymru 2 HD
-http://as-hls-ww-live.akamaized.net/pool_98610936/live/ww/bbc_radio_cymru_2/bbc_radio_cymru_2.isml/bbc_radio_cymru_2-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Scotland" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_scotland/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Scotland HD
-http://as-hls-ww-live.akamaized.net/pool_43322914/live/ww/bbc_radio_scotland_fm/bbc_radio_scotland_fm.isml/bbc_radio_scotland_fm-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio nan Gaidheal" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_nan_gaidheal/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio nan Gaidheal HD
-http://as-hls-ww-live.akamaized.net/pool_01935182/live/ww/bbc_radio_nan_gaidheal/bbc_radio_nan_gaidheal.isml/bbc_radio_nan_gaidheal-audio%3d320000.norewind.m3u8
-#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Ulster" tvg-logo="hhttps://sounds.files.bbci.co.uk/3.8.0/networks/bbc_radio_ulster/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true, BBC Radio Ulster HD
-http://as-hls-ww-live.akamaized.net/pool_31244774/live/ww/bbc_radio_ulster/bbc_radio_ulster.isml/bbc_radio_ulster-audio%3d320000.norewind.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC World Service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/BBC_World_Service_2022_%28Boxed%29.svg/1920px-BBC_World_Service_2022_%28Boxed%29.svg.png" group-title="QUỐC TẾ" radio=true,BBC World Service Asia
+http://as-hls-ww-live.akamaized.net/pool_31623735/live/ww/bbc_world_service_east_asia/bbc_world_service_east_asia.isml/bbc_world_service_east_asia-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s24939/images/logog.png?t=2409" group-title="QUỐC TẾ" radio=true,BBC Radio 1
+http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_one_anthems/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 1 Anthems
+http://as-hls-ww-live.akamaized.net/pool_11351741/live/ww/bbc_radio_one_anthems/bbc_radio_one_anthems.isml/bbc_radio_one_anthems-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://ukradiolive.com/public/uploads/radio_img/bbc-radio-1-dance/play_250_250.webp" group-title="QUỐC TẾ" radio=true,BBC Radio 1 Dance
+http://as-hls-ww-live.akamaized.net/pool_62063831/live/ww/bbc_radio_one_dance/bbc_radio_one_dance.isml/bbc_radio_one_dance-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 1" tvg-logo="https://cdn-profiles.tunein.com/s20277/images/logog.png?t=2408" group-title="QUỐC TẾ" radio=true,BBC Radio 1Xtra
+http://as-hls-ww-live.akamaized.net/pool_92079267/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 2" tvg-logo="https://uk.radio.net/images/broadcasts/88/e1/3244/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 2
+http://as-hls-ww-live.akamaized.net/pool_74208725/live/ww/bbc_radio_two/bbc_radio_two.isml/bbc_radio_two-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 3" tvg-logo="https://sounds.files.bbci.co.uk/3.5.0/networks/bbc_radio_three/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 3
+http://as-hls-ww-live.akamaized.net/pool_23461179/live/ww/bbc_radio_three/bbc_radio_three.isml/bbc_radio_three-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 3 Unwind" tvg-logo="https://sounds.files.bbci.co.uk/3.9.4/networks/bbc_radio_three_unwind/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Radio 3 Unwind
+http://as-hls-ww-live.akamaized.net/pool_30624046/live/ww/bbc_radio_three_unwind/bbc_radio_three_unwind.isml/bbc_radio_three_unwind-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4" tvg-logo="https://ie.radio.net/images/broadcasts/d3/09/3246/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4
+http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 4 Extra" tvg-logo="https://uk.radio.net/images/broadcasts/f6/75/12534/1/c300.png" group-title="QUỐC TẾ" radio=true,BBC Radio 4 Extra
+http://as-hls-ww-live.akamaized.net/pool_26173715/live/ww/bbc_radio_four_extra/bbc_radio_four_extra.isml/bbc_radio_four_extra-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 5 Live" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/EgCmT9UNSr.png" group-title="QUỐC TẾ" radio=true,BBC Radio 5 Live
+http://as-hls-ww-live.akamaized.net/pool_89021708/live/ww/bbc_radio_five_live/bbc_radio_five_live.isml/bbc_radio_five_live-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio 6" tvg-logo="https://ygo-assets-entities-emea.yougov.net/762d8e8a-ce07-11e8-a722-affcf7e3f830.jpg" group-title="QUỐC TẾ" radio=true,BBC Radio 6
+http://as-hls-ww-live.akamaized.net/pool_81827798/live/ww/bbc_6music/bbc_6music.isml/bbc_6music-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio Asian Network" tvg-logo="https://sounds.files.bbci.co.uk/3.8.0/networks/bbc_asian_network/blocks-colour_600x600.png" group-title="QUỐC TẾ" radio=true,BBC Asian Network
+http://as-hls-ww-live.akamaized.net/pool_22108647/live/ww/bbc_asian_network/bbc_asian_network.isml/bbc_asian_network-audio%3d320000.m3u8
+#EXTINF:-1 tvg-id="no_epg" tvg-name="BBC Radio News" tvg-logo="https://ichef.bbci.co.uk/images/ic/320x320/p0l0jrdh.jpg.webp" group-title="QUỐC TẾ" radio=true,BBC Sounds News
+http://as-hls-ww-live.akamaized.net/pool_53367543/live/ww/bbc_sounds_news/bbc_sounds_news.isml/bbc_sounds_news-audio%3d320000.m3u8
 #EXTINF:-1 tvg-id="no_epg" tvg-name="BFBS Radio UK" tvg-logo="https://cdn-profiles.tunein.com/s14137/images/logod.png?t=638367220310000000" group-title="QUỐC TẾ" radio=true,BFBS Radio UK
 https://edge-audio-01-cr.sharp-stream.com/ssvcbfbs1.aac 
 #EXTINF:-1 tvg-id="no_epg" tvg-name="BFBS Radio 2" tvg-logo="https://cdn-profiles.tunein.com/s13888/images/logod.png?t=637735785970000000" group-title="QUỐC TẾ" radio=true,BFBS Radio 2
@@ -536,291 +522,415 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/JOYA937AAC.aac
 https://playerservices.streamtheworld.com/api/livestream-redirect/LABESTIAGRUFERAAAC.aac
 #EXTINF:-1 tvg-id="RadioDisneyMX" tvg-name="Radio Disney México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Radio_Disney_logo.svg/512px-Radio_Disney_logo.svg.png" group-title="QUỐC TẾ" radio=true,Radio Disney México
 https://playerservices.streamtheworld.com/api/livestream-redirect/RADIODISNEYAAC.aac
+#EXTM3U
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6185" tvg-id="mjh-radio-ih-6185" tvg-logo="https://i.iheart.com/v3/re/assets/images/fa2db663-cc83-4148-8312-886ce94029ae.png" group-title="Sydney" radio="true" , KIIS 1065
-https://i.mjh.nz/.r/radio-ih-6185.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6185.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6186" tvg-id="mjh-radio-ih-6186" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6764ac42de73b9d6cbb53fed" group-title="Sydney" radio="true" , GOLD101.7
-https://i.mjh.nz/.r/radio-ih-6186.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6186.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6179" tvg-id="mjh-radio-ih-6179" tvg-logo="https://i.iheart.com/v3/re/new_assets/623faa90fb788a23d0b662b2" group-title="Sydney" radio="true" , CADA
-https://i.mjh.nz/.r/radio-ih-6179.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6179.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-7222" tvg-id="mjh-radio-ih-7222" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67fc9ae51f12bcd3b5c1eb26" group-title="Sydney" radio="true" , iHeartCountry Australia
-https://i.mjh.nz/.r/radio-ih-7222.aac
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7135" tvg-id="mjh-radio-ih-7135" tvg-logo="https://i.iheart.com/v3/re/new_assets/5873935bbe6be1c151877d8f" group-title="Sydney" radio="true" , ABC Radio Sydney
-https://i.mjh.nz/.r/radio-ih-7135
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-7222.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10069" tvg-id="mjh-radio-ih-10069" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65641771507d911431d61063" group-title="Sydney" radio="true" , KIIS 90s
-https://i.mjh.nz/.r/radio-ih-10069.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-10069.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6941" tvg-id="mjh-radio-ih-6941" tvg-logo="https://i.iheart.com/v3/re/assets.streams/683651f68f1109734b6a413a" group-title="Sydney" radio="true" , KIIS Dance
-https://i.mjh.nz/.r/radio-ih-6941.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6941.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10073" tvg-id="mjh-radio-ih-10073" tvg-logo="https://i.iheart.com/v3/re/assets.streams/677351571e36dc91f19fc54e" group-title="Sydney" radio="true" , GOLD 80s
-https://i.mjh.nz/.r/radio-ih-10073.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-10073.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6902" tvg-id="mjh-radio-ih-6902" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b9058d0fe2ad7e64989533a" group-title="Sydney" radio="true" , iHeartRadio Countdown AUS
-https://i.mjh.nz/.r/radio-ih-6902.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6902.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-8876" tvg-id="mjh-radio-ih-8876" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67fc545338899b35a0f861b4" group-title="Sydney" radio="true" , TikTok Trending on iHeart
-https://i.mjh.nz/.r/radio-ih-8876.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-8876.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6327" tvg-id="mjh-radio-ih-6327" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c8275d6812dae62ffafeac" group-title="Sydney" radio="true" , The Bounce
-https://i.mjh.nz/.r/radio-ih-6327.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6327.m3u8
 
-#EXTINF:-1 channel-id="mjh-radio-ih-7050" tvg-id="mjh-radio-ih-7050" tvg-logo="https://i.iheart.com/v3/re/new_assets/6180c315c3362190b399919b" group-title="Sydney" radio="true" , iHeartAustralia
-https://i.mjh.nz/.r/radio-ih-7050.aac
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7115" tvg-id="mjh-radio-ih-7115" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66e3e5175e06f230d23dcbe2" group-title="Sydney" radio="true" , triple j
-https://i.mjh.nz/.r/radio-ih-7115
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7090" tvg-id="mjh-radio-ih-7090" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cff35078dc2831fd5229b9b" group-title="Sydney" radio="true" , Double J
-https://i.mjh.nz/.r/radio-ih-7090
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7116" tvg-id="mjh-radio-ih-7116" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66e8febc05f24e0df471ef15" group-title="Sydney" radio="true" , triple j Unearthed
-https://i.mjh.nz/.r/radio-ih-7116
+#EXTINF:-1 channel-id="mjh-radio-ih-7050" tvg-id="mjh-radio-ih-7050" tvg-logo="https://i.iheart.com/v3/re/assets.streams/689282efb2e2c1186373aa75" group-title="Sydney" radio="true" , KIIS Australia
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-7050.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6311" tvg-id="mjh-radio-ih-6311" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6727f5982f20bf7f528b3f35" group-title="Sydney" radio="true" , fbi.radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-6311
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6324" tvg-id="mjh-radio-ih-6324" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d721ff869be7ce36cfaee3f" group-title="Sydney" radio="true" , 2SER
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-6324
 
-#EXTINF:-1 channel-id="mjh-radio-ih-7110" tvg-id="mjh-radio-ih-7110" tvg-logo="https://i.iheart.com/v3/re/assets.streams/678da3ec50e6238b0a0994aa" group-title="Sydney" radio="true" , ABC NewsRadio
-https://i.mjh.nz/.r/radio-ih-7110
-
 #EXTINF:-1 channel-id="mjh-radio-ih-9056" tvg-id="mjh-radio-ih-9056" tvg-logo="https://i.iheart.com/v3/re/new_assets/62ecbccc5be8e2527065dc7b" group-title="Sydney" radio="true" , TICKER NEWS
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9056.m3u8
 
-#EXTINF:-1 channel-id="mjh-radio-ih-7111" tvg-id="mjh-radio-ih-7111" tvg-logo="https://i.iheart.com/v3/re/assets.streams/678da3ec50e6238b0a0994a9" group-title="Sydney" radio="true" , Radio National
-https://i.mjh.nz/.r/radio-ih-7111
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7118" tvg-id="mjh-radio-ih-7118" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cff3a518dc2831fd5229ba3" group-title="Sydney" radio="true" , ABC Classic
-https://i.mjh.nz/.r/radio-ih-7118
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7123" tvg-id="mjh-radio-ih-7123" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cf84dc6fde6e9394e432460" group-title="Sydney" radio="true" , ABC Classic 2
-https://i.mjh.nz/.r/radio-ih-7123
-
 #EXTINF:-1 channel-id="mjh-radio-ih-6312" tvg-id="mjh-radio-ih-6312" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67560304f4a6583dfafdafb9" group-title="Sydney" radio="true" , 2MBS Fine Music Sydney
-https://i.mjh.nz/.r/radio-ih-6312.aacp
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7124" tvg-id="mjh-radio-ih-7124" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63fffca0d97a654b24601522" group-title="Sydney" radio="true" , ABC Jazz
-https://i.mjh.nz/.r/radio-ih-7124
-
-#EXTINF:-1 channel-id="mjh-radio-ih-7125" tvg-id="mjh-radio-ih-7125" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63fffca0d97a654b24601521" group-title="Sydney" radio="true" , ABC Country
-https://i.mjh.nz/.r/radio-ih-7125
-
-#EXTINF:-1 channel-id="mjh-radio-ih-9315" tvg-id="mjh-radio-ih-9315" tvg-logo="https://i.iheart.com/v3/re/new_assets/62eb7b18604d9d300ec34530" group-title="Sydney" radio="true" , KIX Country
-https://i.mjh.nz/.r/radio-ih-9315.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6312
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9195" tvg-id="mjh-radio-ih-9195" tvg-logo="https://i.iheart.com/v3/re/new_assets/617f2881bd5039e366ef0289" group-title="Sydney" radio="true" , Woolworths Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9195
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6178" tvg-id="mjh-radio-ih-6178" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b862f497f66f2e1e526ba23" group-title="Sydney" radio="true" , Chemist Warehouse Remix
-https://i.mjh.nz/.r/radio-ih-6178.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6178.m3u8
 
-#EXTINF:-1 channel-id="mjh-radio-ih-7967" tvg-id="mjh-radio-ih-7967" tvg-logo="https://i.iheart.com/v3/re/new_assets/5cf84bc9fde6e9394e432456" group-title="Sydney" radio="true" , ABC KIDS Listen
-https://i.mjh.nz/.r/radio-ih-7967
-
-#EXTINF:-1 channel-id="mjh-radio-ih-8005" tvg-id="mjh-radio-ih-8005" tvg-logo="https://i.iheart.com/v3/re/new_assets/5b79fec37f66f2a2b9cfd0e9" group-title="Sydney" radio="true" , Radio Australia
-https://i.mjh.nz/.r/radio-ih-8005
-
-#EXTINF:-1 channel-id="mjh-radio-ih-6998" tvg-id="mjh-radio-ih-6998" tvg-logo="https://i.iheart.com/v3/re/new_assets/f90a1970-15fe-42bd-9340-6449fd56f33f" group-title="Sydney" radio="true" , SBS Radio 1
+#EXTINF:-1 channel-id="mjh-radio-ih-6998" tvg-id="mjh-radio-ih-6998" tvg-logo="https://i.iheart.com/v3/re/assets.streams/696888e0da59d7ddd8f3f764" group-title="Sydney" radio="true" , SBS 1
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-6998
 
-#EXTINF:-1 channel-id="mjh-radio-ih-7025" tvg-id="mjh-radio-ih-7025" tvg-logo="https://i.iheart.com/v3/re/new_assets/94379826-2819-4381-a6e8-50266b8b4044" group-title="Sydney" radio="true" , SBS Radio 2
+#EXTINF:-1 channel-id="mjh-radio-ih-7025" tvg-id="mjh-radio-ih-7025" tvg-logo="https://i.iheart.com/v3/re/assets.streams/696888e0da59d7ddd8f3f765" group-title="Sydney" radio="true" , SBS 2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7025
 
+#EXTINF:-1 channel-id="mjh-radio-ih-7026" tvg-id="mjh-radio-ih-7026" tvg-logo="https://i.iheart.com/v3/re/assets.streams/696888e0da59d7ddd8f3f766" group-title="Sydney" radio="true" , SBS 3
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-7026.m3u8
+
 #EXTINF:-1 channel-id="mjh-radio-ih-7030" tvg-id="mjh-radio-ih-7030" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67c91af9770c613ac4bbc5ad" group-title="Sydney" radio="true" , SBS Arabic
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7030
 
 #EXTINF:-1 channel-id="mjh-radio-ih-7029" tvg-id="mjh-radio-ih-7029" tvg-logo="https://i.iheart.com/v3/re/new_assets/6281c8f1ef3f5a7456d95f1c" group-title="Sydney" radio="true" , SBS Chill
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7029
 
 #EXTINF:-1 channel-id="mjh-radio-ih-7031" tvg-id="mjh-radio-ih-7031" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6625f5599e50a9b2f7d06c19" group-title="Sydney" radio="true" , SBS South Asian
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7031
 
 #EXTINF:-1 channel-id="mjh-radio-ih-7028" tvg-id="mjh-radio-ih-7028" tvg-logo="https://i.iheart.com/v3/re/new_assets/6dad816f-550c-4f2f-8ebd-008188bf3ddc" group-title="Sydney" radio="true" , SBS PopAsia
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7028
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10742" tvg-id="mjh-radio-ih-10742" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6811c299a802b7f1aca65a10" group-title="Sydney" radio="true" , SBS EuroPop
-https://i.mjh.nz/.r/radio-ih-10742
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-10742.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9032" tvg-id="mjh-radio-ih-9032" tvg-logo="https://i.iheart.com/v3/re/new_assets/60f9593e07e826da5c937ae5" group-title="Sydney" radio="true" , Koori Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9032.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-8865" tvg-id="mjh-radio-ih-8865" tvg-logo="https://i.iheart.com/v3/re/new_assets/6056d6a65b4ce04f9b0c54f7" group-title="Sydney" radio="true" , Vintage FM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-8865
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6329" tvg-id="mjh-radio-ih-6329" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e2faa40ff9c5ccb5900110a" group-title="Sydney" radio="true" , Energy Groove
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-6329
 
 #EXTINF:-1 channel-id="mjh-radio-ih-8866" tvg-id="mjh-radio-ih-8866" tvg-logo="https://i.iheart.com/v3/re/new_assets/6056d6a65b4ce04f9b0c54f6" group-title="Sydney" radio="true" , My88 FM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-8866
 
 #EXTINF:-1 channel-id="mjh-radio-ih-8677" tvg-id="mjh-radio-ih-8677" tvg-logo="https://i.iheart.com/v3/re/new_assets/5f03bb587fa67c080f58aca0" group-title="Sydney" radio="true" , 90.1 NBC FM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-8677
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9047" tvg-id="mjh-radio-ih-9047" tvg-logo="https://i.iheart.com/v3/re/new_assets/6282c1ce437c33eee71f9d04" group-title="Sydney" radio="true" , SWR 99.9 FM
-https://i.mjh.nz/.r/radio-ih-9047.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-9047.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9353" tvg-id="mjh-radio-ih-9353" tvg-logo="https://i.iheart.com/v3/re/new_assets/638a9fb43e58132f6bf75338" group-title="Sydney" radio="true" , Starter FM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9353
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9373" tvg-id="mjh-radio-ih-9373" tvg-logo="https://i.iheart.com/v3/re/new_assets/622ffa435763d421d609412e" group-title="Sydney" radio="true" , Pulse FM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9373
 
 #EXTINF:-1 channel-id="mjh-radio-ih-7308" tvg-id="mjh-radio-ih-7308" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d366d3c648b4fc8107b4070" group-title="Sydney" radio="true" , Bondi Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7308
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9593" tvg-id="mjh-radio-ih-9593" tvg-logo="https://i.iheart.com/v3/re/new_assets/6308826d4b5e3218503383ee" group-title="Sydney" radio="true" , Radio 2TripleO
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9593.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9039" tvg-id="mjh-radio-ih-9039" tvg-logo="https://i.iheart.com/v3/re/new_assets/60fd3f9711a963a6033d557e" group-title="Sydney" radio="true" , 89.3FM 2GLF
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9039.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9660" tvg-id="mjh-radio-ih-9660" tvg-logo="https://i.iheart.com/v3/re/new_assets/63a13b3fd5578dcd91873788" group-title="Sydney" radio="true" , Triple H 100.1 FM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9660
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9246" tvg-id="mjh-radio-ih-9246" tvg-logo="https://i.iheart.com/v3/re/new_assets/61a5d1f7cb1f0d77e4317017" group-title="Sydney" radio="true" , 2RRR
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9246.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6314" tvg-id="mjh-radio-ih-6314" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d23ed28db1e1347a068f5af" group-title="Sydney" radio="true" , Hope 103.2
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-6314.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9680" tvg-id="mjh-radio-ih-9680" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63c0a7be81c2ac2fef927bf7" group-title="Sydney" radio="true" , Hawkesbury Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9680
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9689" tvg-id="mjh-radio-ih-9689" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63ca07e675c6d3c9b84f4781" group-title="Sydney" radio="true" , Vision Christian Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9689.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9600" tvg-id="mjh-radio-ih-9600" tvg-logo="https://i.iheart.com/v3/re/new_assets/63088f8af5383f407d593927" group-title="Sydney" radio="true" , Alive 90.5FM
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9600.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9364" tvg-id="mjh-radio-ih-9364" tvg-logo="https://i.iheart.com/v3/re/new_assets/622ae9ba2c11ab8ba9319c80" group-title="Sydney" radio="true" , Radio Blue Mountains
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9364.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9436" tvg-id="mjh-radio-ih-9436" tvg-logo="https://i.iheart.com/v3/re/new_assets/627bb78b1799f5e4dd566a86" group-title="Sydney" radio="true" , Northside Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9436.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10143" tvg-id="mjh-radio-ih-10143" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c44b3d3fef48f1bff243c6" group-title="Sydney" radio="true" , 2ME
-https://i.mjh.nz/.r/radio-ih-10143
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-10143.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-8665" tvg-id="mjh-radio-ih-8665" tvg-logo="https://i.iheart.com/v3/re/new_assets/635064944c4c435e6efffc92" group-title="Sydney" radio="true" , TAFE Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-8665.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-7354" tvg-id="mjh-radio-ih-7354" tvg-logo="https://i.iheart.com/v3/re/new_assets/630edabda091e10aa76b38a5" group-title="Sydney" radio="true" , SURG
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7354
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10135" tvg-id="mjh-radio-ih-10135" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65b757bca78e147b14cb6a5e" group-title="Sydney" radio="true" , Connect FM 100.9
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-10135
 
 #EXTINF:-1 channel-id="mjh-radio-ih-7421" tvg-id="mjh-radio-ih-7421" tvg-logo="https://i.iheart.com/v3/re/new_assets/5996804ee7bf0342713fb26f" group-title="Sydney" radio="true" , AndrewHaug.com Metal Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-7421
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6793" tvg-id="mjh-radio-ih-6793" tvg-logo="https://i.iheart.com/v3/re/new_assets/5e93955ade5b503e88d62549" group-title="Sydney" radio="true" , The 90s iHeartRadio
-https://i.mjh.nz/.r/radio-ih-6793.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6793.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6794" tvg-id="mjh-radio-ih-6794" tvg-logo="https://i.iheart.com/v3/re/new_assets/e1724129-4e37-4eac-9d23-be1b2832a818" group-title="Sydney" radio="true" , The 80s iHeartRadio
-https://i.mjh.nz/.r/radio-ih-6794.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-6794.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10771" tvg-id="mjh-radio-ih-10771" tvg-logo="https://i.iheart.com/v3/re/assets.streams/683f7a4ef478f1de6fa97365" group-title="Sydney" radio="true" , 2RPH
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-10771.aac
 
 #EXTINF:-1 channel-id="mjh-radio-abc-mid-north-coast" tvg-id="mjh-radio-abc-mid-north-coast" tvg-logo="https://i.mjh.nz/.images/abc-nsw.png" group-title="Sydney" radio="true" , ABC Mid North Coast
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-abc-mid-north-coast.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-sky-sports-radio" tvg-id="mjh-radio-sky-sports-radio" tvg-logo="https://i.mjh.nz/.images/radio-sky-sports-radio.png" group-title="Sydney" radio="true" , Sky Sports Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-sky-sports-radio.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-smoothfm-95-3" tvg-id="mjh-radio-smoothfm-95-3" tvg-logo="https://i.mjh.nz/.images/radio-smoothfm-95-3.png" group-title="Sydney" radio="true" , smoothfm 95.3
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-smoothfm-95-3
 
 #EXTINF:-1 channel-id="mjh-radio-2gb" tvg-id="mjh-radio-2gb" tvg-logo="https://i.mjh.nz/.images/radio-2gb.png" group-title="Sydney" radio="true" , 2GB
-https://i.mjh.nz/.r/radio-2gb
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-2gb.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9661" tvg-id="mjh-radio-ih-9661" tvg-logo="https://i.iheart.com/v3/re/assets.streams/682a7854ea4a1d401404cf2d" group-title="QUỐC TẾ" radio="true" , Club Lime Test
-https://i.mjh.nz/.r/radio-ih-9661.aac
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-9661.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6315" tvg-id="mjh-radio-ih-6315" tvg-logo="https://i.iheart.com/v3/re/new_assets/5d23ee2ddb1e1347a068f5b1" group-title="QUỐC TẾ" radio="true" , Inspire Digital
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-6315.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9934" tvg-id="mjh-radio-ih-9934" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64c101a2140bc422b010a3cd" group-title="QUỐC TẾ" radio="true" , PopRock Country
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9934
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9933" tvg-id="mjh-radio-ih-9933" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64c0ff1a140bc422b010a3ca" group-title="QUỐC TẾ" radio="true" , PopRock Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9933
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9952" tvg-id="mjh-radio-ih-9952" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64d320128d46ba2e10aabf73" group-title="QUỐC TẾ" radio="true" , LiQUORiCE.fm
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9952
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9984" tvg-id="mjh-radio-ih-9984" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6506a3afb05bc240e3aae2cd" group-title="QUỐC TẾ" radio="true" , Radio Melody Australia
-https://i.mjh.nz/.r/radio-ih-9984
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-9984.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9939" tvg-id="mjh-radio-ih-9939" tvg-logo="https://i.iheart.com/v3/re/assets.streams/64c70eb8021a5420524a28f9" group-title="QUỐC TẾ" radio="true" , Vision Kids
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9939.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10632" tvg-id="mjh-radio-ih-10632" tvg-logo="https://i.iheart.com/v3/re/assets.streams/67a99921c951a0cd171b2002" group-title="QUỐC TẾ" radio="true" , Vision Worship
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-10632.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9690" tvg-id="mjh-radio-ih-9690" tvg-logo="https://i.iheart.com/v3/re/assets.streams/63ca07e675c6d3c9b84f4782" group-title="QUỐC TẾ" radio="true" , V180
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9690.aac
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9243" tvg-id="mjh-radio-ih-9243" tvg-logo="https://i.iheart.com/v3/re/assets.streams/685e003117ce1c9947ae296c" group-title="QUỐC TẾ" radio="true" , Whisperscape Hits
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9243
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9750" tvg-id="mjh-radio-ih-9750" tvg-logo="https://i.iheart.com/v3/re/assets.streams/685e005517ce1c9947ae296f" group-title="QUỐC TẾ" radio="true" , Whisperscape Smooth
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-9750
 
 #EXTINF:-1 channel-id="mjh-radio-ih-9748" tvg-id="mjh-radio-ih-9748" tvg-logo="https://i.iheart.com/v3/re/assets.streams/641f9d44e95244ec663dda6a" group-title="QUỐC TẾ" radio="true" , TNT Radio
-https://i.mjh.nz/.r/radio-ih-9748
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-9748.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10144" tvg-id="mjh-radio-ih-10144" tvg-logo="https://i.iheart.com/v3/re/assets.streams/65c4505a3fef48f1bff243c9" group-title="QUỐC TẾ" radio="true" , 2ME Gold
-https://i.mjh.nz/.r/radio-ih-10144
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-10144.m3u8
 
 #EXTINF:-1 channel-id="mjh-radio-ih-6492" tvg-id="mjh-radio-ih-6492" tvg-logo="https://i.iheart.com/v3/re/new_assets/5c664b6e5bdc8f89537a3465" group-title="QUỐC TẾ" radio="true" , Test Stream One A
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-6492
 
 #EXTINF:-1 channel-id="mjh-radio-ih-10474" tvg-id="mjh-radio-ih-10474" tvg-logo="https://i.iheart.com/v3/re/assets.streams/685e007c17ce1c9947ae2972" group-title="QUỐC TẾ" radio="true" , Whisperscape Rock
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
 https://i.mjh.nz/.r/radio-ih-10474
 
 #EXTINF:-1 channel-id="mjh-radio-ih-8400" tvg-id="mjh-radio-ih-8400" tvg-logo="https://i.iheart.com/v3/re/new_assets/60870fcc10681c5ba367c79f" group-title="QUỐC TẾ" radio="true" , Sound Plus Fifteen
-https://i.mjh.nz/.r/radio-ih-8400
-#EXTINF:-1 channel-id="mjh-radio-rv-rnznational247-eec039" tvg-id="mjh-radio-rv-rnznational247-eec039" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RNZ_National_Generic_600x600_Sq.png" group-title="Nz" radio="true" , RNZ National
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-8400.m3u8
+
+#EXTINF:-1 channel-id="mjh-radio-ih-11259" tvg-id="mjh-radio-ih-11259" tvg-logo="https://i.iheart.com/v3/re/assets.streams/68c0da19fc745443d8fbb0c4" group-title="QUỐC TẾ" radio="true" , Australian Truck Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-11259
+
+#EXTINF:-1 channel-id="mjh-radio-ih-11312" tvg-id="mjh-radio-ih-11312" tvg-logo="https://i.iheart.com/v3/re/assets.streams/69016ebcf0bbc5190e4e0346" group-title="QUỐC TẾ" radio="true" , Christmas Talk Radio
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-11312.m3u
+
+#EXTINF:-1 channel-id="mjh-radio-ih-11363" tvg-id="mjh-radio-ih-11363" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6930d5b52414d2ef1a81246e" group-title="QUỐC TẾ" radio="true" , Bread and Jam
+#EXTVLCOPT:http-user-agent=otg/1.5.1 (AppleTv Apple TV 4; tvOS16.0; appletv.client) libcurl/7.58.0 OpenSSL/1.0.2o zlib/1.2.11 clib/1.8.56
+#EXTVLCOPT:http-referrer=
+https://i.mjh.nz/.r/radio-ih-11363
+#EXTINF:-1 channel-id="mjh-radio-rv-rnznational247-eec039" tvg-id="mjh-radio-rv-rnznational247-eec039" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/RNZ_National_Generic_600x600_Sq.png" group-title="QUỐC TẾ" radio="true" , RNZ National
 https://i.mjh.nz/.r/radio-rv-rnznational247-eec039.m3u8
-#EXTINF:-1 channel-id="mjh-radio-rv-rnzconcert-98091b" tvg-id="mjh-radio-rv-rnzconcert-98091b" tvg-logo="https://images.mediaworks.nz/rnzconcert_network/Content/shows/images/1738181882339_rnz-concert-1x1.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , RNZ Concert
+#EXTINF:-1 channel-id="mjh-radio-rv-rnzconcert-98091b" tvg-id="mjh-radio-rv-rnzconcert-98091b" tvg-logo="https://images.mediaworks.nz/rnzconcert_network/Content/shows/images/1738181882339_rnz-concert-1x1.png?width=[width]&height=[height]&crop=auto" group-title="QUỐC TẾ" radio="true" , RNZ Concert
 https://i.mjh.nz/.r/radio-rv-rnzconcert-98091b.m3u8
-#EXTINF:-1 channel-id="mjh-radio-rv-rnztahi247-4ee040" tvg-id="mjh-radio-rv-rnztahi247-4ee040" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/tahi_now_playing.jpg" group-title="Nz" radio="true" , TAHI
+#EXTINF:-1 channel-id="mjh-radio-rv-rnztahi247-4ee040" tvg-id="mjh-radio-rv-rnztahi247-4ee040" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/tahi_now_playing.jpg" group-title="QUỐC TẾ" radio="true" , TAHI
 https://i.mjh.nz/.r/radio-rv-rnztahi247-4ee040.m3u8
-#EXTINF:-1 channel-id="mjh-radio-rv-rnzpacific-34924e" tvg-id="mjh-radio-rv-rnzpacific-34924e" tvg-logo="https://images.mediaworks.nz/rnzpacific_network/Content/shows/images/1737596741625_rnz-pacific-1x1-600.png?width=[width]&height=[height]&crop=auto" group-title="Nz" radio="true" , RNZ Pacific
+#EXTINF:-1 channel-id="mjh-radio-rv-rnzpacific-34924e" tvg-id="mjh-radio-rv-rnzpacific-34924e" tvg-logo="https://images.mediaworks.nz/rnzpacific_network/Content/shows/images/1737596741625_rnz-pacific-1x1-600.png?width=[width]&height=[height]&crop=auto" group-title="QUỐC TẾ" radio="true" , RNZ Pacific
 https://i.mjh.nz/.r/radio-rv-rnzpacific-34924e.m3u8
-#EXTINF:-1 channel-id="mjh-radio-ih-8272" tvg-id="mjh-radio-ih-8272" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fdba4c4c50617d408b601a0" group-title="Nz" radio="true" , Newstalk ZB Network
+#EXTINF:-1 channel-id="mjh-radio-ih-8272" tvg-id="mjh-radio-ih-8272" tvg-logo="https://i.iheart.com/v3/re/new_assets/5fdba4c4c50617d408b601a0" group-title="QUỐC TẾ" radio="true" , Newstalk ZB Network
 https://i.mjh.nz/.r/radio-ih-8272.aac
-#EXTINF:-1 channel-id="mjh-radio-ih-9473" tvg-id="mjh-radio-ih-9473" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd032848755edc76e696ef" group-title="Nz" radio="true" , ZM Network
+#EXTINF:-1 channel-id="mjh-radio-ih-9473" tvg-id="mjh-radio-ih-9473" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd032848755edc76e696ef" group-title="QUỐC TẾ" radio="true" , ZM Network
 https://i.mjh.nz/.r/radio-ih-9473.aac
-#EXTINF:-1 channel-id="mjh-radio-ih-6197" tvg-id="mjh-radio-ih-6197" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd02fb48755edc76e696e8" group-title="Nz" radio="true" , The Hits Network
+#EXTINF:-1 channel-id="mjh-radio-ih-6197" tvg-id="mjh-radio-ih-6197" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd02fb48755edc76e696e8" group-title="QUỐC TẾ" radio="true" , The Hits Network
 https://i.mjh.nz/.r/radio-ih-6197.aac
-#EXTINF:-1 channel-id="mjh-radio-ih-8823" tvg-id="mjh-radio-ih-8823" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd02de48755edc76e696d9" group-title="Nz" radio="true" , Coast Network
+#EXTINF:-1 channel-id="mjh-radio-ih-8823" tvg-id="mjh-radio-ih-8823" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd02de48755edc76e696d9" group-title="QUỐC TẾ" radio="true" , Coast Network
 https://i.mjh.nz/.r/radio-ih-8823.aac
-#EXTINF:-1 channel-id="mjh-radio-ih-9472" tvg-id="mjh-radio-ih-9472" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66f22e5f9c12087e0a977e22" group-title="Nz" radio="true" , Flava Network
+#EXTINF:-1 channel-id="mjh-radio-ih-9472" tvg-id="mjh-radio-ih-9472" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66f22e5f9c12087e0a977e22" group-title="QUỐC TẾ" radio="true" , Flava Network
 https://i.mjh.nz/.r/radio-ih-9472.aac
-#EXTINF:-1 channel-id="mjh-radio-ih-6374" tvg-id="mjh-radio-ih-6374" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd031d48755edc76e696ea" group-title="Nz" radio="true" , Radio Hauraki Network
+#EXTINF:-1 channel-id="mjh-radio-ih-6374" tvg-id="mjh-radio-ih-6374" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd031d48755edc76e696ea" group-title="QUỐC TẾ" radio="true" , Radio Hauraki Network
 https://i.mjh.nz/.r/radio-ih-6374.aac
-#EXTINF:-1 channel-id="mjh-radio-rv-morefm-a05e6d" tvg-id="mjh-radio-rv-morefm-a05e6d" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MFM_2025_Logo_BLUE_600x600.png" group-title="Nz" radio="true" , More FM Network
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-a05e6d" tvg-id="mjh-radio-rv-morefm-a05e6d" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MFM_2025_Logo_BLUE_600x600.png" group-title="QUỐC TẾ" radio="true" , More FM Network
 https://i.mjh.nz/.r/radio-rv-morefm-a05e6d.m3u8
-#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-9dcd9e" tvg-id="mjh-radio-rv-thebreeze-9dcd9e" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Network - 93.4FM
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-9dcd9e" tvg-id="mjh-radio-rv-thebreeze-9dcd9e" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="QUỐC TẾ" radio="true" , The Breeze Network - 93.4FM
 https://i.mjh.nz/.r/radio-rv-thebreeze-9dcd9e.m3u8
-#EXTINF:-1 channel-id="mjh-radio-ih-10743" tvg-id="mjh-radio-ih-10743" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6812fd4982aae621b8b5867c" group-title="Nz" radio="true" , iHeartCountry NZ
+#EXTINF:-1 channel-id="mjh-radio-ih-10743" tvg-id="mjh-radio-ih-10743" tvg-logo="https://i.iheart.com/v3/re/assets.streams/6812fd4982aae621b8b5867c" group-title="QUỐC TẾ" radio="true" , iHeartCountry NZ
 https://i.mjh.nz/.r/radio-ih-10743.aac
-#EXTINF:-1 channel-id="mjh-radio-rv-24-7-bbcworld-353a1e" tvg-id="mjh-radio-rv-24-7-bbcworld-353a1e" tvg-logo="https://i.ibb.co/GvvJCp9/BBC-WORLD-SERVICE-AUCKLAND-600x600.png" group-title="Nz" radio="true" , BBC World Service (Auckland)
+#EXTINF:-1 channel-id="mjh-radio-rv-24-7-bbcworld-353a1e" tvg-id="mjh-radio-rv-24-7-bbcworld-353a1e" tvg-logo="https://i.ibb.co/GvvJCp9/BBC-WORLD-SERVICE-AUCKLAND-600x600.png" group-title="QUỐC TẾ" radio="true" , BBC World Service (Auckland)
 https://i.mjh.nz/.r/radio-rv-24-7-bbcworld-353a1e
-#EXTINF:-1 channel-id="mjh-radio-ih-6205" tvg-id="mjh-radio-ih-6205" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd02fb48755edc76e696df" group-title="Nz" radio="true" , The Hits Manawatu
+#EXTINF:-1 channel-id="mjh-radio-ih-6205" tvg-id="mjh-radio-ih-6205" tvg-logo="https://i.iheart.com/v3/re/assets.streams/66cd02fb48755edc76e696df" group-title="QUỐC TẾ" radio="true" , The Hits Manawatu
 https://i.mjh.nz/.r/radio-ih-6205.aac
-#EXTINF:-1 channel-id="mjh-radio-rv-morefm-01a9f6" tvg-id="mjh-radio-rv-morefm-01a9f6" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MFM_2025_Logo_BLUE_600x600.png" group-title="Nz" radio="true" , MoreFM Manawatu - 92.2FM
+#EXTINF:-1 channel-id="mjh-radio-rv-morefm-01a9f6" tvg-id="mjh-radio-rv-morefm-01a9f6" tvg-logo="https://images.mediaworks.nz/rova/Content/apps/images/MFM_2025_Logo_BLUE_600x600.png" group-title="QUỐC TẾ" radio="true" , MoreFM Manawatu - 92.2FM
 https://i.mjh.nz/.r/radio-rv-morefm-01a9f6.m3u8
-#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-befc17" tvg-id="mjh-radio-rv-thebreeze-befc17" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="Nz" radio="true" , The Breeze Manawatu - 98.6FM
+#EXTINF:-1 channel-id="mjh-radio-rv-thebreeze-befc17" tvg-id="mjh-radio-rv-thebreeze-befc17" tvg-logo="https://cdn.mediaworks.nz/aem/corporate/RV_x_BRZ_600x600.png" group-title="QUỐC TẾ" radio="true" , The Breeze Manawatu - 98.6FM
 https://i.mjh.nz/.r/radio-rv-thebreeze-befc17.m3u8
 #EXTINF:-1 channel-id="mjh-radio-plains-fm" tvg-id="mjh-radio-plains-fm" tvg-logo="https://cdn-profiles.tunein.com/s25276/images/logog.png?t=1" group-title="QUỐC TẾ" radio=true,CBC Radio 1 Atlantic
 https://playerservices.streamtheworld.com/api/livestream-redirect/CBQTFM_CBC.mp3
@@ -854,33 +964,41 @@ https://5b2959fe11444.streamlock.net/radio/am1470.stream/playlist.m3u8
 https://5b2959fe11444.streamlock.net/radio/fm961.stream/playlist.m3u8
 #EXTINF:-1 channel-id="mjh-radio-plains-fm" tvg-id="mjh-radio-plains-fm" tvg-logo="https://www.radio.net/300/cjcq.png?version=6a2adf4b5bb9a580f98e7984c0d1a0bf" group-title="QUỐC TẾ" radio=true,Overseas Chinese Voice
 https://stream.radiojar.com/nugqupcv8qzuv
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="VIVIDH BHARATI" tvg-logo="https://onlineradiofm.in/assets/image/radio/100/vividh_bharati.webp",AIR Vividh Bharati
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="VIVIDH_BHARATI" tvg-logo="https://onlineradiofm.in/assets/image/radio/100/vividh_bharati.webp",AIR Vividh Bharati
 https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="RAINBOW FM" tvg-logo="https://airdco.pc.cdn.bitgravity.com/images/fm-rainbow.jpg",AIR Rainbow FM Delhi
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="RAINBOW_FM" tvg-logo="https://airdco.pc.cdn.bitgravity.com/images/fm-rainbow.jpg",AIR Rainbow FM Delhi
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8 
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="RAINBOW FM" tvg-logo="https://airdco.pc.cdn.bitgravity.com/images/rainmumbai.jpg",AIR Rainbow FM Mumbai
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="RAINBOW_FM" tvg-logo="https://airdco.pc.cdn.bitgravity.com/images/rainmumbai.jpg",AIR Rainbow FM Mumbai
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio00864kbps.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="ALL INDIA RADIO NS" tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air_live.webp",AIR Live News
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="ALL_INDIA_RADIO_NS" tvg-logo="https://onlineradiofm.in/assets/image/radio/180/air_live.webp",AIR Live News
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio00232kbps.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="GOLD FM" tvg-logo="https://onlineradiofm.in/assets/image/radio/180/fmgold.webp",AIR Gold FM
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="GOLD_FM" tvg-logo="https://onlineradiofm.in/assets/image/radio/180/fmgold.webp",AIR Gold FM
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00564kbps.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="RAAGAM" tvg-logo="https://airdco.pc.cdn.bitgravity.com/images/raagam.jpg",AIR Raagam
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="RAAGAM" tvg-logo="https://airdco.pc.cdn.bitgravity.com/images/raagam.jpg",AIR Raagam
 https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam64kbps.m3u8
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="NATIONAL SERVICE" tvg-logo="https://onlineradiofm.in/assets/image/radio/100/swadisia.jpg",SLBC National Service
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="BETAR1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Ka
+https://as1.digitalsynapsebd.com/proxy/bbdkka/stream
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="BETAR2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Kha
+https://as1.digitalsynapsebd.com/proxy/bbdkkha/stream
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="BETAR_COMMERCIAL" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Commercial Service
+https://as1.digitalsynapsebd.com/proxy/bbdkcom/stream
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="BETAR_TRAFFIC" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/Bangladesh-betar-logo.jpg",Bangladesh Betar Traffic FM
+https://as1.digitalsynapsebd.com/proxy/bbdktraf/stream
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="NATIONAL_SERVICE" tvg-logo="https://onlineradiofm.in/assets/image/radio/100/swadisia.jpg",SLBC National Service
 http://220.247.227.6:8000/Snsstream
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="TAMIL SERVICE" tvg-logo="https://radiosindia.com/images/slbctamil.jpg",SLBC Tamil Service
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="TAMIL_SERVICE" tvg-logo="https://radiosindia.com/images/slbctamil.jpg",SLBC Tamil Service
 https://stream-32.zeno.fm/xekhrn4zetzuv?zs=KXT1gTNYSemcxyslV6-vdA
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="RADIO CEYLON" tvg-logo="https://www.slbc.lk/images/heritage_sites/Radio-Sri-Lanka-1679900610.png",SLBC English - Radio Ceylon
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="RADIO_CEYLON" tvg-logo="https://www.slbc.lk/images/heritage_sites/Radio-Sri-Lanka-1679900610.png",SLBC English - Radio Ceylon
 http://220.247.227.20:8000/RSLstream
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="CITY FM" tvg-logo="https://www.slbc.lk/images/heritage_sites/Radio-Sri-Lanka-1679900610.png",SLBC City FM
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="CITY_FM" tvg-logo="https://www.slbc.lk/images/heritage_sites/Radio-Sri-Lanka-1679900610.png",SLBC City FM
 http://220.247.227.20:8000/citystream
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="KISS FM 969" tvg-logo="http://yfm.lk/wp-content/uploads/2018/04/y1.png",KISS FM 969
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="KISS FM 969" tvg-logo="http://yfm.lk/wp-content/uploads/2018/04/y1.png",KISS FM 969
 https://srv01.onlineradio.voaplus.com/kissfm
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="Y FM" tvg-logo="http://yfm.lk/wp-content/uploads/2018/04/y1.png",Y FM
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="Y FM" tvg-logo="http://yfm.lk/wp-content/uploads/2018/04/y1.png",Y FM
 http://live.trusl.com:1180/;
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="Y FM ENGLISH" tvg-logo="https://yesfmonline.com/images/logos/yes-fm-logo-about.png",YES FM
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="Y FM ENGLISH" tvg-logo="https://yesfmonline.com/images/logos/yes-fm-logo-about.png",YES FM
 http://live.trusl.com:1150/listen.pls?sid=1
-#EXTINF:-1 group-title="QUỐC TẾ" radio=truetvg-name="LAKHANDA" tvg-logo="https://yt3.googleusercontent.com/DpfKudlmh614XUdl3Fa2xgmuwPbZAlU7fzCcKWj39D7ZOWWYo1HpavPkL8mJAWcXpHSleu_Z7w=s900-c-k-c0x00ffffff-no-rj",ITN Lakhanda FM
+#EXTINF:-1 group-title="QUỐC TẾ" radio=true tvg-name="LAKHANDA" tvg-logo="https://yt3.googleusercontent.com/DpfKudlmh614XUdl3Fa2xgmuwPbZAlU7fzCcKWj39D7ZOWWYo1HpavPkL8mJAWcXpHSleu_Z7w=s900-c-k-c0x00ffffff-no-rj",ITN Lakhanda FM
 https://cp12.serverse.com/proxy/itnfm?mp=/stream
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vzWNcMR.png" group-title="QUỐC TẾ" radio=true,Korean Central Broadcasting Service
 https://radio.intchoson.com/kcbs/index.m3u8
@@ -976,7 +1094,7 @@ http://mnet.x10.mx/nhkfm.m3u8
 https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/5e763a347e800.png" group-title="QUỐC TẾ" radio=true,J1 Hits
 https://jenny.torontocast.com:2000/stream/J1HITS
-#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/63952aea8cfb1.png" group-title="QUỐC TẾ" radio=true,J1 HD
+#EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/63952aea8cfb1.png" group-title="QUỐC TẾ" radio=true,J1
 https://maggie.torontocast.com:2000/stream/J1HD
 #EXTINF:-1 tvg-logo="https://mmo.aiircdn.com/387/63952aea8cfb1.png" group-title="QUỐC TẾ" radio=true,J1 XTra
 https://jenny.torontocast.com:2000/stream/J1XTRA
@@ -1180,6 +1298,14 @@ https://stream.rcs.revma.com/kydend74hv8uv
 https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://live.cooltv.top/logo/cityfmtw.png" group-title="QUỐC TẾ" radio=true,City FM 90.1
 https://fm901.cityfm.com.tw:8083/901
+#EXTINF:-1 tvg-name="HitFMTaipei" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMTaipei
+http://202.39.43.67:1935/live/RA000036/playlist.m3u8
+#EXTINF:-1 tvg-name="HitFMTaichung" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMTaichung
+http://202.39.43.67:1935/live/RA000035/playlist.m3u8
+#EXTINF:-1 tvg-name="HitFMEast" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMEast
+http://202.39.43.67:1935/live/RA000118/playlist.m3u8
+#EXTINF:-1 tvg-name="HitFMYilan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAZ25LvBIA3HwF7gz-SKy5_DasLwYtaIffAw&s",HitFMYilan
+http://202.39.43.67:1935/live/RA000065/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y5x4caXTAjQYAUF_Fuso_-EK4svPPMBZQf7FKAdZQ_4tTtDD307cfpv0hEwC41XWYx5x" group-title="QUỐC TẾ" radio=true,Myanmar Radio National Service
 https://lb-as.cdn-perfprod.com/live/myanma_radio
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/y5x4caXTAjQYAUF_Fuso_-EK4svPPMBZQf7FKAdZQ_4tTtDD307cfpv0hEwC41XWYx5x" group-title="QUỐC TẾ" radio=true,Tha Pyay Radio
@@ -1285,7 +1411,7 @@ https://stream.rcs.revma.com/z56xa78mtd3vv
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f9/88.3JIA_radio_station_logo.png" group-title="QUỐC TẾ" radio=true,JIA 88.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s304217/images/logod.png?t=161616" group-title="QUỐC TẾ" radio=true,SPH Money FM 89.3
-https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893.mp3
+ttps://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/ZUyfucULwh.jpg",RIA 89.7
 https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/AWjWGLbzkc.jpg",GOLD 905
@@ -1305,7 +1431,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.a
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=truetvg-logo="https://static.mytuner.mobi/media/radios-150px/jKhx2VFARK.jpg",CLASS 95
 http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/EFUtj72GTd.jpg",CAPITAL 958
-http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac
+https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac
 #EXTINF:-1  tvg-logo="http://gg.gg/1985uo" group-title="QUỐC TẾ" radio=true,SPH Hao FM 96.3
 https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963.mp3 
 #EXTINF:-1 tvg-id="24.7.Dummy.us" group-title="QUỐC TẾ" radio=true tvg-logo="https://static.mytuner.mobi/media/radios-150px/6mTjKZgGMz.jpg",Oli 968
@@ -1475,22 +1601,16 @@ http://112.121.150.133:9102/stream/1/
 
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/chiang-mai-93-75.png" group-title="QUỐC TẾ" radio=true,93.75 FM
 http://112.121.151.133:8124/live
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/kiss-fm.png" group-title="QUỐC TẾ" radio=true,91.75 FM
 http://s1.thailandstreaming.net:8020/listen.pls?sid=1
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/mun-forward.png" group-title="QUỐC TẾ" radio=true,Mun FWD FM
 https://cdn-th2.livestreaming.in.th/shoutcast/8730
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/love-93.png" group-title="QUỐC TẾ" radio=true,Love 93 FM
 https://radio14.plathong.net/8060/stream/1/
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/trip.png" group-title="QUỐC TẾ" radio=true,Trip 89.75 FM
 https://cdn-th2.login.in.th/shoutcast/1150
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/q-fm.png" group-title="QUỐC TẾ" radio=true,97 Q FM
 https://cdn-th2.livestreaming.in.th/shoutcast/8610
-
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/live-phuket.png" group-title="QUỐC TẾ" radio=true,Phuket 89.5 FM
 https://4118.radio4.thzhost.com/stream/1/
 #EXTINF:0 group-title="QUỐC TẾ" radio=true  tvg-id="24.7.Dummy.us" tvg-logo="https://cdn.webrad.io/images/logos/radioth-net/chill-89.png" group-title="QUỐC TẾ" radio=true,Chill 93 FM
@@ -1519,12 +1639,6 @@ https://mediacp-id1.arenastreaming.com:2020/stream/awrtimorleste
 https://stream.rcast.net/67902
 #EXTINF:-1 tvg-chno="291" tvg-id="no_epg"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4sD7pO03FxwiZCWjkhPwKOxTdE9TehxMX0Q&s" group-title="QUỐC TẾ" radio=true,Radio Liberdade Dili
 https://streaming.kalohan.net/proxy/raliber?mp=/stream
-
-
-
-
-
-
 
 
 
