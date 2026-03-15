@@ -1232,10 +1232,9 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
 #EXTINF:-1 tvg-id="77" tvg-name="HOY TV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/f/f3/HOY_TV_Logo.svg/1200px-HOY_TV_Logo.svg.png" group-title="Hong Kong và Macao", HOY 78
 https://hls.168.us.kg/u/78/master.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png" group-title="Hong Kong và Macao",TVB Jade
-http://60.246.171.122:8889/bysid/1
+https://mytv.cdn.loc.cc/o12.php?id=fct
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://iptv-pro.github.io/logo/feicui.png" group-title="Hong Kong và Macao",TVB Jade Cable
 http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB Lifestyle" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Lifestyle
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png" group-title="Hong Kong và Macao",TVB Plus
