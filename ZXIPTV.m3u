@@ -394,7 +394,7 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.ibb.co/nbzwz4w/arirang.jpg",Arirang
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
-https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=213
 #EXTINF:-1 tvg-id="fashionhd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
@@ -459,9 +459,9 @@ http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="Giải trí" tvg-logo="https://i.imgur.com/cwC7Q2V.png",TV5Monde Style
 https://ott.tv5monde.com/Content/HLS/Live/channel(style1)/variant.m3u8
 #EXTINF:-1,tvg-id="娱乐新闻台" tvg-name="娱乐新闻台" tvg-logo="https://epg.112114.xyz/logo/娱乐新闻台.png" group-title="Giải trí",TVB E-News
-https://v2h.946985.qzz.io/live/ylxw/stream.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="", TVB Xing He
-https://v2h.946985.qzz.io/live/tvbxh/stream.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-id="warnertvhd" group-title="Giải trí" tvg-logo="", Phoenix Movies Channel
 http://www.liyajun.top:7088/udp/239.253.93.81:6247
 
@@ -535,554 +535,7 @@ http://10.0.12.252:4200/bysid/2111
 #EXTINF:0 group-title="Anh Quốc",RTE Junior
 http://10.0.12.252:4200/bysid/2117
 
---------------------------------------------------------------------------------
-
-#EXTINF:-1 tvg-id="tf1hd" tvg-chno="191" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/tf1hd.png", TF1 HD
-https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-HLS8/tf1hd.m3u8
-#EXTINF:-1 tvg-id="france2hd" tvg-chno="100" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/france2hd.png", France 2 HD
-https://viamotionhsi.netplus.ch/live/eds/france2hd/browser-HLS8/france2hd.m3u8
-#EXTINF:-1 tvg-id="france3hd" tvg-chno="101" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/france3hd.png", France 3 HD
-https://viamotionhsi.netplus.ch/live/eds/france3hd/browser-HLS8/france3hd.m3u8
-#EXTINF:-1 tvg-id="france4hd" tvg-chno="102" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/france4hd.png", France 4 HD
-https://viamotionhsi.netplus.ch/live/eds/france4hd/browser-HLS8/france4hd.m3u8
-#EXTINF:-1 tvg-id="france5hd" tvg-chno="103" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/france5hd.png", France 5 HD
-https://viamotionhsi.netplus.ch/live/eds/france5hd/browser-HLS8/france5hd.m3u8
-#EXTINF:-1 tvg-id="srf1hd" tvg-chno="179" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/srf1hd.png", SRF 1 HD
-https://viamotionhsi.netplus.ch/live/eds/srf1hd/browser-HLS8/srf1hd.m3u8
-#EXTINF:-1 tvg-id="srf2hd" tvg-chno="180" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/srf2hd.png", SRF 2 HD
-https://viamotionhsi.netplus.ch/live/eds/srf2hd/browser-HLS8/srf2hd.m3u8
-#EXTINF:-1 tvg-id="srfinfo" tvg-chno="181" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/srfinfo.png", SRF Info
-https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8
-#EXTINF:-1 tvg-id="rts1hd" tvg-chno="172" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rts1hd.png", RTS 1 HD
-https://viamotionhsi.netplus.ch/live/eds/rts1hd/browser-HLS8/rts1hd.m3u8
-#EXTINF:-1 tvg-id="rts2hd" tvg-chno="173" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rts2hd.png", RTS 2 HD
-https://viamotionhsi.netplus.ch/live/eds/rts2hd/browser-HLS8/rts2hd.m3u8
-#EXTINF:-1 tvg-id="rsila1hd" tvg-chno="163" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rsila1hd.png", RSI LA 1 HD
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 tvg-id="rsila2hd" tvg-chno="164" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rsila2hd.png", RSI LA 2 HD
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
-#EXTINF:-1 tvg-id="rai1" tvg-chno="148" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rai1.png", Rai 1
-https://viamotionhsi.netplus.ch/live/eds/rai1/browser-HLS8/rai1.m3u8
-#EXTINF:-1 tvg-id="rai2" tvg-chno="149" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rai2.png", Rai 2
-https://viamotionhsi.netplus.ch/live/eds/rai2/browser-HLS8/rai2.m3u8
-#EXTINF:-1 tvg-id="rai3" tvg-chno="150" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rai3.png", Rai 3
-https://viamotionhsi.netplus.ch/live/eds/rai3/browser-HLS8/rai3.m3u8
-#EXTINF:-1 tvg-id="raigulp" tvg-chno="151" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/raigulp.png", Rai Gulp
-https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-HLS8/raigulp.m3u8
-#EXTINF:-1 tvg-id="rainews" tvg-chno="152" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/rainews.png", rainews
-https://viamotionhsi.netplus.ch/live/eds/rainews/browser-HLS8/rainews.m3u8
-#EXTINF:-1 tvg-id="raiscuola" tvg-chno="153" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/raiscuola.png", raiscuola
-https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-HLS8/raiscuola.m3u8
-#EXTINF:-1 tvg-id="raisport1" tvg-chno="154" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/raisport1.png", raisport1
-https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-HLS8/raisport1.m3u8
-#EXTINF:-1 tvg-id="raistoria" tvg-chno="155" group-title="Tây Âu" tvg-logo="https://picserve.netplus.ch/channels/raistoria.png", raistoria
-https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-HLS8/raistoria.m3u8
-
---------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="Đức", ARD Das Erste
-https://viamotionhsi.netplus.ch/live/eds/daserstehd/browser-dash/daserstehd.mpd
-#EXTINF:-1 group-title="Đức", ZDF
-https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-#EXTINF:-1 tvg-id="zdfinfohd" tvg-chno="213" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/zdfinfohd.png", ZDF info HD
-https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
-#EXTINF:-1 tvg-id="zdfneohd" tvg-chno="214" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/zdfneohd.png", ZDF neo HD
-https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-#EXTINF:-1 tvg-id="rtl" tvg-chno="169" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/rtl.png", RTL
-https://viamotionhsi.netplus.ch/live/eds/rtl/browser-HLS8/rtl.m3u8
-#EXTINF:-1 tvg-id="rtl2" tvg-chno="167" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/rtl2.png", RTL 2
-https://viamotionhsi.netplus.ch/live/eds/rtl2/browser-HLS8/rtl2.m3u8
-#EXTINF:-1 tvg-id="rtlnitro" tvg-chno="170" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/rtlnitro.png", RTL Nitro
-https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-#EXTINF:-1 tvg-id="kikahd" tvg-chno="116" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/kikahd.png", KIKA HD
-https://viamotionhsi.netplus.ch/live/eds/kikahd/browser-HLS8/kikahd.m3u8
-#EXTINF:-1 tvg-id="mdr" tvg-chno="128" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/mdr.png", MDR
-https://viamotionhsi.netplus.ch/live/eds/mdr/browser-HLS8/mdr.m3u8
-#EXTINF:-1 tvg-id="n24" tvg-chno="133" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/n24.png", Welt
-https://viamotionhsi.netplus.ch/live/eds/n24/browser-HLS8/n24.m3u8
-#EXTINF:-1 tvg-id="ndr" tvg-chno="134" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/ndr.png", NDR
-https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
-#EXTINF:-1 tvg-id="onehd" tvg-chno="141" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/onehd.png", onehd
-https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
-#EXTINF:-1 tvg-id="hr" tvg-chno="108" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/hr.png", HR
-https://viamotionhsi.netplus.ch/live/eds/hr/browser-HLS8/hr.m3u8
-#EXTINF:-1 tvg-id="orf1" tvg-chno="143" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/orf1.png", ORF 1
-https://viamotionhsi.netplus.ch/live/eds/orf1/browser-HLS8/orf1.m3u8
-#EXTINF:-1 tvg-id="orf2" tvg-chno="144" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/orf2.png", ORF 2
-https://viamotionhsi.netplus.ch/live/eds/orf2/browser-HLS8/orf2.m3u8
-#EXTINF:-1 tvg-id="phoenixhd" tvg-chno="146" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/phoenixhd.png", Phoenix HD
-https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
-#EXTINF:-1 tvg-id="comedycentral" tvg-chno="46" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/comedycentral.png", comedycentral
-https://viamotionhsi.netplus.ch/live/eds/comedycentral/browser-HLS8/comedycentral.m3u8
-#EXTINF:-1 tvg-id="comedycentralnick" tvg-chno="47" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/comedycentralnick.png", Nick
-https://viamotionhsi.netplus.ch/live/eds/comedycentralnick/browser-HLS8/comedycentralnick.m3u8
-#EXTINF:-1 tvg-id="deluxemusic" tvg-chno="50" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/deluxemusic.png", deluxemusic
-https://viamotionhsi.netplus.ch/live/eds/deluxemusic/browser-HLS8/deluxemusic.m3u8
-#EXTINF:-1 tvg-id="disneychannelde" tvg-chno="51" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/disneychannelde.png", Disney Channel DE
-https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
-#EXTINF:-1 tvg-id="dmax" tvg-chno="53" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/dmax.png", dmax
-https://viamotionhsi.netplus.ch/live/eds/dmax/browser-HLS8/dmax.m3u8
-#EXTINF:-1 tvg-id="rbb" tvg-chno="156" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/rbb.png", rbb
-https://viamotionhsi.netplus.ch/live/eds/rbb/browser-HLS8/rbb.m3u8
-#EXTINF:-1 tvg-id="startv" tvg-chno="182" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/startv.png", startv
-https://viamotionhsi.netplus.ch/live/eds/startv/browser-HLS8/startv.m3u8
-#EXTINF:-1 tvg-id="superrtl" tvg-chno="183" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/superrtl.png", Super RTL
-https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
-#EXTINF:-1 tvg-id="swrbw" tvg-chno="184" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/swrbw.png", SWR BW
-https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
-#EXTINF:-1 tvg-id="tele5" tvg-chno="187" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/tele5.png", Tele 5
-https://viamotionhsi.netplus.ch/live/eds/tele5/browser-HLS8/tele5.m3u8
-#EXTINF:-1 tvg-id="vox" tvg-chno="209" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/vox.png", Vox
-https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
-#EXTINF:-1 tvg-id="wdrhd" tvg-chno="211" group-title="Đức" tvg-logo="https://picserve.netplus.ch/channels/wdrhd.png", WDR HD
-https://viamotionhsi.netplus.ch/live/eds/wdrhd/browser-HLS8/wdrhd.m3u8
-
---------------------------------------------------------------------------------
-
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал HD 
-http://178.212.71.253:8000/play/62/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал
-http://178.212.71.253:8000/play/1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ4
-http://178.212.71.253:8000/play/106/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ
-http://178.212.71.253:8000/play/19/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",РЕН ТВ
-http://178.212.71.253:8000/play/11/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 1
-http://178.212.71.253:8000/play/2/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 1 +4
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч!
-http://178.212.71.253:8000/play/3/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ
-http://178.212.71.253:8000/play/4/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ HD 
-http://178.212.71.253:8000/play/33/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НТВ +4 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 OPR/115.0.0.0
-https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия К
-http://178.212.71.253:8000/play/6/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Россия 24
-http://178.212.71.253:8000/play/7/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Точка РФ
-http://178.212.71.253:8000/play/61/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",RTG TV
-http://178.212.71.253:8000/play/71/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Живая природа
-http://178.212.71.253:8000/play/79/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",История
-http://178.212.71.253:8000/play/87/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Охота и Рыбалка
-http://178.212.71.253:8000/play/93/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Живая Планета
-http://178.212.71.253:8000/play/114/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Моя Планета
-http://178.212.71.253:8000/play/117/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Наука
-http://178.212.71.253:8000/play/88/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Большая азия
-http://178.212.71.253:8000/play/83/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Техно 24
-http://178.212.71.253:8000/play/63/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",5 Канал
-http://178.212.71.253:8000/play/5/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ОТР
-http://178.212.71.253:8000/play/9/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТВЦ
-http://178.212.71.253:8000/play/10/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Спас
-http://178.212.71.253:8000/play/12/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",СТС
-http://178.212.71.253:8000/play/13/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Домашний
-http://178.212.71.253:8000/play/14/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТВ3
-http://178.212.71.253:8000/play/15/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Пятница
-http://178.212.71.253:8000/play/16/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Звезда
-http://178.212.71.253:8000/play/17/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мир
-http://178.212.71.253:8000/play/18/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый Крымский
-http://178.212.71.253:8000/play/22/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мир 24
-http://178.212.71.253:8000/play/23/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Милет
-http://178.212.71.253:8000/play/24/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый Крымский HD
-http://178.212.71.253:8000/play/25/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Крым 24 HD
-http://178.212.71.253:8000/play/26/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ялта ТВ
-http://178.212.71.253:8000/play/27/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Москва 24
-http://178.212.71.253:8000/play/28/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ИКС
-http://178.212.71.253:8000/play/29/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Mezzo
-http://178.212.71.253:8000/play/31/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Витрина
-http://178.212.71.253:8000/play/32/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ювелирочка
-http://178.212.71.253:8000/play/35/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",РБК
-http://178.212.71.253:8000/play/36/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТРО
-http://178.212.71.253:8000/play/37/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Телеканал 360
-http://178.212.71.253:8000/play/39/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Cinema
-http://178.212.71.253:8000/play/40/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ЦТВ
-http://178.212.71.253:8000/play/41/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Роман
-http://178.212.71.253:8000/play/42/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",МузСоюз
-http://178.212.71.253:8000/play/43/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Сарафан
-http://178.212.71.253:8000/play/44/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Детектив
-http://178.212.71.253:8000/play/45/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Иллюзион
-http://178.212.71.253:8000/play/49/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Любимое кино
-http://178.212.71.253:8000/play/50/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Москва Доверие
-http://178.212.71.253:8000/play/53/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Индия
-http://178.212.71.253:8000/play/59/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киносерия
-http://178.212.71.253:8000/play/64/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киносат
-http://178.212.71.253:8000/play/66/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",365 дней
-http://178.212.71.253:8000/play/67/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Доктор
-http://178.212.71.253:8000/play/68/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Авто плюс
-http://178.212.71.253:8000/play/69/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Телеканал 360
-http://178.212.71.253:8000/play/72/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Наша Тема
-http://178.212.71.253:8000/play/73/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Суббота
-http://178.212.71.253:8000/play/75/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кино ТВ
-http://178.212.71.253:8000/play/78/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Союз
-http://178.212.71.253:8000/play/80/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мир 24 HD
-http://178.212.71.253:8000/play/82/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Вместе-РФ
-http://178.212.71.253:8000/play/84/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Беларусь 24
-http://178.212.71.253:8000/play/89/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ретро
-http://178.212.71.253:8000/play/90/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Усадьба
-http://178.212.71.253:8000/play/91/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Драйв
-http://178.212.71.253:8000/play/92/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Здоровое ТВ
-http://178.212.71.253:8000/play/94/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Домашние животные
-http://178.212.71.253:8000/play/95/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Психология 21
-http://178.212.71.253:8000/play/96/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Вопросы и ответы
-http://178.212.71.253:8000/play/97/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Дом Кино
-http://178.212.71.253:8000/play/99/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",НСТ
-http://178.212.71.253:8000/play/100/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", CTC love
-http://178.212.71.253:8000/play/104/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG", Ю
-http://178.212.71.253:8000/play/105/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Конный Мир
-http://178.212.71.253:8000/play/108/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Соловьев Live
-http://178.212.71.253:8000/play/111/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",2x2
-http://178.212.71.253:8000/play/113/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Бестселер
-http://178.212.71.253:8000/play/115/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",КВН ТВ
-http://178.212.71.253:8000/play/119/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",7TV
-http://178.212.71.253:8000/play/120/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",8 канал
-http://178.212.71.253:8000/play/121/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мосфильм. Золотая коллекция
-http://178.212.71.253:8000/play/124/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мужское Кино
-http://178.212.71.253:8000/play/126/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киносемья
-http://178.212.71.253:8000/play/127/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киносвидание
-http://178.212.71.253:8000/play/122/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киномикс
-http://178.212.71.253:8000/play/70/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кинохит
-http://178.212.71.253:8000/play/123/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Наше Новое Кино
-http://178.212.71.253:8000/play/128/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кинопремьера HD
-http://178.212.71.253:8000/play/125/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кинокомедия
-http://178.212.71.253:8000/play/85/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Родное Кино
-http://178.212.71.253:8000/play/136/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Победа
-http://178.212.71.253:8000/play/129/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Звезда+
-http://178.212.71.253:8000/play/130/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ностальгия
-http://178.212.71.253:8000/play/131/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Кто Есть Кто
-http://178.212.71.253:8000/play/132/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Киноужас
-http://178.212.71.253:8000/play/133/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",7ТВ
-http://178.212.71.253:8000/play/381/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Известия
-http://178.212.71.253:8000/play/138/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Че
-http://178.212.71.253:8000/play/139/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Продвижение
-http://178.212.71.253:8000/play/140/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Жара
-http://178.212.71.253:8000/play/141/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",1HD
-http://178.212.71.253:8000/play/60/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",МузТВ
-http://178.212.71.253:8000/play/20/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Music Box Russia
-http://178.212.71.253:8000/play/65/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Шансон ТВ
-http://178.212.71.253:8000/play/76/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Bridge HD
-http://178.212.71.253:8000/play/98/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Bridge TV
-http://178.212.71.253:8000/play/110/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Bridge TV Rock
-http://178.212.71.253:8000/play/101/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",BridgeTV Hit
-http://178.212.71.253:8000/play/134/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Bridge TV classic
-http://178.212.71.253:8000/play/135/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Bridge TV Шлягер
-http://178.212.71.253:8000/play/142/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",ТНТ Music
-http://178.212.71.253:8000/play/137/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",RU.TV
-http://178.212.71.253:8000/play/38/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Cолнце
-http://178.212.71.253:8000/play/103/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мама
-http://178.212.71.253:8000/play/86/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",СТС Kids
-http://178.212.71.253:8000/play/112/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Ani
-http://178.212.71.253:8000/play/74/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Детский Мир
-http://178.212.71.253:8000/play/52/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Радость Моя
-http://178.212.71.253:8000/play/46/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Карусель
-http://178.212.71.253:8000/play/8/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Бобёр
-http://178.212.71.253:8000/play/77/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мульт
-http://178.212.71.253:8000/play/47/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Мультимузыка
-http://178.212.71.253:8000/play/116/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Eurosport 1
-http://178.212.71.253:8000/play/143/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч ТВ HD
-http://178.212.71.253:8000/play/34/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Страна
-http://178.212.71.253:8000/play/51/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Арена
-http://178.212.71.253:8000/play/54/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Боец
-http://178.212.71.253:8000/play/55/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Игра
-http://178.212.71.253:8000/play/56/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч Премьер
-http://178.212.71.253:8000/play/57/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Матч! Футбол 1
-http://178.212.71.253:8000/play/58/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Русский Экстрим
-http://178.212.71.253:8000/play/118/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Старт
-http://178.212.71.253:8000/play/81/index.m3u8
-#EXTINF:-1 tvg-id="belarus1" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Belarus-1.jpg/200px-Belarus-1.jpg", Belarus 1
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS1HD.m3u8
-#EXTINF:-1 tvg-id="belarus2" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://seeklogo.com/images/B/belarus-2-logo-703A54CF7F-seeklogo.com.png", Belarus 2
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS2HD.m3u8
-#EXTINF:-1 tvg-id="belarus3" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus3.png", Belarus 3
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS3HD.m3u8
-#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus5.png", Belarus 5
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5HD.m3u8
-#EXTINF:-1 tvg-id="belarus4-vitebsk" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belarus5.png", Belarus 5 Internet
-http://dmi3y-tv.ru/hls/blrus/CH_BELARUS5_INTHD.m3u8
-#EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Belarus_24.svg/revision/latest/scale-to-width-down/200?cb=20191008123534", Belarus 24
-https://ngtrk.dc.beltelecom.by/ngtrk/smil:belarus24.smil/index.m3u8
-#EXTINF:-1 tvg-id="belarus24" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/tvpedia/images/e/e8/FirstNews2024.webp/revision/latest/scale-to-width-down/250?cb=20240918133029&path-prefix=ru", Belarus First News HD
-http://dmi3y-tv.ru/hls/blrus/CH_1INFORMATSYONNYHD.m3u8
-#EXTINF:-1 tvg-id="stv-by" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/stv-by4.png", STV
-http://dmi3y-tv.ru/hls/blrus/CH_CTBHD720.m3u8
-#EXTINF:-1 tvg-id="no_epg_news" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/ont-by.png", ONT
-http://dmi3y-tv.ru/hls/blrus/CH_OHTHD.m3u8
-#EXTINF:-1 tvg-id="ntv-belarus" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/ntv-belarus.png", NTV-Belarus
-http://194.158.222.36:6107
-#EXTINF:-1 tvg-id="rtr-belarus" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/rtr-belarus.png", RTR-Belarus
-http://194.158.222.36:6106
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://www.mtis.by/i/tv_a/mir.png",Mir Belarus
-http://194.158.222.36:6104
-#EXTINF:-1 tvg-id="tro" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belros.png", BelRos
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 tvg-id="tro" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belros.png", 1TV Gruzia
-https://tv.cdn.xsg.ge/gpb-1tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
-#EXTINF:-1 tvg-id="tro" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://picon.ml/belros.png", 2TV Gruzia
-https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.m3u8?token=tva.org.ua
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG",Первый канал Евразия
-http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="AbaiTV.kz",Abai TV 
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="AlauTV.kz",Alau TV 
-https://otv.wotom.net/alau/stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Aqjaiyq.kz",Aqjaiyq 
-https://stream.kaztrk.kz/regional/oraltv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Aqtobe.kz",Aqtóbe 
-https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Atyray.kz",Atyraý 
-https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Balapan.kz",Balapan TV
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Ertis.kz",Ertis  
-https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Jambyl.kz",Jambyl  
-https://stream.kaztrk.kz/regional/taraztv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Kokshe.kz",Kókshe  
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="ManasTV.kg@SD",Manas TV 
-http://212.42.111.152:8080/hls/manas.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Mangystay.kz",Mańǵystaý
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Ontustik.kz",Ontústik 
-https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qazaqstan.kz",Qazaqstan TV  
-https://qazaqstantv-stream.qazcdn.com/qazaqstantv/qazaqstantv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qazaqstan.kz",Qazaqstan TV International 
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qostanai.kz",Qostanai  
-https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qyzyljar.kz",Qyzyljar 
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Qyzylorda.kz",Qyzylorda 
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Saryarqa.kz",Saryarqa  
-https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Semei.kz",Semeı 
-https://stream.kaztrk.kz/regional/semeytv/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="KTK.kz",КТК  
-https://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="KTK.kz",КТК  
-http://89.218.30.37/ktklive/live.hq/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MTRK.kz",МТРК  
-https://tvcdn01.oktv.kz/tv/mtrk/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="Novoetelevidenie.kz",Новое телевидение  
-http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MuzzOne.kz",MuzzOne 
-https://hls.live.31kz.adapto.kz/muzzone/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="31Kanal.kz",31 Kanal
-https://hls.live.31kz.adapto.kz/forward_live_31kz/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/Altyn_Asyr.png/revision/latest/scale-to-width-down/250?cb=20211225160159",Altyn Asyr
-https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/Ashgabat_TV.png/revision/latest?cb=20211225160751",Asgabat
-https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2e/Miras.png/revision/latest/scale-to-width-down/150?cb=20211225160741",Miras
-https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Turkmen_Ovazy.png/revision/latest/scale-to-width-down/250?cb=20211225160825",Turkmen Owazy
-https://alpha.tv.online.tm/legacyhls/ch005_720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Turkmenistan_Sport.png/revision/latest?cb=20211225160814",Turkmenistan Sport
-https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Turkmenistan_%28TV_channel%29.png/revision/latest/scale-to-width-down/250?cb=20211225160834",Turkmenistan TV
-https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/Yashlyk.png/revision/latest?cb=20211225160800",Yaslyk TV
-https://alpha.tv.online.tm/legacyhls/ch002_720/index.m3u8
-#EXTINF:-1 tvg-id="mir" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://a-russia.ru/wp-content/uploads/2015/12/tvmir-logo-65.png", Mir HD
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
-#EXTINF:-1 tvg-id="mir-24" group-title="🇷🇺 Nga và khối SNG" tvg-logo="https://onair.mir24.tv/storage/app/uploads/public/5d6/f65/368/5d6f653687663422591825.jpg", Mir 24
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="C1.mn",C1 
-https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="CentralTV.mn",Central TV 
-https://cdn3.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="DreamTV.mn",Dream TV 
-https://cdn3.skygo.mn/live/disk1/Dreambox/HLS-FTA/Dreambox.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="EagleNews.mn",Eagle News HD 
-https://cdn2.skygo.mn/live/disk1/Eagle/HLS-FTA/Eagle.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="",Education 
-https://cdn3.skygo.mn/live/disk1/Education/DASH-FTA/Education.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="",Education 
-https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="ETV.mn",ETV 
-https://cdn3.skygo.mn/live/disk1/ETV/HLS-FTA/ETV.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV25.mn",MN25 
-https://cdn2.skygo.mn/live/disk1/MN25/DASH-FTA/MN25.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV25.mn",MN25 
-https://cdn2.skygo.mn/live/disk1/MN25/HLS-FTA/MN25.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNB.mn",MNB HD
-https://cdn3.skygo.mn/live/disk1/MNB/DASH-FTA/MNB.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNB.mn",MNB SD
-https://live.mnb.mn/hls/mnb.stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBSport.mn",MNB Sport 
-https://cdn3.skygo.mn/live/disk1/MNBSport/DASH-FTA/MNBSport.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBSport.mn",MNB Sport 
-https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBWorld.mn",MNB World 
-https://live.mnb.mn/hls/mnb_world.stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="",MNB Гэр бүл 
-https://live.mnb.mn/hls/mnb_family.stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBMongoliinMedee.mn",MNB Монголын Мэдээ 
-https://cdn3.skygo.mn/live/disk1/MNB2/DASH-FTA/MNB2.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MNBMongoliinMedee.mn",MNB Монголын Мэдээ 
-https://live.mnb.mn/hls/mn2.stream.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MovieBox.mn",MovieBox 
-https://cdn3.skygo.mn/live/disk1/Moviebox/HLS-FTA/Moviebox.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="NTV.mn",NTV 
-https://cdn2.skygo.mn/live/disk1/NTVHD/DASH-FTA/NTVHD.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="NTV.mn",NTV 
-https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="ONTV.mn",ONTV 
-https://cdn3.skygo.mn/live/disk1/ONTV/HLS-FTA/ONTV.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="SBN.mn",SBN 
-https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="StarTV.mn",Star TV 
-https://cdn2.skygo.mn/live/disk1/Star/DASH-FTA/Star.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="StarTV.mn",Star TV 
-https://cdn2.skygo.mn/live/disk1/Star/HLS-FTA/Star.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV5.mn",TV5 
-https://10st.vcast.im/MYASIATV/TV5/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV5.mn",TV5 
-https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV8.mn",TV8 
-https://cdn3.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="TV9.mn",TV9 
-https://cdn2.skygo.mn/live/disk1/TV9HD/HLS-FTA/TV9HD.m3u8
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="UBS.mn",UBS 
-https://cdn3.skygo.mn/live/disk1/UBSHD/DASH-FTA/UBSHD.mpd
-#EXTINF:-1 group-title="🇷🇺 Nga và khối SNG" tvg-id="MUONT1.mn",МҮОНТ-1 HD 
-https://cdn3.skygo.mn/live/disk1/MNB/HLS-FTA/MNB.m3u8
-
---------------------------------------------------------------------------------
-
+-------------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="🇨🇳| Trung Quốc" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/3a/CCTV-1_logo_2001.png/revision/latest/scale-to-width-down/1538?cb=20220607044228&path-prefix=vi", CCTV1
 http://mag.1da.tv:2095/play/live.php?mac=00:1A:79:5F:53:FA&stream=426912&extension=ts&play_token=7Dy1OBLUCx
@@ -1240,7 +693,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png" group-title="Hong Kong và Macao",TVB Pearl
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-name="鳳凰香港台" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E9%A6%99%E6%B8%AF%E5%8F%B0.png?raw=true" group-title="Hong Kong và Macao", Phoenix Hong Kong
-http://60.246.171.122:8892/bysid/85
+http://r.jdshipin.com/yDoTN
 #EXTINF:-1 tvg-id="96" tvg-name="ViuTV Six" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv6.png?raw=true" group-title="Hong Kong và Macao", ViuTV Six
 http://60.246.171.122:8889/bysid/96
 #EXTINF:-1 tvg-id="99" tvg-name="ViuTV" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/viutv.png?raw=true" group-title="Hong Kong và Macao", ViuTV
@@ -1265,18 +718,6 @@ https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
 --------------------------------------------------------------------------------
 
 #JAPAN
-#EXTM3U url-tvg="https://epg.utako.moe/jp.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
-
-#EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png",Official page: https://utako.moe
-http://nl.utako.moe:8000/radio
-#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",We need donations to maintain the server!
-http://nl.utako.moe:8000/radio
-#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/2OINFaA.png",For Primehome server you need cheat code! Join our TG for more infomation
-http://nl.utako.moe:8000/radio
-#EXTINF:-1 group-title="Information" tvg-logo="https://i.imgur.com/vFOBppE.png",Donate: https://paypal.me/Tieptran1970
-http://nl.utako.moe:8000/radio
-#EXTINF:-1 group-title="Information" tvg-logo="https://cdn-icons-png.flaticon.com/512/0/49.png", Please refrain from re-sharing those URLs! Read our gitflic repo for details.
-http://nl.utako.moe:8000/radio
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
 https://nl.utako.moe/NHK_G/index.m3u8
@@ -1286,16 +727,32 @@ https://nl.utako.moe/NHK_E/index.m3u8
 https://nl.utako.moe/Nippon_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
 https://nl.utako.moe/TBS/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="fuji_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV
-https://nl.utako.moe/Fuji_TV/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png",TV Asahi
 https://nl.utako.moe/TV_Asahi/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
 https://nl.utako.moe/TV_Tokyo/index.m3u8
-#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
 https://nl.utako.moe/Tokyo_MX1/index.m3u8
 #EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2
 https://nl.utako.moe/Tokyo_MX2/index.m3u8
+
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Server 2)
+https://uk.utako.moe/NHK_G/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="nhk_e_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E (Server 2)
+https://uk.utako.moe/NHK_E/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="ntv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV (Server 2)
+https://uk.utako.moe/Nippon_TV/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS (Server 2)
+https://uk.utako.moe/TBS/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png",TV Asahi (Server 2)
+https://uk.utako.moe/TV_Asahi/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo (Server 2)
+https://uk.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx_1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 (Server 2)
+https://uk.utako.moe/Tokyo_MX1/index.m3u8
+#EXTINF:-1 group-title="Tokyo" tvg-id="tokyo_mx2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (Server 2)
+https://uk.utako.moe/Tokyo_MX2/index.m3u8
+
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="nhk_g_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=hdgd01
@@ -1345,6 +802,21 @@ https://nl.utako.moe/kbs/index.m3u8
 #EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN
 https://nl.utako.moe/suntv/index.m3u8
 
+#EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Server 2)
+https://uk.utako.moe/mbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="abc" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC (Server 2)
+https://uk.utako.moe/abc/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="tv_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka (Server 2)
+https://uk.utako.moe/tvo/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kansai_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV (Server 2)
+https://uk.utako.moe/kansaitv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="ytv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv (Server 2)
+https://uk.utako.moe/ytv/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="kbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS (Server 2)
+https://uk.utako.moe/kbs/index.m3u8
+#EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN (Server 2)
+https://uk.utako.moe/suntv/index.m3u8
+
 #EXTINF:-1 group-title="Kansai" tvg-id="nhk_g_osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06
 #EXTINF:-1 group-title="Kansai" tvg-id="mbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS (Primehome)
@@ -1359,7 +831,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05
 #EXTINF:-1 group-title="Kansai" tvg-id="sun_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07
-
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
 https://nl.utako.moe/NHK_BS/index.m3u8
@@ -1401,6 +872,47 @@ https://nl.utako.moe/Animax/index.m3u8
 https://nl.utako.moe/nihoneiga/index.m3u8
 #EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A
 https://nl.utako.moe/skya/index.m3u8
+
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Server 2)
+https://uk.utako.moe/NHK_BS/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_ntv" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-nippon-tv-jp.png",BS NTV (Server 2)
+https://uk.utako.moe/bsntv/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi (Server 2)
+https://uk.utako.moe/bsasahi/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tbs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS (Server 2)
+https://uk.utako.moe/bstbs/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_tv_tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo (Server 2)
+https://uk.utako.moe/bstvtokyo/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs_fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji (Server 2)
+https://uk.utako.moe/bsfuji/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/2560px-BS11_logo.svg.pngion_logo_%28rainbow%29.svg.png",BS11 (Server 2)
+https://uk.utako.moe/BS11/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nhk_bsp4k" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K (Server 2)
+https://uk.utako.moe/bsp4k/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_prime" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime (Server 2)
+https://uk.utako.moe/wprime/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema (Server 2)
+https://uk.utako.moe/wcinema/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="wowow_live" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live (Server 2)
+https://uk.utako.moe/wlive/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="bs10_star_channel" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium (Server 2)
+https://uk.utako.moe/bs10_star/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 (Server 2)
+https://uk.utako.moe/js1/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 (Server 2)
+https://uk.utako.moe/js2/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 (Server 2)
+https://uk.utako.moe/js3/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="js4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 (Server 2)
+https://uk.utako.moe/js4/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="green_channel" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel (Server 2)
+https://uk.utako.moe/green/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax (Server 2)
+https://uk.utako.moe/Animax/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="nihon_eiga" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon (Server 2)
+https://uk.utako.moe/nihoneiga/index.m3u8
+#EXTINF:-1 group-title="BS" tvg-id="sky_a" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A (Server 2)
+https://uk.utako.moe/skya/index.m3u8
 
 #EXTINF:-1 group-title="BS" tvg-id="nhk_bs" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
@@ -1484,13 +996,7 @@ https://nl.utako.moe/tbsch2/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1
 https://nl.utako.moe/ex_ch1/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2
-https://nl.utako.moe/ex_ch2/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_one" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_one.png",Fuji TV ONE
-https://nl.utako.moe/fuji_one/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_two" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_two.png",Fuji TV TWO
-https://nl.utako.moe/fuji_two/index.m3u8
-#EXTINF:-1 group-title="CS" tvg-id="fuji_tv_next" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png",Fuji TV NEXT
-https://nl.utako.moe/fuji_next/index.m3u8
+https://nl.utako.moe/ex_ch2/index.m3u
 #EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel
 https://nl.utako.moe/neco/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife
@@ -1514,6 +1020,66 @@ https://nl.utako.moe/pigoo/index.m3u8
 #EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW)
 https://nl.utako.moe/v_paradise/index.m3u8
 
+#EXTINF:-1 group-title="CS" tvg-id="gaora" tvg-logo="https://www.lyngsat.com/logo/tv/gg/gaora-sports-jp.svg",Gaora Sports (Server 2)
+https://uk.utako.moe/gaora/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="at-x" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/AT-X_logo.svg/2560px-AT-X_logo.svg.png",AT-X (Server 2)
+https://uk.utako.moe/AT-X/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="space_shower_tv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/SPACE_SHOWER_TV.jpg",Space Shower TV (Server 2)
+https://uk.utako.moe/spaceshower/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mtv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mtv-us.svg",MTV (Server 2)
+https://uk.utako.moe/mtv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kayo_pops" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.svg",Kayo Pops (Server 2)
+https://uk.utako.moe/kayopops/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="kids_station" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton (Server 2)
+https://uk.utako.moe/kids_station/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="disney_channel" tvg-logo="https://www.lyngsat.com/logo/tv/dd/disney-channel-us.svg",Disney Channel (Server 2)
+https://uk.utako.moe/disneychan/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="cartoon_network" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cartoon-network-us.svg",Cartoon Network (Server 2)
+https://uk.utako.moe/cartoon_network/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="ntv_g_tasu" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png",Nittele G+ (Server 2)
+https://uk.utako.moe/ntvgplus/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="family_gekijo" tvg-logo="https://www.lyngsat.com/logo/tv/ff/family_gekijyo_jp.png",Family Gekijyo (Server 2)
+https://uk.utako.moe/familygeki/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mondo_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png",Mondo TV (Server 2)
+https://uk.utako.moe/mondo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="music_on_tv" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_on_tv.png",Music ON TV (Server 2)
+https://uk.utako.moe/musicon/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="mnet" tvg-logo="https://www.lyngsat.com/logo/tv/mm/m_net_jp.png",Mnet (Server 2)
+https://uk.utako.moe/mnet/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="golf_network" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png",Golf Network (Server 2)
+https://uk.utako.moe/golf_network/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="the_cinema" tvg-logo="https://www.lyngsat.com/logo/tv/tt/the-cinema-jp.png",The Cinema (Server 2)
+https://uk.utako.moe/the_cinema/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-1-jp.png",TBS Channel 1 (Server 2)
+https://uk.utako.moe/tbsch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tbs_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-channel-2-jp.png",TBS Channel 2 (Server 2)
+https://uk.utako.moe/tbsch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_1" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-1-jp.png",TV Asahi Channel 1 (Server 2)
+https://uk.utako.moe/ex_ch1/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tv_asahi_channel_2" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-asahi-channel-2-jp.png",TV Asahi Channel 2 (Server 2)
+https://uk.utako.moe/ex_ch2/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="neco" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel-neco-jp.png",Neco Channel (Server 2)
+https://uk.utako.moe/neco/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="dlife" tvg-logo="https://www.lyngsat.com/logo/tv/dd/dlife-jp.png",Dlife (Server 2)
+https://uk.utako.moe/dlife/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="toei_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/toei_channel.png",Toei Channel (Server 2)
+https://uk.utako.moe/toei/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="fighting_tv" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fighting-tv-samurai-jp.png",Fighting TV Samurai (Server 2)
+https://uk.utako.moe/fighting_tv/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="entermei_tele" tvg-logo="https://www.lyngsat.com/logo/tv/ee/entermei-telepng-jp.png",Entermei Tele (Server 2)
+https://uk.utako.moe/entermei_tele/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="sports_live_plus" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sports-live-plus-jp.png",Sport Live Plus (Server 2)
+https://uk.utako.moe/sport_live_plus/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="home_drama" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png",Home Drama Channel (Server 2)
+https://uk.utako.moe/homedrama/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="channel_ginga" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png",Channel Ginga (Server 2)
+https://uk.utako.moe/gingach/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="tabi_channel" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png",Tabi Channel (Server 2)
+https://uk.utako.moe/tabi/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="pigoo" tvg-logo="https://www.lyngsat.com/logo/tv/pp/pigoo-jp.png",Pigoo (NSFW - Server 2)
+https://uk.utako.moe/pigoo/index.m3u8
+#EXTINF:-1 group-title="CS" tvg-id="v_paradise" tvg-logo="https://www.lyngsat.com/logo/tv/vv/v_paradise_jp.png",V Paradise (NSFW - Server 2)
+https://uk.utako.moe/v_paradise/index.m3u8
 
 #EXTINF:-1 group-title="CS" tvg-id="jidaigeki" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04
@@ -1575,6 +1141,7 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="tbs_news" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News (Primehome)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11
+
 
 --------------------------------------------------------------------------------
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ad/Korean_Central_Television_2005.svg/1200px-Korean_Central_Television_2005.svg.png" group-title="Hột nhãn tiên sinh",KCTV
