@@ -390,7 +390,7 @@ https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Liv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
 #EXTINF:-1 tvg-id="nhk-world" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" group-title="Quốc tế" tvg-logo="https://i.ibb.co/nbzwz4w/arirang.jpg",Arirang
 https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="kbsworld" group-title="Quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
