@@ -597,634 +597,509 @@ https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
 #JAPAN
 
-# === Tokyo Terrestrial ===
+ === Tokyo Terrestrial ===
 
-#EXTINF:-1 tvg-id="hdgd01" tvg-name="NHK G" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G
-http://akariko.netgenx.site/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd01" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
+http://58.82.168.138:5002/hdgd01.m3u8?token=guoziyun&gid=hdgd01&channel=zhongying
 
-#EXTINF:-1 tvg-id="hdgd02" tvg-name="NHK E" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E
-http://akariko.netgenx.site/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd02" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
+http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying
 
-#EXTINF:-1 tvg-id="hdgd03" tvg-name="NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/250px-Nippon_TV_logo_2014.svg.png",NTV
-http://akariko.netgenx.site/stream/jp/ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd03" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
+http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying
 
-#EXTINF:-1 tvg-id="hdgd06" tvg-name="TV Asahi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi
-http://akariko.netgenx.site/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd06" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
+http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying
 
-#EXTINF:-1 tvg-id="hdgd04" tvg-name="TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS
-http://akariko.netgenx.site/stream/jp/tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd04" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
+http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying
 
-#EXTINF:-1 tvg-id="hdgd07" tvg-name="TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/250px-TV_Tokyo_logo_2023.svg.png",TV Tokyo
-http://akariko.netgenx.site/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd07" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
+http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying
 
-#EXTINF:-1 tvg-id="hdgd05" tvg-name="Fuji TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV
-http://akariko.netgenx.site/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd05" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
+http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying
 
-#EXTINF:-1 tvg-id="hdgd08" tvg-name="TOKYO MX1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1
-http://akariko.netgenx.site/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="hdgd08" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
+http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying
 
-#EXTINF:-1 tvg-id="jp2" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G (Sub Ch.)
-http://akariko.netgenx.site/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jp2" tvg-name="NHK G (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_sub_ch.png",NHK G (Sub Ch.)
+http://haru.charandom.blog/stream/jp/nhk_g_%28subch%29/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="jp10" tvg-name="TOKYO MX2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/250px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX2 (HD 720p)
-http://akariko.netgenx.site/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jp10" tvg-name="TOKYO MX2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx2.png",TOKYO MX2 (HD 720p)
+http://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
 
 # === Kansai Terrestrial ===
 
-#EXTINF:-1 tvg-id="gx06" tvg-name="NHK G Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka
-http://akariko.netgenx.site/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gx06" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
+http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying
 
-#EXTINF:-1 tvg-id="gx01" tvg-name="MBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/250px-Mainichi_Broadcasting_System_logo.svg.png",MBS
-http://akariko.netgenx.site/stream/jp/mbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gx01" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
+http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying
 
-#EXTINF:-1 tvg-id="gx02" tvg-name="ABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/250px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC
-http://akariko.netgenx.site/stream/jp/abc/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gx02" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
+http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
 
-#EXTINF:-1 tvg-id="gx03" tvg-name="Kansai TV" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Ktv_logo.svg&w=200",Kansai TV
-http://akariko.netgenx.site/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gx03" tvg-name="Kansai TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",Kansai TV
+http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying
 
-#EXTINF:-1 tvg-id="gx04" tvg-name="ytv" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Yomiuri_Telecasting_Corporation_Logo.svg&w=200",ytv
-http://akariko.netgenx.site/stream/jp/ytv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gx04" tvg-name="ytv" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",ytv
+http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying
 
-#EXTINF:-1 tvg-id="gx05" tvg-name="TV Osaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/250px-Tv_osaka_logo.svg.png",TV Osaka
-http://akariko.netgenx.site/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gx05" tvg-name="TV Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV Osaka
+http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying
 
-#EXTINF:-1 tvg-id="gx07" tvg-name="SUN" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=SUN-TV_wordmark_2019.png&w=200",SUN
-http://akariko.netgenx.site/stream/jp/sun/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="gx07" tvg-name="SUN" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN
+http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
 
-#EXTINF:-1 tvg-id="jp16" tvg-name="KBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Kbs_logo.svg/250px-Kbs_logo.svg.png",KBS
-http://akariko.netgenx.site/stream/jp/kbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jp16" tvg-name="KBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs.png",KBS
+http://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
 
 # === News ===
 
-#EXTINF:-1 tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png",日テレNEWS
+#EXTINF:-1 tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png",日テレNEWS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_108" tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png",FNNプライムオンライン
+#EXTINF:-1 tvg-id="rch_108" tvg-name="FNNプライムオンライン" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_108.png",FNNプライムオンライン
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/106_mbs.png",MBSニュース
+#EXTINF:-1 tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_115.png",MBSニュース
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Nippon_TV_logo_2014.svg&w=200",NTV News24
-http://akariko.netgenx.site/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.571" tvg-name="NTV News24" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_news24.png",NTV News24
+http://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/860.png",TBS News
-http://akariko.netgenx.site/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
+http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_101" tvg-name="日テレNEWSセレクト" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/110_ntvnewsselect.png",日テレNEWSセレクト
+#EXTINF:-1 tvg-id="rch_101" tvg-name="日テレNEWSセレクト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_101.png",日テレNEWSセレクト
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/109_kyodo.png",共同通信News
+#EXTINF:-1 tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png",共同通信News
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_103" tvg-name="NewsWorld" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/113_NewsWorld.png",NewsWorld
+#EXTINF:-1 tvg-id="rch_103" tvg-name="NewsWorld" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/newsworld.png",NewsWorld
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_54" tvg-name="オリコンニュース" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/111_oriconnews_02.png",オリコンニュース
+#EXTINF:-1 tvg-id="rch_54" tvg-name="オリコンニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_54.png",オリコンニュース
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_83" tvg-name="STOCK VOICE" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/112_stockvoice.png",STOCK VOICE
+#EXTINF:-1 tvg-id="rch_83" tvg-name="STOCK VOICE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/stock_voice.png",STOCK VOICE
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_70" tvg-name="Bloomberg TV+" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/114_bloombergtv.png",Bloomberg TV+
+#EXTINF:-1 tvg-id="rch_70" tvg-name="Bloomberg TV+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bloomberg_tv.png",Bloomberg TV+
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CH.566" tvg-name="CNNj" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/250px-CNN.svg.png",CNNj
-http://akariko.netgenx.site/stream/jp/cnnj/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.566" tvg-name="CNNj" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cnnj.png",CNNj
+http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.565" tvg-name="BBC News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/250px-BBC_News_2019.svg.png",BBC News
-http://akariko.netgenx.site/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.565" tvg-name="BBC News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bbc_news.png",BBC News
+http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_90" tvg-name="Euronews" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/115_euronews.png",Euronews
+#EXTINF:-1 tvg-id="rch_90" tvg-name="Euronews" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/euronews.png",Euronews
 https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/116_reuters.png",Reuters 60
+#EXTINF:-1 tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/reuters_60.png",Reuters 60
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/busns/channel_logo",ビジネス・プレミアム (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_busns.png",ビジネス・プレミアム (FAST)
 https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/entns/channel_logo",エンタメニュース (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_entns.png",エンタメニュース (FAST)
 https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/181.png",NHK World-Japan
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png",NHK World-Japan
 https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
 
 # === BS Free ===
 
-#EXTINF:-1 tvg-id="bs11" tvg-name="NHK BS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS
-http://akariko.netgenx.site/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs11" tvg-name="NHK BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs.png",NHK BS
+http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying
 
-#EXTINF:-1 tvg-id="jp20" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS (Sub Ch.)
-http://akariko.netgenx.site/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jp20" tvg-name="NHK BS (Sub Ch.)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs_sub_ch.png",NHK BS (Sub Ch.)
+http://haru.charandom.blog/stream/jp/nhk_bs_%28subch%29/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="bs02" tvg-name="BS NTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/BS4_logo.svg/250px-BS4_logo.svg.png",BS NTV
-http://akariko.netgenx.site/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs02" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
+http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying
 
-#EXTINF:-1 tvg-id="bs03" tvg-name="BS Asahi" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi
-http://akariko.netgenx.site/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs03" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
+http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying
 
-#EXTINF:-1 tvg-id="bs04" tvg-name="BS TBS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/250px-BS-TBS_2020.svg.png",BS TBS
-http://akariko.netgenx.site/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs04" tvg-name="BS TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs.png",BS TBS
+http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying
 
-#EXTINF:-1 tvg-id="bs05" tvg-name="BS TV Tokyo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/250px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs05" tvg-name="BS TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo.png",BS TV Tokyo
+http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying
 
-#EXTINF:-1 tvg-id="bs06" tvg-name="BS Fuji" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/250px-BSFuji2008Symbol.svg.png",BS Fuji
-http://akariko.netgenx.site/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs06" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
+http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying
 
-#EXTINF:-1 tvg-id="jp28" tvg-name="BS11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/BS11_logo.svg/250px-BS11_logo.svg.png",BS11
-http://akariko.netgenx.site/stream/jp/bs11/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jp28" tvg-name="BS11" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs11.png",BS11
+http://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="bs12" tvg-name="BS 12" tvg-logo="https://pbs.twimg.com/profile_images/1730394767136329728/eRNE6Rub_400x400.png",BS 12
-http://akariko.netgenx.site/stream/jp/bs_12/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs12" tvg-name="BS 12" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_12.png",BS 12
+http://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="jp34" tvg-name="BS 10" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10
-http://akariko.netgenx.site/stream/jp/bs_10/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="jp34" tvg-name="BS 10" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10.png",BS 10
+http://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="bs31" tvg-name="JCOM BS" tvg-logo="https://pbs.twimg.com/profile_images/1967790003867762688/UMRPpTep_400x400.png",JCOM BS
-http://akariko.netgenx.site/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs31" tvg-name="JCOM BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jcom_bs.png",JCOM BS
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
 
-#EXTINF:-1 tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/bsd/logo-0004-265-400x400.png",BS Yoshimoto
-https://live.livingtv.live/jp38/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 tvg-id="BSよしもと_jp" tvg-name="BS Yoshimoto" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_yoshimoto.png",BS Yoshimoto
+https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
 
 # === BS 4K ===
 
-#EXTINF:-1 tvg-id="bs01" tvg-name="NHK BS4K" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/250px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K
-http://akariko.netgenx.site/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="BSTVTokyo4K.jp" tvg-name="BS TV Tokyo 4K" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=BS_TV_Tokyo_%28Japanese%29_2023.svg&w=200",BS TV Tokyo 4K
-http://akariko.netgenx.site/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs01" tvg-name="NHK BS4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs4k.png",NHK BS4K
+http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying
 
 # === BS Premium ===
 
-#EXTINF:-1 tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Prime
-http://akariko.netgenx.site/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png",WOWOW Prime
+http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Live
-http://akariko.netgenx.site/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png",WOWOW Live
+http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/WOWOW_logo.svg/250px-WOWOW_logo.svg.png",WOWOW Cinema
-http://akariko.netgenx.site/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
+http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=WOWOW_logo.svg&w=200",WOWOW Plus
-http://akariko.netgenx.site/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.630" tvg-name="WOWOW Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_plus.png",WOWOW Plus
+http://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://www.jcom.co.jp/service/tv/channel/option_ch/images_v10/logo/logo_bs10premium_short.png",BS 10 Premium
-http://akariko.netgenx.site/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
+http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying
 
 # === Sports ===
 
-#EXTINF:-1 tvg-id="CH.603" tvg-name="JSport 1" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1
-http://akariko.netgenx.site/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.603" tvg-name="JSport 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_1.png",JSport 1
+http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.604" tvg-name="JSport 2" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2
-http://akariko.netgenx.site/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.604" tvg-name="JSport 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_2.png",JSport 2
+http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.606" tvg-name="JSport 3" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3
-http://akariko.netgenx.site/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.606" tvg-name="JSport 3" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_3.png",JSport 3
+http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4
-http://akariko.netgenx.site/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_4.png",JSport 4
+http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_49" tvg-name="Sky A" tvg-logo="https://pbs.twimg.com/profile_images/1503557885812690944/BNKFQ5m9_400x400.jpg",Sky A
-http://akariko.netgenx.site/stream/jp/sky_a/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_49" tvg-name="Sky A" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sky_a.png",Sky A
+http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_51" tvg-name="Gaora Sports" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=GAORA_SPORTS_logo.svg&w=200",Gaora Sports
-http://akariko.netgenx.site/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_51" tvg-name="Gaora Sports" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gaora_sports.png",Gaora Sports
+http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.608" tvg-name="Nittele G+" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/752.png",Nittele G+
-http://akariko.netgenx.site/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.608" tvg-name="Nittele G+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png",Nittele G+
+http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying
 
-#EXTINF:-1 tvg-id="bs26" tvg-name="Space Shower TV (HD)" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png",Space Shower TV (HD)
-http://akariko.netgenx.site/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sport_live_plus.png",Sport Live Plus
+http://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.580" tvg-name="Sport Live Plus" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/753.jpg",Sport Live Plus
-http://akariko.netgenx.site/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png",Golf Network
+http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/754.png",Golf Network
-http://akariko.netgenx.site/stream/jp/golf_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.600" tvg-name="Fighting TV Samurai" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fighting_tv_samurai.png",Fighting TV Samurai
+http://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.600" tvg-name="Fighting TV Samurai" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/761.png",Fighting TV Samurai
-http://akariko.netgenx.site/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",Green Channel
+http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/770.png",Green Channel
-http://akariko.netgenx.site/stream/jp/green_channel/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/119_top-barca.png",TOP BARÇA
+#EXTINF:-1 tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png",TOP BARÇA
 https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_97" tvg-name="NTV Pro Wrestling" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/124_ntvprowrestling.png",NTV Pro Wrestling
+#EXTINF:-1 tvg-id="rch_97" tvg-name="NTV Pro Wrestling" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_pro_wrestling.png",NTV Pro Wrestling
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_48" tvg-name="刺激ストロングSPORTS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/128_shigekistrongsports.png",刺激ストロングSPORTS
+#EXTINF:-1 tvg-id="rch_48" tvg-name="刺激ストロングSPORTS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_48.png",刺激ストロングSPORTS
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_64" tvg-name="FUEL TV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/133_fueltv.png",FUEL TV
+#EXTINF:-1 tvg-id="rch_64" tvg-name="FUEL TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuel_tv.png",FUEL TV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/bgolf/channel_logo",GOLF LIFE (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png",GOLF LIFE (FAST)
 https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
 
 # === Movies & Drama ===
 
-#EXTINF:-1 tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://pbs.twimg.com/profile_images/1363766318298587139/TYkQgTdr_400x400.jpg",Toei Channel
-http://akariko.netgenx.site/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
 
-#EXTINF:-1 tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/PRPIC-20230705124343.%E6%97%A5%E6%9C%AC%E6%98%A0%E7%94%BB%E5%B0%82%E9%96%80%E3%83%81%E3%83%A3%E3%83%B3%E3%83%8D%E3%83%AB%E3%83%AD%E3%82%B4.jpg",Nihon Eiga Senmon
-http://akariko.netgenx.site/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
+http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.631" tvg-name="The Cinema" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/252.png",The Cinema
-http://akariko.netgenx.site/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.631" tvg-name="The Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/the_cinema.png",The Cinema
+http://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65534-122-400x400.png",Movie Plus
-http://akariko.netgenx.site/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
+http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-127-400x400.png",Eisei Gekijo
-http://akariko.netgenx.site/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
+http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/261.png",Neco Channel
-http://akariko.netgenx.site/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_59" tvg-name="Neco Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/neco_channel.png",Neco Channel
+http://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://i.imgur.com/8T72RIH.png",Jidaigeki Senmon
-http://akariko.netgenx.site/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png",Jidaigeki Senmon
+http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://image-origin.hikaritv.net/tv/ch_logos/460.jpg",Home Drama Channel
-http://akariko.netgenx.site/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png",Home Drama Channel
+http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.664" tvg-name="Channel Ginga" tvg-logo="https://www.icn-catv.jp/images/channel_logo/CS/CS_ginga.png",Channel Ginga
-http://akariko.netgenx.site/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.664" tvg-name="Channel Ginga" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/channel_ginga.png",Channel Ginga
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
 
-#EXTINF:-1 tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e5/LaLa_TV.png",LaLa TV
-http://akariko.netgenx.site/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
+http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://i.imgur.com/PCx6Qz3.png",Family Gekijyo
-http://akariko.netgenx.site/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
+http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.647" tvg-name="Super Drama TV" tvg-logo="https://i.imgur.com/hsk8NHc.png",Super Drama TV
-http://akariko.netgenx.site/stream/jp/super_drama_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mystery_channel.png",Mystery Channel
+http://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.649" tvg-name="Mystery Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/455.png",Mystery Channel
-http://akariko.netgenx.site/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/action_channel_axn.png",Action Channel (AXN)
+http://haru.charandom.blog/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.650" tvg-name="Action Channel (AXN)" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/452.png",Action Channel (AXN)
-http://akariko.netgenx.site/stream/jp/action_channel_%28axn%29/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.616" tvg-name="TBS Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_1.png",TBS Channel 1
+http://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.616" tvg-name="TBS Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS Channel 1
-http://akariko.netgenx.site/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.617" tvg-name="TBS Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_channel_2.png",TBS Channel 2
+http://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.617" tvg-name="TBS Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/250px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS Channel 2
-http://akariko.netgenx.site/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.611" tvg-name="TV Asahi Channel 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_1.png",TV Asahi Channel 1
+http://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.611" tvg-name="TV Asahi Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi Channel 1
-http://akariko.netgenx.site/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.612" tvg-name="TV Asahi Channel 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi_channel_2.png",TV Asahi Channel 2
+http://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.612" tvg-name="TV Asahi Channel 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/250px-TV_Asahi_Logo.svg.png",TV Asahi Channel 2
-http://akariko.netgenx.site/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_one.png",Fuji TV ONE
+http://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.614" tvg-name="Fuji TV ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV ONE
-http://akariko.netgenx.site/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.615" tvg-name="Fuji TV TWO" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_two.png",Fuji TV TWO
+http://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.615" tvg-name="Fuji TV TWO" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV TWO
-http://akariko.netgenx.site/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png",Fuji TV NEXT
+http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/250px-Fuji_TV_Logo.svg.png",Fuji TV NEXT
-http://akariko.netgenx.site/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.619" tvg-name="Nittele Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_plus.png",Nittele Plus
+http://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.619" tvg-name="Nittele Plus" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Nippon_TV_logo_2014.svg&w=200",Nittele Plus
-http://akariko.netgenx.site/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/dlife.png",Dlife
+http://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/156_newk-pop.png",NEW KPOP
-https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165
-
-#EXTINF:-1 tvg-id="rch_34" tvg-name="ムビドラTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/170_moviedratv.png",ムビドラTV
+#EXTINF:-1 tvg-id="rch_34" tvg-name="ムビドラTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_34.png",ムビドラTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/samri/channel_logo",時代劇TV (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_samri.png",時代劇TV (FAST)
 https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/comdy/channel_logo",LeminoTV (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png",LeminoTV (FAST)
 https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/asdrm/channel_logo",エンタメ・アジア (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
 https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
-
-#EXTINF:-1 tvg-id="Dlife(ディーライフ)_jp" tvg-name="Dlife" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs312.gif",Dlife
-https://live.livingjtv.live/jp57/playlist.m3u8?token=M7VMdfn2WH
 
 # === Anime & Kids ===
 
-#EXTINF:-1 tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/250px-Animax.svg.png",Animax
-http://akariko.netgenx.site/stream/jp/animax/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
+http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.667" tvg-name="AT-X" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=AT-X_logo.svg&w=200",AT-X
-http://akariko.netgenx.site/stream/jp/at-x/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.667" tvg-name="AT-X" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/at_x.png",AT-X
+http://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/250px-Cartoon_Network_2010_logo.svg.png",Cartoon Network
-http://akariko.netgenx.site/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
+http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Kids_Station.jpg/250px-Kids_Station.jpg",Kids Staton
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
+http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Channel
-http://akariko.netgenx.site/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
+http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.672" tvg-name="Disney Junior" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/2002_Disney_Channel_full_logo.svg/250px-2002_Disney_Channel_full_logo.svg.png",Disney Junior
-http://akariko.netgenx.site/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.672" tvg-name="Disney Junior" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_junior.png",Disney Junior
+http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/142_tezukapro.png",手塚プロダクションTV
+#EXTINF:-1 tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png",手塚プロダクションTV
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_61" tvg-name="しまじろうチャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/146_shimajiro.png",しまじろうチャンネル
+#EXTINF:-1 tvg-id="rch_61" tvg-name="しまじろうチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_61.png",しまじろうチャンネル
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/150_kids.png",キッズ
+#EXTINF:-1 tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png",キッズ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/kids/channel_logo",アニマックス FREE (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",アニマックス FREE (FAST)
 https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
 
 # === Music ===
 
-#EXTINF:-1 tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/250px-MTV_2021_%28brand_version%29.svg.png",MTV
-http://akariko.netgenx.site/stream/jp/mtv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
+http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/653.png",Music ON TV
-http://akariko.netgenx.site/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="bs26" tvg-name="Space Shower TV (HD)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png",Space Shower TV (HD)
+http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://i.imgur.com/DkF8YZq.jpeg",Music Japan TV
-http://akariko.netgenx.site/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.641" tvg-name="Music ON TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_on_tv.png",Music ON TV
+http://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://portal.hikoichi-tv.com/wp-content/uploads/2019/12/kayoupopsLOGO.jpg",Kayo Pops
-http://akariko.netgenx.site/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png",Music Japan TV
+http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
 
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/38/takarazuka-skystage_logo.jpg",Takarazuka Sky Stage
-http://akariko.netgenx.site/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png",Kayo Pops
+http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/227_thats_70s.png",that’s 70s
+#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png",Takarazuka Sky Stage
+https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+
+#EXTINF:-1 tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png",that’s 70s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/228_thats_80s.png",that’s 80s
+#EXTINF:-1 tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png",that’s 80s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/229_thats_90s00s.png",that’s 90s00s
+#EXTINF:-1 tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_90s00s.png",that’s 90s00s
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_107" tvg-name="that’s Rock" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/230_thats_rock.png",that’s Rock
+#EXTINF:-1 tvg-id="rch_107" tvg-name="that’s Rock" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_rock.png",that’s Rock
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs324.gif",Music Air
-https://live.livingjtv.live/jp79/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 tvg-id="ミュージック・エア_jp" tvg-name="Music Air" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_air.png",Music Air
+http://haru.charandom.blog/stream/jp/music_air/stream-output.m3u8?mode=hls
 
 # === Documentary & Lifestyle ===
 
-#EXTINF:-1 tvg-id="CH.675" tvg-name="National Geographic Japan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/National_Geographic_Logo.svg/250px-National_Geographic_Logo.svg.png",National Geographic Japan
-http://akariko.netgenx.site/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.675" tvg-name="National Geographic Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/national_geographic_japan.png",National Geographic Japan
+http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=cs10&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.676" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/250px-Discovery_Channel_-_Logo_2019.svg.png",Discovery Channel
-http://akariko.netgenx.site/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.676" tvg-name="Discovery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/discovery_channel.png",Discovery Channel
+http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/250px-Animal_Planet_logo.svg.png",Animal Planet
-http://akariko.netgenx.site/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animal_planet.png",Animal Planet
+http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=cs24&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_43" tvg-name="History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/250px-History_Logo.svg.png",History
-http://akariko.netgenx.site/stream/jp/history/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_43" tvg-name="History" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/history.png",History
+http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying
 
-#EXTINF:-1 tvg-id="CH.544" tvg-name="Tabi Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/830.png",Tabi Channel
-http://akariko.netgenx.site/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.544" tvg-name="Tabi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tabi_channel.png",Tabi Channel
+http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://prcdn.freetls.fastly.net/release_image/20447/11/20447-11-b34a485c3d5a2ac9c6b55ff3fafe2cd8-587x587.png",Tetsudo Channel
-http://akariko.netgenx.site/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_30" tvg-name="Tetsudo Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tetsudo_channel.png",Tetsudo Channel
+http://haru.charandom.blog/stream/jp/tetsudo_channel/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://pbs.twimg.com/profile_images/1047408166034493440/IUZkSWGa.jpg",Fishing Vision
-http://akariko.netgenx.site/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png",Fishing Vision
+https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
 
-#EXTINF:-1 tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/pett1/channel_logo",ペットTV (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_pett1.png",ペットTV (FAST)
 https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/camng/channel_logo",キャンプ・アウトドア (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png",キャンプ・アウトドア (FAST)
 https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/travl/channel_logo",今日のごはんなに? (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
 https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/recip/channel_logo",観るたび (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
 https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
 
 # === Variety & Hobby ===
 
-#EXTINF:-1 tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/832.png",Shogi Channel
-http://akariko.netgenx.site/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
+http://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_100" tvg-name="囲碁・将棋ライト" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/204_igoshogi.png",囲碁・将棋ライト (R)
+#EXTINF:-1 tvg-id="rch_100" tvg-name="囲碁・将棋ライト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_100.png",囲碁・将棋ライト (R)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/554.png",Mondo TV
-http://akariko.netgenx.site/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mondo_tv.png",Mondo TV
+http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying
 
-#EXTINF:-1 tvg-id="rch_74" tvg-name="麻雀" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/206_mahjong.png",麻雀
+#EXTINF:-1 tvg-id="rch_74" tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png",麻雀
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_35" tvg-name="パチンコ・パチスロ" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/207_pachislo.png",パチンコ・パチスロ
+#EXTINF:-1 tvg-id="rch_35" tvg-name="パチンコ・パチスロ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_35.png",パチンコ・パチスロ
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_113" tvg-name="ぷれいば！" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/196_game.png",ぷれいば！
+#EXTINF:-1 tvg-id="rch_113" tvg-name="ぷれいば！" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_113.png",ぷれいば！
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_86" tvg-name="ワンニャンチャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/192_wannyan.png",ワンニャンチャンネル
+#EXTINF:-1 tvg-id="rch_86" tvg-name="ワンニャンチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_86.png",ワンニャンチャンネル
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="rch_114" tvg-name="九州・沖縄　街ネタ" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/188_kyushu.png",九州・沖縄　街ネタ
+#EXTINF:-1 tvg-id="rch_114" tvg-name="九州・沖縄　街ネタ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_114.png",九州・沖縄　街ネタ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/news1/channel_logo",丸ごと九州 (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png",丸ごと九州 (FAST)
 https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/jpthp/channel_logo",ぴあ落語ざんまい (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_jpthp.png",ぴあ落語ざんまい (FAST)
 https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/snyon/channel_logo",FASHIONPLUS (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fashionplus.png",FASHIONPLUS (FAST)
 https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/goshogi/channel_logo",囲碁・将棋ライト (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_goshogi.png",囲碁・将棋ライト (FAST)
 https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/hokkaido/channel_logo",丸ごと北海道 (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_hokkaido.png",丸ごと北海道 (FAST)
 https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/tokai/channel_logo",東海ロキポ (FAST)
+#EXTINF:-1 tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png",東海ロキポ (FAST)
 https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
 
-#EXTINF:-1 tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://www.skyperfectv.co.jp/library/common/img/channel/icon/basic/cs301.gif",Me-Tele Next
-https://live.livingjtv.live/jp86/playlist.m3u8?token=M7VMdfn2WH
+#EXTINF:-1 tvg-id="メ～テレNEXT_jp" tvg-name="Me-Tele Next" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/me_tele_next.png",Me-Tele Next
+http://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_37" tvg-name="エンタメ～テレDEEP" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/218_entermeitele.png",エンタメ～テレDEEP
+#EXTINF:-1 tvg-id="rch_37" tvg-name="エンタメ～テレDEEP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_37.png",エンタメ～テレDEEP
 https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
 
 # === Korean & Asian ===
 
-#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/552.png",KBS World
-http://akariko.netgenx.site/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
+http://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch220/570.png",KNTV
-http://akariko.netgenx.site/stream/jp/kntv/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.657" tvg-name="KNTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kntv.png",KNTV
+http://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Mnet_logo.svg&w=200",Mnet
-http://akariko.netgenx.site/stream/jp/mnet/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.658" tvg-name="Mnet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mnet.png",Mnet
+http://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://prod-dxtool-fast-tencent.s3.ap-northeast-1.amazonaws.com/public/v2/channels/krdrm/channel_logo",韓流チャンネル (FAST)
+#EXTINF:-1 tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/new_kpop.png",NEW KPOP
+https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165
+
+#EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png",韓流チャンネル (FAST)
 https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
 
 # === Shopping ===
 
-#EXTINF:-1 tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/117_qvc.png",QVC
+#EXTINF:-1 tvg-id="ショップチャンネル_jp" tvg-name="ショップチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ch_a4d3ba28.png",ショップチャンネル
+https://stream3.shopch.jp/HLS/master.m3u8
+
+#EXTINF:-1 tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC
 https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
 
-#EXTINF:-1 tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/118_gstv.png",GSTV
+#EXTINF:-1 tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV
 https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
 
 # === Weather ===
 
-#EXTINF:-1 tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://commons.wikimedia.org/w/thumb.php?f=Weathernews_logo.svg&w=200",Weather News
-http://akariko.netgenx.site/stream/jp/weather_news/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png",Weather News
+http://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
 
 # === Adult ===
 
-#EXTINF:-1 tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://www.hikaritv.net/resources/hikari/pc/images/ch_logo/ch480/292.png",V Paradise
-http://akariko.netgenx.site/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+#EXTINF:-1 tvg-id="CH.635" tvg-name="V Paradise" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/v_paradise.png",V Paradise
+http://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
 
-#EXTINF:-1 tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://baseec-img-mng.akamaized.net/images/user/logo/dde8cbaba8f25c311920bd2e0e13afd6.png",Pigoo
-http://akariko.netgenx.site/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_98" tvg-name="セクシーエンタメチャンネル" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/239_sexyenterme.png",セクシーエンタメチャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_40" tvg-name="刺激ストロング" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/242_shigekistrong.png",刺激ストロング
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/243_r-15movie.png",映画（年齢制限あり）
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
-
-# === ABEMA ===
-
-#EXTINF:-1 tvg-id="atashinchi" tvg-name="あたしンちチャンネル",あたしンちチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/atashinchi/playlist.m3u8
-
-#EXTINF:-1 tvg-name="BOATRACEチャンネル",BOATRACEチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8
-
-#EXTINF:-1 tvg-id="commercial" tvg-name="CMチャンネル",CMチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/commercial/playlist.m3u8
-
-#EXTINF:-1 tvg-id="hiphop" tvg-name="HIPHOPチャンネル",HIPHOPチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/hiphop/playlist.m3u8
-
-#EXTINF:-1 tvg-id="k-world" tvg-name="K WORLDチャンネル",K WORLDチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/k-world/playlist.m3u8
-
-#EXTINF:-1 tvg-name="MOTOR SPORTチャンネル",MOTOR SPORTチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TBS-NEWS_jp" tvg-name="NEWSチャンネル" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/abema-news/logo.png",NEWSチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-news/playlist.m3u8
-
-#EXTINF:-1 tvg-id="onepiece" tvg-name="ONE PIECEチャンネル",ONE PIECEチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/onepiece/playlist.m3u8
-
-#EXTINF:-1 tvg-id="abema-special" tvg-name="SPECIAL 2チャンネル",SPECIAL 2チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/special-plus/playlist.m3u8
-
-#EXTINF:-1 tvg-id="abema-special" tvg-name="SPECIALチャンネル",SPECIALチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-special/playlist.m3u8
-
-#EXTINF:-1 tvg-id="world-sports" tvg-name="SPORTSチャンネル",SPORTSチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="chibimaruko" tvg-name="ちびまる子ちゃんチャンネル",ちびまる子ちゃんチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/chibimaruko/playlist.m3u8
-
-#EXTINF:-1 tvg-id="00s-anime-1" tvg-name="なつかしアニメ00's",なつかしアニメ00's
-https://ds-linear-abematv.akamaized.net/preview/channel/00s-anime-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="80s-anime-1" tvg-name="なつかしアニメ80's",なつかしアニメ80's
-https://ds-linear-abematv.akamaized.net/preview/channel/80s-anime-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="90s-anime-1" tvg-name="なつかしアニメ90's",なつかしアニメ90's
-https://ds-linear-abematv.akamaized.net/preview/channel/90s-anime-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pokemon-1" tvg-name="アニメ ポケットモンスターチャンネル1" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-1/logo.png?height=48&quality=30&version=20200413&width=128",アニメ ポケットモンスターチャンネル1
-https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="pokemon-2" tvg-name="アニメ ポケットモンスターチャンネル2" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/pokemon-2/logo.png?height=48&quality=30&version=20200413&width=128",アニメ ポケットモンスターチャンネル2
-https://ds-linear-abematv.akamaized.net/preview/channel/pokemon-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="special-plus-7" tvg-name="アニメSPECIALチャンネル",アニメSPECIALチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/special-plus-7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="abema-anime" tvg-name="アニメチャンネル",アニメチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/abema-anime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="abema-anime-2" tvg-name="アニメチャンネル2",アニメチャンネル2
-https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="drama-2" tvg-name="ドラマ映画チャンネル2",ドラマ映画チャンネル2
-https://ds-linear-abematv.akamaized.net/preview/channel/drama-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="family-anime-1" tvg-name="ファミリーアニメ",ファミリーアニメ
-https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="family-anime-2" tvg-name="ファミリーアニメ２",ファミリーアニメ２
-https://ds-linear-abematv.akamaized.net/preview/channel/family-anime-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="lovecomedy-anime" tvg-name="ラブコメアニメチャンネル",ラブコメアニメチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/lovecomedy-anime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="chinese-drama" tvg-name="中国ドラマチャンネル",中国ドラマチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/chinese-drama/playlist.m3u8
-
-#EXTINF:-1 tvg-id="sumo" tvg-name="大相撲チャンネル",大相撲チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/sumo/playlist.m3u8
-
-#EXTINF:-1 tvg-id="dailylife-anime" tvg-name="日常・青春アニメチャンネル",日常・青春アニメチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/dailylife-anime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fighting-sports" tvg-name="格闘チャンネル",格闘チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8
-
-#EXTINF:-1 tvg-id="late-night-anime" tvg-name="深夜アニメチャンネル",深夜アニメチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/late-night-anime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="isekai-anime-2" tvg-name="異世界・ファンタジーアニメ2チャンネル",異世界・ファンタジーアニメ2チャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="isekai-anime" tvg-name="異世界・ファンタジーアニメチャンネル",異世界・ファンタジーアニメチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/isekai-anime/playlist.m3u8
-
-#EXTINF:-1 tvg-id="keirin-auto" tvg-name="競輪・オートレースチャンネル" tvg-logo="https://image.p-c2-x.abema-tv.com/image/channels/keirin-auto/logo.png?height=48&quality=30&version=20200413&width=128",競輪・オートレースチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8
-
-#EXTINF:-1 tvg-id="asia-drama" tvg-name="韓国ドラマチャンネル",韓国ドラマチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama/playlist.m3u8
-
-#EXTINF:-1 tvg-id="asia-drama-2" tvg-name="韓国ドラマチャンネル2",韓国ドラマチャンネル2
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-drama-2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="asia-love-comedy" tvg-name="韓国ラブコメディ",韓国ラブコメディ
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-love-comedy/playlist.m3u8
-
-#EXTINF:-1 tvg-id="asia-historical" tvg-name="韓国時代劇",韓国時代劇
-https://ds-linear-abematv.akamaized.net/preview/channel/asia-historical/playlist.m3u8
-
-#EXTINF:-1 tvg-id="anime-live" tvg-name="アニメLIVEチャンネル",アニメLIVEチャンネル
-https://ds-linear-abematv.akamaized.net/preview/channel/anime-live/playlist.m3u8
+#EXTINF:-1 tvg-id="rch_41" tvg-name="Pigoo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/pigoo.png",Pigoo
+http://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/2560px-Mediacorp_Channel_5_2023.svg.png" group-title="Sing", Channel 5 Singapore
-http://cdn6.163189.xyz/163189/ch5
+https://cdn.qd.je/163189.php?id=ch5
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="Channel 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/2560px-Mediacorp_Channel_8_2023.svg.png" group-title="Sing", Channel 8 Singapore
-http://cdn6.163189.xyz/163189/ch8
+https://cdn.qd.je/163189.php?id=ch8
 #EXTINF:-1 tvg-id="Ch U" tvg-name="Channel U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/2560px-Mediacorp_Channel_U_2023.svg.png" group-title="Sing", Channel U Singapore
-http://cdn6.163189.xyz/163189/chu
+https://cdn.qd.je/163189.php?id=chu
 
 --------------------------------------------------------------------------------
