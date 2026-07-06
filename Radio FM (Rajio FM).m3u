@@ -1,10 +1,10 @@
 
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/fuuXXSo.png" radio="true",VOV1
-https://tfx10gr4nhct1gwzdepjqgr5uommbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov1.m3u8?wsSession=0fd2fa1ed0bf5160142f883c-178238329272829&wsIPSercert=e8fc5c293a45629f431b923b40ae5a4a&wsBindIP=2&wsserid=1168272001106446097
+https://audio-lss.vov.vn/live/vov1.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/GDmiZVe.png" radio="true",VOV2
-https://tfx00gr4nhct1gwzdrcttfa5unmmbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov2.m3u8?wsSession=f0812a20055252ca3e75b702-178231350253282&wsIPSercert=e8fc5c293a45629f431b923b40ae5a4a&wsBindIP=2&wsserid=1168239733739784689
+https://audio-lss.vov.vn/live/vov2.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/p4JOiUC.png" radio="true",VOV3
-https://tfx10gr4nhct1gwzdepjqgr5uommbqi1g153ppt3zgmusp75nh7uq.100ycdn.com/audio-lss.vov.vn/live/vov3.m3u8?wsSession=15f0f7fcfccc1275c09424cd-178238320909813&wsIPSercert=e8fc5c293a45629f431b923b40ae5a4a&wsBindIP=2&wsserid=1168272001227032450
+https://audio-lss.vov.vn/live/vov3.m3u8
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/ebnHXbS.png" radio="true",VOV4 TAY BAC
 https://stream.vovmedia.vn/vov4tb
 #EXTINF:-1 group-title="VOV" tvg-logo="https://i.imgur.com/u5T9wiD.png" radio="true",VOV4 DONG BAC
@@ -40,15 +40,15 @@ https://vips-livecdn.fptplay.net/live/media/VTV3HD/live_hls_avc/index.m3u8
 #EXTINF:-1 group-title="TV AUDIO" radio=true tvg-id="vietnamtoday" tvg-logo="https://images.fptplay53.net/media/channels/icon_channel_vtv1-hd_165657381026.png", VIETNAM TODAY AUDIO
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="voh610" radio=true group-title="VOH" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/87/Logo_HTV RADIO_AM_610KHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest/scale-to-width-down/200?cb=20230728072341&path-prefix=vi",HTV RADIO AM 610Khz
-https://strm.voh.com.vn/radio/channel2/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtQU02MTAuYWRtLnRtcy8iLCJleHAiOjE5MjQ5MjUyMjh9.dAa1es3LlAVnvQ-oLGNBqfEI0yz7fPrjEML_rJAklMQ-/htvc/VOH-AM610.adm.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="voh999" radio=true group-title="VOH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpvOL70mH31XprwaoKqLHWhsLJD1oz7kkaQQ&s",HTV RADIO FM 99.9Mhz
-https://strm.voh.com.vn/radio/channel3/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtRk05OS45LmFkbS50bXMvIiwiZXhwIjoxOTI0OTI1MjI4fQ.zVLoKcCW3tFLySpEQHcYh11PHIxk2ZE1pj5P-GFIm1I-/htvc/VOH-FM99.9.adm.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="voh956" radio=true group-title="VOH" tvg-logo="https://static.wikia.nocookie.net/logos/images/4/49/Logo_HTV RADIO_FM_95%2C6_MHz_%28%C4%90%C3%A0i_ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_Th%C3%A0nh_ph%E1%BB%91_H%E1%BB%93_Ch%C3%AD_Minh%29.png/revision/latest?cb=20230728073622&path-prefix=vi",HTV RADIO FM 95.6Mhz
-https://strm.voh.com.vn/radio/channel1/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtRk05NS42LmFkbS50bXMvIiwiZXhwIjoxOTI0OTI1MjI4fQ.isr2nlUkXOPGSxT-KT8FcZQFCcXn58RZrCyqoB3zDGg-/htvc/VOH-FM95.6.adm.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="voh877" radio=true group-title="VOH" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBTaAefBUzSTsL7Y6jjkcJAMzr8S8-lCxekg&s",HTV RADIO FM 87.7Mhz
-https://strm.voh.com.vn/radio/channel5/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtRk04Ny43LmFkbS50bXMvIiwiZXhwIjoxOTI0OTI1MjI4fQ.uqGbd46T32wvTu5qrL2cOng9Vsf7ZHbSTE10PHpP2bE-/htvc/VOH-FM87.7.adm.tms/chunks.m3u8
 #EXTINF:-1 radio=true group-title="VOH" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/fd/Logo_VOH-M_FM_92-92%2C5_MHz_%28%C4%90%C3%A0i_Ti%E1%BA%BFng_n%C3%B3i_nh%C3%A2n_d%C3%A2n_TP.HCM%29.png/revision/latest/scale-to-width-down/200?cb=20251129151735&path-prefix=vi", HTV RADIO FM92.5MHz
-https://strm.voh.com.vn/radio/channel6/playlist.m3u8
+https://1011337676.vnns.net/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmkiOiIvaHR2Yy9WT0gtRk05Mi41LmFkbS50bXMvIiwiZXhwIjoxOTI0OTI1MjI4fQ.u5XcdU9KljAz3HgehDbCBbNEvSzWNAQTEKkU-DwH2K8-/htvc/VOH-FM92.5.adm.tms/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://byvn.net/W0ms" radio=true,SON LA (FM96MHz)
 https://cdn.sonlatv.vn/live/285bfb76d0d7a3c4615b853fe7a698e150c/chunklist.m3u8
@@ -67,9 +67,9 @@ https://live.baoquangninh.vn/qtvlive/qnr1.m3u8
 #EXTINF:-1 radio=true,QNR2 (FM94.7MHz)
 https://live.baoquangninh.vn/qtvlive/qnr2.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2eADeW0yFwlpZZbFLiJ1ijGlmTJuKTMV_ow&s" radio=true,HANOI90 (KENH NAY BI NO BHXH)
-http://14.162.146.90:8000/HANOI90
+https://cloudcdnfm90.tek4tv.vn/HANOIFM90/stream.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIO4WBIFqHCwb2YzHt3XmD6Yh7iFsOQsL7vA&s" radio=true,HANOI96 (KENH NAY BI NO BHXH)
-http://222.252.21.96:8000/HANOI96
+https://cloudcdnfm90.tek4tv.vn/HANOI96/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/21VaHPT.png" radio=true,THP GENERAL SERVICE FM93.7
 https://live.mediatech.vn/live/2853ef29ebf29c64155acb32d102dd69a4a/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pEFj2vE.png" radio=true,THP TRAFFIC SERVICE FM102.2
