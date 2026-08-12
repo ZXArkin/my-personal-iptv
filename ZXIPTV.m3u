@@ -1,7 +1,5 @@
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_VN.xml"
-#EXTM3U url-tvg="https://epg.112114.xyz/pp.xml"
-#EXTM3U url-tvg="https://animenosekai.github.io/japanterebi-xmltv/guide.xml"
-#EXTM3U url-tvg="https://epg.pw/xmltv/epg_SG.xml"
+#EXTM3U url-tvg="https://epg.io.vn/epg.xml"
+#EXTM3U url-tvg="https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift=0 m3uautoload=1
 #EXTM3U url-tvg="https://github.com/karenda-jp/etc/raw/refs/heads/main/guides.xml,https://github.com/mathlabroom/SKyperfectv-EPG-/releases/download/latest/epg_ultimate.xml,http://akariko.netgenx.site/epg/kai-epg.xml,https://animenosekai.github.io/japanterebi-xmltv/guide.xml" tvg-shift=0 m3uautoload=1
 
 --------------------------------------------------------------------------------
