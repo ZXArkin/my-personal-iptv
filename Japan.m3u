@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="http://akariko.netgenx.site/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
+#EXTM3U url-tvg="https://jp-epg-26f0ce.gitlab.io/k3v9qm/guide.xml.gz" tvg-shift="0" m3uautoload="1"
 
 # === Tokyo Terrestrial ===
 
