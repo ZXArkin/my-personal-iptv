@@ -621,418 +621,330 @@ https://globallive.tdm.com.mo/tv/ch22.live/playlist.m3u8
 
 #JAPAN
 
-# === Tokyo Terrestrial ===
+#EXTM3U url-tvg="https://akariko-bck2.sankuria.sbs/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
 
-#EXTINF:-1 tvg-id="NHK東京・総合_jp" tvg-name="NHK G" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g.png",NHK G
-http://tsb-mega.i9.ee/stream/nhkg_avc_1080p
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Fuji TV
+https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="NHK東京・教育_jp" tvg-name="NHK E" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_e.png",NHK E
-http://58.82.168.138:5002/hdgd02.m3u8?token=guoziyun&gid=hdgd02&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_1.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nhk_e/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NHK E
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_e/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="日本テレビ_jp" tvg-name="NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv.png",NTV
-http://58.82.168.138:5002/hdgd03.m3u8?token=guoziyun&gid=hdgd03&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nhk_g/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NHK G
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_g/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="テレビ朝日_jp" tvg-name="TV Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_asahi.png",TV Asahi
-http://58.82.168.138:5002/hdgd06.m3u8?token=guoziyun&gid=hdgd06&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="nhk_g_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nhk_g_2/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NHK G 2
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_g_2/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="TBS_jp" tvg-name="TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs.png",TBS
-http://58.82.168.138:5002/hdgd04.m3u8?token=guoziyun&gid=hdgd04&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/ntv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NTV
+https://akariko-bck2.sankuria.sbs/stream/jp/ntv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="テレ東_jp" tvg-name="TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_tokyo.png",TV Tokyo
-http://58.82.168.138:5002/hdgd07.m3u8?token=guoziyun&gid=hdgd07&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tbs/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TBS
+https://akariko-bck2.sankuria.sbs/stream/jp/tbs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="フジテレビ_jp" tvg-name="Fuji TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv.png",Fuji TV
-http://58.82.168.138:5002/hdgd05.m3u8?token=guoziyun&gid=hdgd05&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd08" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_7.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tokyo_mx1/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TOKYO MX1
+https://akariko-bck2.sankuria.sbs/stream/jp/tokyo_mx1/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="TOKYO・MX_jp" tvg-name="TOKYO MX1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tokyo_mx1.png",TOKYO MX1
-http://58.82.168.138:5002/hdgd08.m3u8?token=guoziyun&gid=hdgd08&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="tokyo_mx2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_8.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tokyo_mx2/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TOKYO MX2
+https://akariko-bck2.sankuria.sbs/stream/jp/tokyo_mx2/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === Kansai Terrestrial ===
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd06" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tv_asahi/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TV Asahi
+https://akariko-bck2.sankuria.sbs/stream/jp/tv_asahi/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="NHK大阪・総合_jp" tvg-name="NHK G Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_g_osaka.png",NHK G Osaka
-http://58.82.168.138:5002/gx06.m3u8?token=guoziyun&gid=gx06&channel=zhongying
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd07" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tv_tokyo/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TV Tokyo
+https://akariko-bck2.sankuria.sbs/stream/jp/tv_tokyo/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="サンテレビ_jp" tvg-name="SUN" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sun.png",SUN
-http://58.82.168.138:5002/gx07.m3u8?token=guoziyun&gid=gx07&channel=zhongying
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/abc/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",ABC
+https://akariko-bck2.sankuria.sbs/stream/jp/abc/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="毎日テレビ_jp" tvg-name="MBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mbs.png",MBS
-http://58.82.168.138:5002/gx01.m3u8?token=guoziyun&gid=gx01&channel=zhongying
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="kbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_14.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/kbs/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",KBS
+https://akariko-bck2.sankuria.sbs/stream/jp/kbs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="ABCテレビ_jp" tvg-name="ABC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/abc.png",ABC
-http://58.82.168.138:5002/gx02.m3u8?token=guoziyun&gid=gx02&channel=zhongying
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_11.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/kansai_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Kansai TV
+https://akariko-bck2.sankuria.sbs/stream/jp/kansai_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="テレビ大阪_jp" tvg-name="TV Osaka" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tv_osaka.png",TV Osaka
-http://58.82.168.138:5002/gx05.m3u8?token=guoziyun&gid=gx05&channel=zhongying
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/mbs/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",MBS
+https://akariko-bck2.sankuria.sbs/stream/jp/mbs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="関西テレビ_jp" tvg-name="Kansai TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kansai_tv.png",Kansai TV
-http://58.82.168.138:5002/gx03.m3u8?token=guoziyun&gid=gx03&channel=zhongying
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx06" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nhk_g_osaka/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NHK G Osaka
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_g_osaka/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="読売テレビ_jp" tvg-name="ytv" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ytv.png",ytv
-http://58.82.168.138:5002/gx04.m3u8?token=guoziyun&gid=gx04&channel=zhongying
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx07" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/sun/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",SUN
+https://akariko-bck2.sankuria.sbs/stream/jp/sun/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === News ===
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tv_osaka/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TV Osaka
+https://akariko-bck2.sankuria.sbs/stream/jp/tv_osaka/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.572" tvg-name="TBS News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tbs_news.png",TBS News
-http://58.82.168.138:5002/cs11.m3u8?token=guoziyun&gid=cs11&channel=zhongying
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/ytv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",ytv
+https://akariko-bck2.sankuria.sbs/stream/jp/ytv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.565" tvg-name="BBC News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bbc_news.png",BBC News
-http://58.82.168.138:5002/cs15.m3u8?token=guoziyun&gid=cs15&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs15" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/animax/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Animax
+https://akariko-bck2.sankuria.sbs/stream/jp/animax/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.566" tvg-name="CNNj" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cnnj.png",CNNj
-http://58.82.168.138:5002/cs16.m3u8?token=guoziyun&gid=cs16&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs08" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_10_premium/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS 10 Premium
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_10_premium/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_47" tvg-name="日テレNEWS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_47.png",日テレNEWS
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs-11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_25.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_11/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS 11
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_11/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_108" tvg-name="FNNプライムオンライン" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_108.png",FNNプライムオンライン
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_12/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS 12
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_12/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_115" tvg-name="MBSニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_115.png",MBSニュース
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_asahi/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS Asahi
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_asahi/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_101" tvg-name="日テレNEWSセレクト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_101.png",日テレNEWSセレクト
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-newsselect-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_asahi_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_asahi_4k/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS Asahi 4K
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_asahi_4k/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_56" tvg-name="共同通信News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_56.png",共同通信News
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news3hlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs06" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_fuji/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS Fuji
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_fuji/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_103" tvg-name="NewsWorld" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/newsworld.png",NewsWorld
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-newsworld-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_fuji_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_fuji_4k/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS Fuji 4K
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_fuji_4k/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_54" tvg-name="オリコンニュース" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_54.png",オリコンニュース
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news2cmafhls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_ntv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS NTV
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_ntv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_83" tvg-name="STOCK VOICE" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/stock_voice.png",STOCK VOICE
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-stockvoice-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_ntv_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_ntv_4k/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS NTV 4K
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_ntv_4k/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_70" tvg-name="Bloomberg TV+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bloomberg_tv.png",Bloomberg TV+
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01601-bloomberg-bloombergplus-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_21.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_tbs/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS TBS
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_tbs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_90" tvg-name="Euronews" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/euronews.png",Euronews
-https://cdn-apne1.tsv2.amagi.tv/linear/amg00882-euronewssa-euronewsengjp-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_tbs_4k" tvg-logo="https://xuanzi-storage.netgenx.site/https://linxei.netgenx.site/tv/yoitv.php?mode=stream&id=4k_bs_tbs" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_tbs_4k/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS TBS 4K
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_tbs_4k/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_120" tvg-name="Reuters 60" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/reuters_60.png",Reuters 60
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00453-reuters-reuters-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_tv_tokyo/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS TV Tokyo
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_tv_tokyo/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_busns" tvg-name="ビジネス・プレミアム (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_busns.png",ビジネス・プレミアム (FAST)
-https://livetv.fastv.jp/channel_assembly/69607EBD725E0F65BEE4/master.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS TV Tokyo 4K
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_entns" tvg-name="エンタメニュース (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_entns.png",エンタメニュース (FAST)
-https://livetv.fastv.jp/channel_assembly/6960899D64B80F9C740C/master.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_yoshimoto" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs_yoshimoto/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS Yoshimoto
+https://akariko-bck2.sankuria.sbs/stream/jp/bs_yoshimoto/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-name="NHK World-Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_world_japan.png",NHK World-Japan
-https://media-tyo.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs10" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_31.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bs10/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BS10
+https://akariko-bck2.sankuria.sbs/stream/jp/bs10/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === BS Free ===
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs24" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/disney_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Disney Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/disney_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="NHK・BS_jp" tvg-name="NHK BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs.png",NHK BS
-http://58.82.168.138:5002/bs11.m3u8?token=guoziyun&gid=bs11&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs25" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_41.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/fishing_vision/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Fishing Vision
+https://akariko-bck2.sankuria.sbs/stream/jp/fishing_vision/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="BS日テレ_jp" tvg-name="BS NTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_ntv.png",BS NTV
-http://58.82.168.138:5002/bs02.m3u8?token=guoziyun&gid=bs02&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs14" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/green_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Green Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/green_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="BS朝日_jp" tvg-name="BS Asahi" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_asahi.png",BS Asahi
-http://58.82.168.138:5002/bs03.m3u8?token=guoziyun&gid=bs03&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_ouj.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/hoso_daigaku_ex/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Hoso Daigaku EX
+https://akariko-bck2.sankuria.sbs/stream/jp/hoso_daigaku_ex/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="BS-TBS_jp" tvg-name="BS TBS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tbs.png",BS TBS
-http://58.82.168.138:5002/bs04.m3u8?token=guoziyun&gid=bs04&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs31" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/jcom_bs/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",JCOM BS
+https://akariko-bck2.sankuria.sbs/stream/jp/jcom_bs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="BSテレ東_jp" tvg-name="BS TV Tokyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_tv_tokyo.png",BS TV Tokyo
-http://58.82.168.138:5002/bs05.m3u8?token=guoziyun&gid=bs05&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs18" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_37.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/jsport_1/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",JSport 1
+https://akariko-bck2.sankuria.sbs/stream/jp/jsport_1/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="BSフジ_jp" tvg-name="BS Fuji" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_fuji.png",BS Fuji
-http://58.82.168.138:5002/bs06.m3u8?token=guoziyun&gid=bs06&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs19" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_38.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/jsport_2/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",JSport 2
+https://akariko-bck2.sankuria.sbs/stream/jp/jsport_2/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="J-COM-BS_jp" tvg-name="JCOM BS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jcom_bs.png",JCOM BS
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs21" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_39.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/jsport_3/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",JSport 3
+https://akariko-bck2.sankuria.sbs/stream/jp/jsport_3/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === BS 4K ===
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs22" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_40.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/jsport_4/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",JSport 4
+https://akariko-bck2.sankuria.sbs/stream/jp/jsport_4/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="NHKBSP4K.jp" tvg-name="NHK BS4K" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nhk_bs4k.png",NHK BS4K
-http://58.82.168.138:5002/bs01.m3u8?token=guoziyun&gid=bs01&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nhk_bs/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NHK BS
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_bs/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === BS Premium ===
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="nhk_bs_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nhk_bs_2/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NHK BS 2
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_bs_2/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.621" tvg-name="WOWOW Prime" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_prime.png",WOWOW Prime
-http://58.82.168.138:5002/bs12.m3u8?token=guoziyun&gid=bs12&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_15.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nhk_bs4k/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NHK BS4K
+https://akariko-bck2.sankuria.sbs/stream/jp/nhk_bs4k/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.622" tvg-name="WOWOW Live" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_live.png",WOWOW Live
-http://58.82.168.138:5002/bs20.m3u8?token=guoziyun&gid=bs20&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs23" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nihon_eiga_senmon/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Nihon Eiga Senmon
+https://akariko-bck2.sankuria.sbs/stream/jp/nihon_eiga_senmon/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.623" tvg-name="WOWOW Cinema" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/wowow_cinema.png",WOWOW Cinema
-http://58.82.168.138:5002/bs07.m3u8?token=guoziyun&gid=bs07&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs07" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_29.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/wowow_cinema/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",WOWOW Cinema
+https://akariko-bck2.sankuria.sbs/stream/jp/wowow_cinema/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.625" tvg-name="BS 10 Premium" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/bs_10_premium.png",BS 10 Premium
-http://58.82.168.138:5002/bs08.m3u8?token=guoziyun&gid=bs08&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs20" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_28.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/wowow_live/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",WOWOW Live
+https://akariko-bck2.sankuria.sbs/stream/jp/wowow_live/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === Sports ===
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="wowow_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_30.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/wowow_plus/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",WOWOW Plus
+https://akariko-bck2.sankuria.sbs/stream/jp/wowow_plus/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.688" tvg-name="Green Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/green_channel.png",Green Channel
-http://58.82.168.138:5002/bs14.m3u8?token=guoziyun&gid=bs14&channel=zhongying
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_27.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/wowow_prime/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",WOWOW Prime
+https://akariko-bck2.sankuria.sbs/stream/jp/wowow_prime/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.603" tvg-name="JSport 1" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_1.png",JSport 1
-http://58.82.168.138:5002/bs18.m3u8?token=guoziyun&gid=bs18&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="at-x" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/at-x/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",AT-X
+https://akariko-bck2.sankuria.sbs/stream/jp/at-x/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.604" tvg-name="JSport 2" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_2.png",JSport 2
-http://58.82.168.138:5002/bs19.m3u8?token=guoziyun&gid=bs19&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="action_channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_56.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/action_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Action Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/action_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.606" tvg-name="JSport 3" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_3.png",JSport 3
-http://58.82.168.138:5002/bs21.m3u8?token=guoziyun&gid=bs21&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs24" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_88.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/animal_planet/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Animal Planet
+https://akariko-bck2.sankuria.sbs/stream/jp/animal_planet/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.605" tvg-name="JSport 4" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jsport_4.png",JSport 4
-http://58.82.168.138:5002/bs22.m3u8?token=guoziyun&gid=bs22&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs15" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/bbc_news/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",BBC News
+https://akariko-bck2.sankuria.sbs/stream/jp/bbc_news/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_49" tvg-name="Sky A" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/sky_a.png",Sky A
-http://58.82.168.138:5002/cs01.m3u8?token=guoziyun&gid=cs01&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs16" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/cnnj/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",CNNj
+https://akariko-bck2.sankuria.sbs/stream/jp/cnnj/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_51" tvg-name="Gaora Sports" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gaora_sports.png",Gaora Sports
-http://58.82.168.138:5002/cs17.m3u8?token=guoziyun&gid=cs17&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs25" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_84.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/cartoon_network/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Cartoon Network
+https://akariko-bck2.sankuria.sbs/stream/jp/cartoon_network/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.608" tvg-name="Nittele G+" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nittele_g.png",Nittele G+
-http://58.82.168.138:5002/cs02.m3u8?token=guoziyun&gid=cs02&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs29" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_69.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/channel_ginga/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Channel Ginga
+https://akariko-bck2.sankuria.sbs/stream/jp/channel_ginga/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_75" tvg-name="Golf Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_network.png",Golf Network
-http://58.82.168.138:5002/cs03.m3u8?token=guoziyun&gid=cs03&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="dlife" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_54.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/dlife/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",DLife
+https://akariko-bck2.sankuria.sbs/stream/jp/dlife/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_89" tvg-name="TOP BARÇA" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/top_barca.png",TOP BARÇA
-https://cdn-apne1.tsv2.amagi.tv/linear/amg17560-fcbarcelona-fcbenglishcmag-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs08" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_87.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/discovery_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Discovery Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/discovery_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_97" tvg-name="NTV Pro Wrestling" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ntv_pro_wrestling.png",NTV Pro Wrestling
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-ntv-pro-wrestling-hls-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs23" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_81.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/disney_junior/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Disney Junior
+https://akariko-bck2.sankuria.sbs/stream/jp/disney_junior/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_48" tvg-name="刺激ストロングSPORTS" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_48.png",刺激ストロングSPORTS
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekisports-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs22" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_45.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/eisei_gekijo/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Eisei Gekijo
+https://akariko-bck2.sankuria.sbs/stream/jp/eisei_gekijo/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_64" tvg-name="FUEL TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuel_tv.png",FUEL TV
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvjpcmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs20" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_50.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/family_gekijyo/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Family Gekijyo
+https://akariko-bck2.sankuria.sbs/stream/jp/family_gekijyo/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_bgolf" tvg-name="GOLF LIFE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/golf_life.png",GOLF LIFE (FAST)
-https://livetv.fastv.jp/channel_assembly/69607D5C725E103DDF9D/master.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="fighting_tv_samurai" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_62.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/fighting_tv_samurai/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Fighting TV Samurai
+https://akariko-bck2.sankuria.sbs/stream/jp/fighting_tv_samurai/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === Movies & Drama ===
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs26" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_72.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv_next/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Fuji TV Next
+https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv_next/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.629" tvg-name="Toei Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/toei_channel.png",Toei Channel
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="fuji_tv_one" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv_one/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Fuji TV ONE
+https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv_one/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.628" tvg-name="Eisei Gekijo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/eisei_gekijo.png",Eisei Gekijo
-http://58.82.168.138:5002/cs22.m3u8?token=guoziyun&gid=cs22&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="fuji_tv_two" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_71.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv_two/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Fuji TV TWO
+https://akariko-bck2.sankuria.sbs/stream/jp/fuji_tv_two/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.632" tvg-name="Movie Plus" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/movie_plus.png",Movie Plus
-http://58.82.168.138:5002/cs14.m3u8?token=guoziyun&gid=cs14&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs17" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/gaora_sports/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",GAORA SPORTS
+https://akariko-bck2.sankuria.sbs/stream/jp/gaora_sports/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.634" tvg-name="Nihon Eiga Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/nihon_eiga_senmon.png",Nihon Eiga Senmon
-http://58.82.168.138:5002/bs23.m3u8?token=guoziyun&gid=bs23&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/golf_network/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Golf Network
+https://akariko-bck2.sankuria.sbs/stream/jp/golf_network/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.662" tvg-name="Jidaigeki Senmon" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/jidaigeki_senmon.png",Jidaigeki Senmon
-http://58.82.168.138:5002/cs04.m3u8?token=guoziyun&gid=cs04&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs09" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_85.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/history/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",History
+https://akariko-bck2.sankuria.sbs/stream/jp/history/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.660" tvg-name="Family Gekijyo" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/family_gekijyo.png",Family Gekijyo
-http://58.82.168.138:5002/cs20.m3u8?token=guoziyun&gid=cs20&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_51.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/home_drama_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Home Drama Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/home_drama_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.661" tvg-name="Home Drama Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/home_drama_channel.png",Home Drama Channel
-http://58.82.168.138:5002/cs05.m3u8?token=guoziyun&gid=cs05&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_49.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/jidaigeki_senmon/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Jidaigeki Senmon
+https://akariko-bck2.sankuria.sbs/stream/jp/jidaigeki_senmon/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.664" tvg-name="Channel Ginga" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/channel_ginga.png",Channel Ginga
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="kbs-world_jp" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/kbs_world/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",KBS World
+https://akariko-bck2.sankuria.sbs/stream/jp/kbs_world/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.613" tvg-name="Fuji TV NEXT" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fuji_tv_next.png",Fuji TV NEXT
-http://58.82.168.138:5002/cs26.m3u8?token=guoziyun&gid=cs26&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="kntv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/kntv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",KNTV
+https://akariko-bck2.sankuria.sbs/stream/jp/kntv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.654" tvg-name="LaLa TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/lala_tv.png",LaLa TV
-http://58.82.168.138:5002/cs19.m3u8?token=guoziyun&gid=cs19&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs13" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_78.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/kayo_pops/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Kayo Pops
+https://akariko-bck2.sankuria.sbs/stream/jp/kayo_pops/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_34" tvg-name="ムビドラTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_34.png",ムビドラTV
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-moviecmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs07" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_79.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/kids_station_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Kids Station TV
+https://akariko-bck2.sankuria.sbs/stream/jp/kids_station_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_samri" tvg-name="時代劇TV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_samri.png",時代劇TV (FAST)
-https://livetv.fastv.jp/channel_assembly/696074B664B80F46A876/master.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs19" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_55.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/lala_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",LaLa TV
+https://akariko-bck2.sankuria.sbs/stream/jp/lala_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_comdy" tvg-name="LeminoTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/leminotv.png",LeminoTV (FAST)
-https://livetv.fastv.jp/channel_assembly/696082290000105F1525/master.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs18" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/mtv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",MTV
+https://akariko-bck2.sankuria.sbs/stream/jp/mtv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_asdrm" tvg-name="エンタメ・アジア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_asdrm.png",エンタメ・アジア (FAST)
-https://livetv.fastv.jp/channel_assembly/696078CF64B81069221E/master.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="me-tele_next" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/me-tele_next/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Me-Tele NEXT
+https://akariko-bck2.sankuria.sbs/stream/jp/me-tele_next/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === Anime & Kids ===
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="mnet_jp" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/mnet/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Mnet
+https://akariko-bck2.sankuria.sbs/stream/jp/mnet/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.670" tvg-name="Animax" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animax.png",Animax
-http://58.82.168.138:5002/bs15.m3u8?token=guoziyun&gid=bs15&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs21" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_52.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/mondo_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Mondo TV
+https://akariko-bck2.sankuria.sbs/stream/jp/mondo_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.620" tvg-name="Disney Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_channel.png",Disney Channel
-http://58.82.168.138:5002/bs24.m3u8?token=guoziyun&gid=bs24&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="movie_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/movie_plus/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Movie Plus
+https://akariko-bck2.sankuria.sbs/stream/jp/movie_plus/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.669" tvg-name="Kids Staton" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kids_staton.png",Kids Staton
-http://58.82.168.138:5002/cs07.m3u8?token=guoziyun&gid=cs07&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs06" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_77.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/music_japan_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Music Japan TV
+https://akariko-bck2.sankuria.sbs/stream/jp/music_japan_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.668" tvg-name="Cartoon Network" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/cartoon_network.png",Cartoon Network
-http://58.82.168.138:5002/cs25.m3u8?token=guoziyun&gid=cs25&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="music_on_tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/music_on_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Music ON TV
+https://akariko-bck2.sankuria.sbs/stream/jp/music_on_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.672" tvg-name="Disney Junior" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/disney_junior.png",Disney Junior
-http://58.82.168.138:5002/cs23.m3u8?token=guoziyun&gid=cs23&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="mystery_channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_57.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/mystery_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Mystery Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/mystery_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_73" tvg-name="手塚プロダクションTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_73.png",手塚プロダクションTV
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-anime5-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="neco_ch" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/neco_ch/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NECO Ch
+https://akariko-bck2.sankuria.sbs/stream/jp/neco_ch/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_61" tvg-name="しまじろうチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_61.png",しまじろうチャンネル
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rchannelbenessehlscmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ntv_news24" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/ntv_news24/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",NTV News24
+https://akariko-bck2.sankuria.sbs/stream/jp/ntv_news24/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_65" tvg-name="キッズ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_65.png",キッズ
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-kids-english-cmaf-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs10" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_86.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/national_geographic_japan/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",National Geographic Japan
+https://akariko-bck2.sankuria.sbs/stream/jp/national_geographic_japan/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_kids" tvg-name="アニマックス FREE (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_kids.png",アニマックス FREE (FAST)
-https://livetv.fastv.jp/channel_assembly/69608FB2725E0FA3B972/master.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_60.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nittele_g+/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Nittele G+
+https://akariko-bck2.sankuria.sbs/stream/jp/nittele_g+/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === Music ===
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="nittele_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_68.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/nittele_plus/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Nittele Plus
+https://akariko-bck2.sankuria.sbs/stream/jp/nittele_plus/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="TAKARAZUKASKYSTAGE.jp" tvg-name="Takarazuka Sky Stage" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/takarazuka_sky_stage.png",Takarazuka Sky Stage
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="pigoo_nsfw" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/pigoo_nsfw/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Pigoo NSFW
+https://akariko-bck2.sankuria.sbs/stream/jp/pigoo_nsfw/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="スペースシャワーTV_jp" tvg-name="Space Shower TV (HD)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/space_shower_tv.png",Space Shower TV (HD)
-http://58.82.168.138:5002/bs26.m3u8?token=guoziyun&gid=bs26&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="shogi_channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_95.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/shogi_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Shogi Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/shogi_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.640" tvg-name="MTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mtv.png",MTV
-http://58.82.168.138:5002/cs18.m3u8?token=guoziyun&gid=cs18&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_58.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/sky_a/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Sky A
+https://akariko-bck2.sankuria.sbs/stream/jp/sky_a/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_85" tvg-name="Kayo Pops" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kayo_pops.png",Kayo Pops
-http://58.82.168.138:5002/cs13.m3u8?token=guoziyun&gid=cs13&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="bs26" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/space_shower_tv/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Space Shower TV
+https://akariko-bck2.sankuria.sbs/stream/jp/space_shower_tv/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.639" tvg-name="Music Japan TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/music_japan_tv.png",Music Japan TV
-http://58.82.168.138:5002/cs06.m3u8?token=guoziyun&gid=cs06&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="sport_live_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_63.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/sport_live_plus/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Sport Live Plus
+https://akariko-bck2.sankuria.sbs/stream/jp/sport_live_plus/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_104" tvg-name="that’s 70s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_70s.png",that’s 70s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow70s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tbs_channel_1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_64.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tbs_channel_1/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TBS Channel 1
+https://akariko-bck2.sankuria.sbs/stream/jp/tbs_channel_1/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_105" tvg-name="that’s 80s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_80s.png",that’s 80s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnow80s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tbs_channel_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_65.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tbs_channel_2/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TBS Channel 2
+https://akariko-bck2.sankuria.sbs/stream/jp/tbs_channel_2/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_106" tvg-name="that’s 90s00s" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_90s00s.png",that’s 90s00s
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightning-now90s00s-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_93.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tbs_news/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TBS News
+https://akariko-bck2.sankuria.sbs/stream/jp/tbs_news/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_107" tvg-name="that’s Rock" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/thats_rock.png",that’s Rock
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-lightningnowrock-rakutenjp/playlist.m3u8
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tv_asahi_channel_1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tv_asahi_channel_1/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TV Asahi Channel 1
+https://akariko-bck2.sankuria.sbs/stream/jp/tv_asahi_channel_1/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-# === Documentary & Lifestyle ===
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tv_asahi_channel_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tv_asahi_channel_2/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",TV Asahi Channel 2
+https://akariko-bck2.sankuria.sbs/stream/jp/tv_asahi_channel_2/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_46" tvg-name="Fishing Vision" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fishing_vision.png",Fishing Vision
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_89.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tabi_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Tabi Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/tabi_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.676" tvg-name="Discovery Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/discovery_channel.png",Discovery Channel
-http://58.82.168.138:5002/cs08.m3u8?token=guoziyun&gid=cs08&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs28" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_91.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/takarazuka_sky_stage/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Takarazuka Sky Stage
+https://akariko-bck2.sankuria.sbs/stream/jp/takarazuka_sky_stage/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.677" tvg-name="Animal Planet" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/animal_planet.png",Animal Planet
-http://58.82.168.138:5002/cs24.m3u8?token=guoziyun&gid=cs24&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="jp76" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_90.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/tetsudo_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Tetsudo Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/tetsudo_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="rch_43" tvg-name="History" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/history.png",History
-http://58.82.168.138:5002/cs09.m3u8?token=guoziyun&gid=cs09&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="the_cinema" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_47.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/the_cinema/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",The Cinema
+https://akariko-bck2.sankuria.sbs/stream/jp/the_cinema/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.675" tvg-name="National Geographic Japan" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/national_geographic_japan.png",National Geographic Japan
-http://58.82.168.138:5002/cs10.m3u8?token=guoziyun&gid=cs10&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs27" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_44.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/toei_channel/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Toei Channel
+https://akariko-bck2.sankuria.sbs/stream/jp/toei_channel/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="CH.544" tvg-name="Tabi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/tabi_channel.png",Tabi Channel
-http://58.82.168.138:5002/cs12.m3u8?token=guoziyun&gid=cs12&channel=zhongying
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="v_paradise_nsfw" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/v_paradise_nsfw/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",V Paradise NSFW
+https://akariko-bck2.sankuria.sbs/stream/jp/v_paradise_nsfw/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_pett1" tvg-name="ペットTV (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_pett1.png",ペットTV (FAST)
-https://livetv.fastv.jp/channel_assembly/69551F080000E209AD09/master.m3u8
+#EXTINF:-1 group-title="Other | SG 01" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png" catchup="default" catchup-days="6" catchup-source="https://akariko-bck2.sankuria.sbs/stream/jp/weather_news/replay.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls&start=${start}",Weather News
+https://akariko-bck2.sankuria.sbs/stream/jp/weather_news/stream-output.m3u8?ac_tk=eyJhbGciOiJBMjU2S1ciLCJlbmMiOiJBMjU2R0NNIn0.OgbjVx4WHk8ZaqklNT4CXfKiNhS1uZmhR-aVx4FVuiFuzFPcYpthyw.Ty4TOmdIs3qZsNY_.zE5utgcu73unDHLMKpxw_tTujYtKuK--X2lFYMhmsE0poY_9afvawQy_wj8CVTN5XZKuauGLQu1WDmflTst259StskrQISIn9WWS_PYFl0Yr7toq.uP0hB5ymeRoi4hz5m2C9Cg&mode=hls
 
-#EXTINF:-1 tvg-id="fastch_v2_camng" tvg-name="キャンプ・アウトドア (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_camng.png",キャンプ・アウトドア (FAST)
-https://livetv.fastv.jp/channel_assembly/69607E1D725E0FB5AC23/master.m3u8
 
-#EXTINF:-1 tvg-id="fastch_v2_travl" tvg-name="今日のごはんなに? (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_travl.png",今日のごはんなに? (FAST)
-https://livetv.fastv.jp/channel_assembly/696095BC725E0FE5F3E9/master.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_recip" tvg-name="観るたび (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_recip.png",観るたび (FAST)
-https://livetv.fastv.jp/channel_assembly/6960965C64B80F2C027D/master.m3u8
-
-# === Variety & Hobby ===
-
-#EXTINF:-1 tvg-id="CH.659" tvg-name="Mondo TV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/mondo_tv.png",Mondo TV
-http://58.82.168.138:5002/cs21.m3u8?token=guoziyun&gid=cs21&channel=zhongying
-
-#EXTINF:-1 tvg-id="rch_36" tvg-name="Shogi Channel" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/shogi_channel.png",Shogi Channel
-https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
-
-#EXTINF:-1 tvg-id="rch_100" tvg-name="囲碁・将棋ライト" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_100.png",囲碁・将棋ライト (R)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-igo-shogi-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_74" tvg-name="麻雀" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_74.png",麻雀
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-mahjong-cmaf1-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_35" tvg-name="パチンコ・パチスロ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_35.png",パチンコ・パチスロ
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pachislocmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_113" tvg-name="ぷれいば！" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_113.png",ぷれいば！
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-game-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_86" tvg-name="ワンニャンチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_86.png",ワンニャンチャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-pet-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_114" tvg-name="九州・沖縄　街ネタ" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_114.png",九州・沖縄　街ネタ
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-local-contents-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_news1" tvg-name="丸ごと九州 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_news1.png",丸ごと九州 (FAST)
-https://livetv.fastv.jp/channel_assembly/696090F573F51039B31F/master.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_jpthp" tvg-name="ぴあ落語ざんまい (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_jpthp.png",ぴあ落語ざんまい (FAST)
-https://livetv.fastv.jp/channel_assembly/69608EE9725E0F73BF30/master.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_snyon" tvg-name="FASHIONPLUS (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fashionplus.png",FASHIONPLUS (FAST)
-https://livetv.fastv.jp/channel_assembly/69609952725E0FA3B987/master.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_goshogi" tvg-name="囲碁・将棋ライト (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_goshogi.png",囲碁・将棋ライト (FAST)
-https://livetv.fastv.jp/channel_assembly/69998C7B725E30DA4170/master.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_hokkaido" tvg-name="丸ごと北海道 (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_hokkaido.png",丸ごと北海道 (FAST)
-https://livetv.fastv.jp/channel_assembly/69998D0964B83951E552/master.m3u8
-
-#EXTINF:-1 tvg-id="fastch_v2_tokai" tvg-name="東海ロキポ (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_tokai.png",東海ロキポ (FAST)
-https://livetv.fastv.jp/channel_assembly/69998DB5725E30535DA6/master.m3u8
-
-#EXTINF:-1 tvg-id="rch_37" tvg-name="エンタメ～テレDEEP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_37.png",エンタメ～テレDEEP
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-nagoyanextcmaf-rakutenjp/playlist.m3u8
-
-# === Korean & Asian ===
-
-#EXTINF:-1 tvg-id="CH.656" tvg-name="KBS World" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/kbs_world.png",KBS World
-https://liveh12.vtvprime.vn/hls/KBS/03.m3u8
-
-#EXTINF:-1 tvg-id="rch_94" tvg-name="NEW KPOP" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/new_kpop.png",NEW KPOP
-https://ads.its-newid.net/api/manifest.m3u8?tp=r_channel&channel_name=newkpop&channel_id=newid_165
-
-#EXTINF:-1 tvg-id="fastch_v2_krdrm" tvg-name="韓流チャンネル (FAST)" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/fastch_v2_krdrm.png",韓流チャンネル (FAST)
-https://livetv.fastv.jp/channel_assembly/6960905473F5101B6A17/master.m3u8
-
-# === Shopping ===
-
-#EXTINF:-1 tvg-id="ショップチャンネル_jp" tvg-name="ショップチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/ch_a4d3ba28.png",ショップチャンネル
-https://stream3.shopch.jp/HLS/master.m3u8
-
-#EXTINF:-1 tvg-id="rch_102" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC
-https://d1flvb4iqlercm.cloudfront.net/r-channel/live.m3u8
-
-#EXTINF:-1 tvg-id="CH.525" tvg-name="QVC" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/qvc.png",QVC (CS)
-https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
-
-#EXTINF:-1 tvg-id="rch_112" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV
-https://rch01e-alive-hls.akamaized.net/15bcd044c531aa99/out/v1/339db39dc83c421f94a8cebb777e4d02/index.m3u8
-
-#EXTINF:-1 tvg-id="CH.527" tvg-name="GSTV" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/gstv.png",GSTV (CS)
-https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
-
-# === Weather ===
-
-#EXTINF:-1 tvg-id="rch_45" tvg-name="Weather News" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/weather_news.png",Weather News
-https://rch01e-alive-hls.akamaized.net/38fb45b25cdb05a1/out/v1/4e907bfabc684a1dae10df8431a84d21/index.m3u8
-
-# === Adult ===
-
-#EXTINF:-1 tvg-id="rch_98" tvg-name="セクシーエンタメチャンネル" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_98.png",セクシーエンタメチャンネル
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-rvariety-cmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_40" tvg-name="刺激ストロング" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_40.png",刺激ストロング
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-shigekicmaf-rakutenjp/playlist.m3u8
-
-#EXTINF:-1 tvg-id="rch_42" tvg-name="映画（年齢制限あり）" tvg-logo="https://jp-epg-26f0ce.gitlab.io/logos/rch_42.png",映画（年齢制限あり）
-https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-movie2cmaf-rakutenjp/playlist.m3u8
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Ch 5" tvg-name="Channel 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Mediacorp_Channel_5_2023.svg/2560px-Mediacorp_Channel_5_2023.svg.png" group-title="Sing", Channel 5 Singapore
