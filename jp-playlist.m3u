@@ -1,0 +1,317 @@
+#EXTM3U url-tvg="https://haru.charandom.blog/epg/kai-epg.xml" tvg-shift="0" m3uautoload="1"
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_4.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/fuji_tv/replay.m3u8?mode=hls&start=${start}",Fuji TV
+https://haru.charandom.blog/stream/jp/fuji_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_1.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nhk_e/replay.m3u8?mode=hls&start=${start}",NHK E
+https://haru.charandom.blog/stream/jp/nhk_e/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nhk_g/replay.m3u8?mode=hls&start=${start}",NHK G
+https://haru.charandom.blog/stream/jp/nhk_g/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="nhk_g_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_0.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nhk_g_2/replay.m3u8?mode=hls&start=${start}",NHK G 2
+https://haru.charandom.blog/stream/jp/nhk_g_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_2.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/ntv/replay.m3u8?mode=hls&start=${start}",NTV
+https://haru.charandom.blog/stream/jp/ntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_3.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tbs/replay.m3u8?mode=hls&start=${start}",TBS
+https://haru.charandom.blog/stream/jp/tbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd08" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_7.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tokyo_mx1/replay.m3u8?mode=hls&start=${start}",TOKYO MX1
+https://haru.charandom.blog/stream/jp/tokyo_mx1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="tokyo_mx2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_8.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tokyo_mx2/replay.m3u8?mode=hls&start=${start}",TOKYO MX2
+https://haru.charandom.blog/stream/jp/tokyo_mx2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd06" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_5.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tv_asahi/replay.m3u8?mode=hls&start=${start}",TV Asahi
+https://haru.charandom.blog/stream/jp/tv_asahi/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Tokyo | SG 01" tvg-id="gd07" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_6.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tv_tokyo/replay.m3u8?mode=hls&start=${start}",TV Tokyo
+https://haru.charandom.blog/stream/jp/tv_tokyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_10.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/abc/replay.m3u8?mode=hls&start=${start}",ABC
+https://haru.charandom.blog/stream/jp/abc/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="kbs" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_14.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/kbs/replay.m3u8?mode=hls&start=${start}",KBS
+https://haru.charandom.blog/stream/jp/kbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_11.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/kansai_tv/replay.m3u8?mode=hls&start=${start}",Kansai TV
+https://haru.charandom.blog/stream/jp/kansai_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_9.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/mbs/replay.m3u8?mode=hls&start=${start}",MBS
+https://haru.charandom.blog/stream/jp/mbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx06" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nhk_g_osaka/replay.m3u8?mode=hls&start=${start}",NHK G Osaka
+https://haru.charandom.blog/stream/jp/nhk_g_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx07" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/sun/replay.m3u8?mode=hls&start=${start}",SUN
+https://haru.charandom.blog/stream/jp/sun/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_13.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tv_osaka/replay.m3u8?mode=hls&start=${start}",TV Osaka
+https://haru.charandom.blog/stream/jp/tv_osaka/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Kansai | SG 01" tvg-id="gx04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_12.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/ytv/replay.m3u8?mode=hls&start=${start}",ytv
+https://haru.charandom.blog/stream/jp/ytv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs15" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_42.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/animax/replay.m3u8?mode=hls&start=${start}",Animax
+https://haru.charandom.blog/stream/jp/animax/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs08" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_32.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_10_premium/replay.m3u8?mode=hls&start=${start}",BS 10 Premium
+https://haru.charandom.blog/stream/jp/bs_10_premium/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_26.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_12/replay.m3u8?mode=hls&start=${start}",BS 12
+https://haru.charandom.blog/stream/jp/bs_12/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_19.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_asahi/replay.m3u8?mode=hls&start=${start}",BS Asahi
+https://haru.charandom.blog/stream/jp/bs_asahi/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_asahi_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_asahi_4k/replay.m3u8?mode=hls&start=${start}",BS Asahi 4K
+https://haru.charandom.blog/stream/jp/bs_asahi_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs06" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_24.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_fuji/replay.m3u8?mode=hls&start=${start}",BS Fuji
+https://haru.charandom.blog/stream/jp/bs_fuji/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_fuji_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_fuji_4k/replay.m3u8?mode=hls&start=${start}",BS Fuji 4K
+https://haru.charandom.blog/stream/jp/bs_fuji_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_18.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_ntv/replay.m3u8?mode=hls&start=${start}",BS NTV
+https://haru.charandom.blog/stream/jp/bs_ntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_ntv_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_ntv_4k/replay.m3u8?mode=hls&start=${start}",BS NTV 4K
+https://haru.charandom.blog/stream/jp/bs_ntv_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_21.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_tbs/replay.m3u8?mode=hls&start=${start}",BS TBS
+https://haru.charandom.blog/stream/jp/bs_tbs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_23.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_tv_tokyo/replay.m3u8?mode=hls&start=${start}",BS TV Tokyo
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_tv_tokyo_4k" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/replay.m3u8?mode=hls&start=${start}",BS TV Tokyo 4K
+https://haru.charandom.blog/stream/jp/bs_tv_tokyo_4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs_yoshimoto" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_35.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs_yoshimoto/replay.m3u8?mode=hls&start=${start}",BS Yoshimoto
+https://haru.charandom.blog/stream/jp/bs_yoshimoto/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs10" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_31.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs10/replay.m3u8?mode=hls&start=${start}",BS10
+https://haru.charandom.blog/stream/jp/bs10/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_25.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bs11/replay.m3u8?mode=hls&start=${start}",BS11
+https://haru.charandom.blog/stream/jp/bs11/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs24" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_43.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/disney_channel/replay.m3u8?mode=hls&start=${start}",Disney Channel
+https://haru.charandom.blog/stream/jp/disney_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs25" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_41.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/fishing_vision/replay.m3u8?mode=hls&start=${start}",Fishing Vision
+https://haru.charandom.blog/stream/jp/fishing_vision/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs14" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_36.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/green_channel/replay.m3u8?mode=hls&start=${start}",Green Channel
+https://haru.charandom.blog/stream/jp/green_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_ouj.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/replay.m3u8?mode=hls&start=${start}",Hoso Daigaku EX
+https://haru.charandom.blog/stream/jp/hoso_daigaku_ex/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs31" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_34.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/jcom_bs/replay.m3u8?mode=hls&start=${start}",JCOM BS
+https://haru.charandom.blog/stream/jp/jcom_bs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs18" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_37.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/jsport_1/replay.m3u8?mode=hls&start=${start}",JSport 1
+https://haru.charandom.blog/stream/jp/jsport_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs19" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_38.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/jsport_2/replay.m3u8?mode=hls&start=${start}",JSport 2
+https://haru.charandom.blog/stream/jp/jsport_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs21" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_39.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/jsport_3/replay.m3u8?mode=hls&start=${start}",JSport 3
+https://haru.charandom.blog/stream/jp/jsport_3/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs22" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_40.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/jsport_4/replay.m3u8?mode=hls&start=${start}",JSport 4
+https://haru.charandom.blog/stream/jp/jsport_4/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nhk_bs/replay.m3u8?mode=hls&start=${start}",NHK BS
+https://haru.charandom.blog/stream/jp/nhk_bs/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="nhk_bs_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_17.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nhk_bs_2/replay.m3u8?mode=hls&start=${start}",NHK BS 2
+https://haru.charandom.blog/stream/jp/nhk_bs_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_15.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nhk_bs4k/replay.m3u8?mode=hls&start=${start}",NHK BS4K
+https://haru.charandom.blog/stream/jp/nhk_bs4k/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs23" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_33.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nihon_eiga_senmon/replay.m3u8?mode=hls&start=${start}",Nihon Eiga Senmon
+https://haru.charandom.blog/stream/jp/nihon_eiga_senmon/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs07" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_29.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/wowow_cinema/replay.m3u8?mode=hls&start=${start}",WOWOW Cinema
+https://haru.charandom.blog/stream/jp/wowow_cinema/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs20" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_28.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/wowow_live/replay.m3u8?mode=hls&start=${start}",WOWOW Live
+https://haru.charandom.blog/stream/jp/wowow_live/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="wowow_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_30.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/wowow_plus/replay.m3u8?mode=hls&start=${start}",WOWOW Plus
+https://haru.charandom.blog/stream/jp/wowow_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="BS | SG 01" tvg-id="bs12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_27.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/wowow_prime/replay.m3u8?mode=hls&start=${start}",WOWOW Prime
+https://haru.charandom.blog/stream/jp/wowow_prime/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="at-x" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_80.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/at-x/replay.m3u8?mode=hls&start=${start}",AT-X
+https://haru.charandom.blog/stream/jp/at-x/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="action_channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_56.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/action_channel/replay.m3u8?mode=hls&start=${start}",Action Channel
+https://haru.charandom.blog/stream/jp/action_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs24" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_88.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/animal_planet/replay.m3u8?mode=hls&start=${start}",Animal Planet
+https://haru.charandom.blog/stream/jp/animal_planet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs15" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/bbc_news/replay.m3u8?mode=hls&start=${start}",BBC News
+https://haru.charandom.blog/stream/jp/bbc_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs16" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/cnnj/replay.m3u8?mode=hls&start=${start}",CNNj
+https://haru.charandom.blog/stream/jp/cnnj/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs25" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_84.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/cartoon_network/replay.m3u8?mode=hls&start=${start}",Cartoon Network
+https://haru.charandom.blog/stream/jp/cartoon_network/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs29" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_69.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/channel_ginga/replay.m3u8?mode=hls&start=${start}",Channel Ginga
+https://haru.charandom.blog/stream/jp/channel_ginga/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="dlife" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_54.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/dlife/replay.m3u8?mode=hls&start=${start}",DLife
+https://haru.charandom.blog/stream/jp/dlife/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs08" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_87.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/discovery_channel/replay.m3u8?mode=hls&start=${start}",Discovery Channel
+https://haru.charandom.blog/stream/jp/discovery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs23" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_81.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/disney_junior/replay.m3u8?mode=hls&start=${start}",Disney Junior
+https://haru.charandom.blog/stream/jp/disney_junior/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs22" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_45.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/eisei_gekijo/replay.m3u8?mode=hls&start=${start}",Eisei Gekijo
+https://haru.charandom.blog/stream/jp/eisei_gekijo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs20" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_50.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/family_gekijyo/replay.m3u8?mode=hls&start=${start}",Family Gekijyo
+https://haru.charandom.blog/stream/jp/family_gekijyo/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="fighting_tv_samurai" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_62.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/fighting_tv_samurai/replay.m3u8?mode=hls&start=${start}",Fighting TV Samurai
+https://haru.charandom.blog/stream/jp/fighting_tv_samurai/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs26" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_72.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/fuji_tv_next/replay.m3u8?mode=hls&start=${start}",Fuji TV Next
+https://haru.charandom.blog/stream/jp/fuji_tv_next/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="fuji_tv_one" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_70.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/fuji_tv_one/replay.m3u8?mode=hls&start=${start}",Fuji TV ONE
+https://haru.charandom.blog/stream/jp/fuji_tv_one/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="fuji_tv_two" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_71.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/fuji_tv_two/replay.m3u8?mode=hls&start=${start}",Fuji TV TWO
+https://haru.charandom.blog/stream/jp/fuji_tv_two/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs17" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_59.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/gaora_sports/replay.m3u8?mode=hls&start=${start}",GAORA SPORTS
+https://haru.charandom.blog/stream/jp/gaora_sports/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs03" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_61.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/golf_network/replay.m3u8?mode=hls&start=${start}",Golf Network
+https://haru.charandom.blog/stream/jp/golf_network/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs09" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_85.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/history/replay.m3u8?mode=hls&start=${start}",History
+https://haru.charandom.blog/stream/jp/history/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs05" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_51.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/home_drama_channel/replay.m3u8?mode=hls&start=${start}",Home Drama Channel
+https://haru.charandom.blog/stream/jp/home_drama_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs04" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_49.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/jidaigeki_senmon/replay.m3u8?mode=hls&start=${start}",Jidaigeki Senmon
+https://haru.charandom.blog/stream/jp/jidaigeki_senmon/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="kbs-world_jp" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/kbs_world/replay.m3u8?mode=hls&start=${start}",KBS World
+https://haru.charandom.blog/stream/jp/kbs_world/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="kntv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_96.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/kntv/replay.m3u8?mode=hls&start=${start}",KNTV
+https://haru.charandom.blog/stream/jp/kntv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs13" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_78.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/kayo_pops/replay.m3u8?mode=hls&start=${start}",Kayo Pops
+https://haru.charandom.blog/stream/jp/kayo_pops/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs07" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_79.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/kids_station_tv/replay.m3u8?mode=hls&start=${start}",Kids Station TV
+https://haru.charandom.blog/stream/jp/kids_station_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs19" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_55.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/lala_tv/replay.m3u8?mode=hls&start=${start}",LaLa TV
+https://haru.charandom.blog/stream/jp/lala_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs18" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_74.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/mtv/replay.m3u8?mode=hls&start=${start}",MTV
+https://haru.charandom.blog/stream/jp/mtv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="me-tele_next" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/me-tele_next/replay.m3u8?mode=hls&start=${start}",Me-Tele NEXT
+https://haru.charandom.blog/stream/jp/me-tele_next/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="mnet_jp" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/mnet/replay.m3u8?mode=hls&start=${start}",Mnet
+https://haru.charandom.blog/stream/jp/mnet/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs21" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_52.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/mondo_tv/replay.m3u8?mode=hls&start=${start}",Mondo TV
+https://haru.charandom.blog/stream/jp/mondo_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="movie_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_48.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/movie_plus/replay.m3u8?mode=hls&start=${start}",Movie Plus
+https://haru.charandom.blog/stream/jp/movie_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs06" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_77.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/music_japan_tv/replay.m3u8?mode=hls&start=${start}",Music Japan TV
+https://haru.charandom.blog/stream/jp/music_japan_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="music_on_tv" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_75.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/music_on_tv/replay.m3u8?mode=hls&start=${start}",Music ON TV
+https://haru.charandom.blog/stream/jp/music_on_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="mystery_channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_57.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/mystery_channel/replay.m3u8?mode=hls&start=${start}",Mystery Channel
+https://haru.charandom.blog/stream/jp/mystery_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="neco_ch" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_46.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/neco_ch/replay.m3u8?mode=hls&start=${start}",NECO Ch
+https://haru.charandom.blog/stream/jp/neco_ch/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="ntv_news24" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/ntv_news24/replay.m3u8?mode=hls&start=${start}",NTV News24
+https://haru.charandom.blog/stream/jp/ntv_news24/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs10" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_86.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/national_geographic_japan/replay.m3u8?mode=hls&start=${start}",National Geographic Japan
+https://haru.charandom.blog/stream/jp/national_geographic_japan/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs02" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_60.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nittele_g+/replay.m3u8?mode=hls&start=${start}",Nittele G+
+https://haru.charandom.blog/stream/jp/nittele_g+/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="nittele_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_68.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/nittele_plus/replay.m3u8?mode=hls&start=${start}",Nittele Plus
+https://haru.charandom.blog/stream/jp/nittele_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="pigoo_nsfw" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_94.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/pigoo_nsfw/replay.m3u8?mode=hls&start=${start}",Pigoo NSFW
+https://haru.charandom.blog/stream/jp/pigoo_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="shogi_channel" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_95.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/shogi_channel/replay.m3u8?mode=hls&start=${start}",Shogi Channel
+https://haru.charandom.blog/stream/jp/shogi_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs01" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_58.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/sky_a/replay.m3u8?mode=hls&start=${start}",Sky A
+https://haru.charandom.blog/stream/jp/sky_a/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="bs26" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_73.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/space_shower_tv/replay.m3u8?mode=hls&start=${start}",Space Shower TV
+https://haru.charandom.blog/stream/jp/space_shower_tv/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="sport_live_plus" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_63.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/sport_live_plus/replay.m3u8?mode=hls&start=${start}",Sport Live Plus
+https://haru.charandom.blog/stream/jp/sport_live_plus/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tbs_channel_1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_64.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tbs_channel_1/replay.m3u8?mode=hls&start=${start}",TBS Channel 1
+https://haru.charandom.blog/stream/jp/tbs_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tbs_channel_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_65.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tbs_channel_2/replay.m3u8?mode=hls&start=${start}",TBS Channel 2
+https://haru.charandom.blog/stream/jp/tbs_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs11" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_93.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tbs_news/replay.m3u8?mode=hls&start=${start}",TBS News
+https://haru.charandom.blog/stream/jp/tbs_news/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tv_asahi_channel_1" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_66.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/replay.m3u8?mode=hls&start=${start}",TV Asahi Channel 1
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_1/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="tv_asahi_channel_2" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_67.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/replay.m3u8?mode=hls&start=${start}",TV Asahi Channel 2
+https://haru.charandom.blog/stream/jp/tv_asahi_channel_2/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs12" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_89.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/tabi_channel/replay.m3u8?mode=hls&start=${start}",Tabi Channel
+https://haru.charandom.blog/stream/jp/tabi_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs28" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_91.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/takarazuka_sky_stage/replay.m3u8?mode=hls&start=${start}",Takarazuka Sky Stage
+https://haru.charandom.blog/stream/jp/takarazuka_sky_stage/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="the_cinema" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_47.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/the_cinema/replay.m3u8?mode=hls&start=${start}",The Cinema
+https://haru.charandom.blog/stream/jp/the_cinema/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="cs27" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_44.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/toei_channel/replay.m3u8?mode=hls&start=${start}",Toei Channel
+https://haru.charandom.blog/stream/jp/toei_channel/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="CS | SG 01" tvg-id="v_paradise_nsfw" tvg-logo="https://xuanzi-storage.netgenx.site/" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/v_paradise_nsfw/replay.m3u8?mode=hls&start=${start}",V Paradise NSFW
+https://haru.charandom.blog/stream/jp/v_paradise_nsfw/stream-output.m3u8?mode=hls
+
+#EXTINF:-1 group-title="Other | SG 01" tvg-id="" tvg-logo="https://xuanzi-storage.netgenx.site/icons/icon_101.png" catchup="default" catchup-days="6" catchup-source="https://haru.charandom.blog/stream/jp/weather_news/replay.m3u8?mode=hls&start=${start}",Weather News
+https://haru.charandom.blog/stream/jp/weather_news/stream-output.m3u8?mode=hls
+
