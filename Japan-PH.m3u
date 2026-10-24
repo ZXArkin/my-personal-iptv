@@ -1,155 +1,155 @@
-#EXTM3U url-tvg="http://akariko-bck2.sankuria.sbs/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="https://linxei.biz.id/epg/kai-epg.xml" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd01
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd02
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd03
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd04
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd05" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd05
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png",TV Asahi HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd06
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd07
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 HD 
-https://naori-test.netgenx.site/pxx.php?shk_cid=hdgd08
+https://ri.shinori.my.id/pxx.php?shk_cid=hdgd08
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd01
+https://ri.shinori.my.id/pxx.php?shk_cid=gd01
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/aa/NHKE%E3%83%86%E3%83%AC%E3%83%AD%E3%82%B42020-.png",NHK E 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd02
+https://ri.shinori.my.id/pxx.php?shk_cid=gd02
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Nippon_TV_logo_2014.svg/2560px-Nippon_TV_logo_2014.svg.png",NTV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd03
+https://ri.shinori.my.id/pxx.php?shk_cid=gd03
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Tokyo_Broadcasting_System_logo_2020.svg/2560px-Tokyo_Broadcasting_System_logo_2020.svg.png",TBS 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd04
+https://ri.shinori.my.id/pxx.php?shk_cid=gd04
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd05" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/65/Fuji_TV_Logo.svg/1049px-Fuji_TV_Logo.svg.png",Fuji TV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd05
+https://ri.shinori.my.id/pxx.php?shk_cid=gd05
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/TV_Asahi_Logo.svg/3840px-TV_Asahi_Logo.svg.png",TV Asahi 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd06
+https://ri.shinori.my.id/pxx.php?shk_cid=gd06
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/TV_Tokyo_logo_2023.svg/2560px-TV_Tokyo_logo_2023.svg.png",TV Tokyo 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd07
+https://ri.shinori.my.id/pxx.php?shk_cid=gd07
 #EXTINF:-1 group-title="Tokyo" tvg-id="gd08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Tokyo_metropolitan_television_logo_%28rainbow%29.svg/2560px-Tokyo_metropolitan_television_logo_%28rainbow%29.svg.png",TOKYO MX1 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gd08
+https://ri.shinori.my.id/pxx.php?shk_cid=gd08
 
 #EXTINF:-1 group-title="Kansai" tvg-id="gx06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png",NHK G Osaka 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx06
+https://ri.shinori.my.id/pxx.php?shk_cid=gx06
 #EXTINF:-1 group-title="Kansai" tvg-id="gx01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mainichi_Broadcasting_System_logo.svg/1920px-Mainichi_Broadcasting_System_logo.svg.png",MBS 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx01
+https://ri.shinori.my.id/pxx.php?shk_cid=gx01
 #EXTINF:-1 group-title="Kansai" tvg-id="gx02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Asahi_Broadcasting_Corporation_Logo.svg/261px-Asahi_Broadcasting_Corporation_Logo.svg.png",ABC 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx02
+https://ri.shinori.my.id/pxx.php?shk_cid=gx02
 #EXTINF:-1 group-title="Kansai" tvg-id="gx03" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Ktv_logo.svg/200px-Ktv_logo.svg.png",Kansai TV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx03
+https://ri.shinori.my.id/pxx.php?shk_cid=gx03
 #EXTINF:-1 group-title="Kansai" tvg-id="gx04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Yomiuri_Telecasting_Corporation_Logo.svg/150px-Yomiuri_Telecasting_Corporation_Logo.svg.png",ytv 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx04
+https://ri.shinori.my.id/pxx.php?shk_cid=gx04
 #EXTINF:-1 group-title="Kansai" tvg-id="gx05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Tv_osaka_logo.svg/178px-Tv_osaka_logo.svg.png",TV Osaka 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx05
+https://ri.shinori.my.id/pxx.php?shk_cid=gx05
 #EXTINF:-1 group-title="Kansai" tvg-id="gx07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SUN-TV_wordmark_2019.png/180px-SUN-TV_wordmark_2019.png",SUN 
-https://naori-test.netgenx.site/pxx.php?shk_cid=gx07
+https://ri.shinori.my.id/pxx.php?shk_cid=gx07
 
 #EXTINF:-1 group-title="BS" tvg-id="bs11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/NHK_BS.png",NHK BS 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs11
+https://ri.shinori.my.id/pxx.php?shk_cid=bs11
 #EXTINF:-1 group-title="BS" tvg-id="bs02" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-nippon-tv-jp.png",BS NTV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs02
+https://ri.shinori.my.id/pxx.php?shk_cid=bs02
 #EXTINF:-1 group-title="BS" tvg-id="bs03" tvg-logo="https://www.bs-asahi.co.jp/wp-content/uploads/2021/06/oglogo.jpg",BS Asahi 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs03
+https://ri.shinori.my.id/pxx.php?shk_cid=bs03
 #EXTINF:-1 group-title="BS" tvg-id="bs04" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/BS-TBS_2020.svg/1920px-BS-TBS_2020.svg.png",BS TBS 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs04
+https://ri.shinori.my.id/pxx.php?shk_cid=bs04
 #EXTINF:-1 group-title="BS" tvg-id="bs05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/BS_TV_Tokyo_%28Japanese%29_2023.svg/1920px-BS_TV_Tokyo_%28Japanese%29_2023.svg.png",BS TV Tokyo 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs05
+https://ri.shinori.my.id/pxx.php?shk_cid=bs05
 #EXTINF:-1 group-title="BS" tvg-id="bs06" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/BSFuji2008Symbol.svg/1280px-BSFuji2008Symbol.svg.png",BS Fuji 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs06
+https://ri.shinori.my.id/pxx.php?shk_cid=bs06
 #EXTINF:-1 group-title="BS" tvg-id="bs01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/NHK_BSP4K_2023_logo.svg/1920px-NHK_BSP4K_2023_logo.svg.png",NHK BS4K 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs01
+https://ri.shinori.my.id/pxx.php?shk_cid=bs01
 #EXTINF:-1 group-title="BS" tvg-id="bs12" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_prime.png",WOWOW Prime 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs12
+https://ri.shinori.my.id/pxx.php?shk_cid=bs12
 #EXTINF:-1 group-title="BS" tvg-id="bs07" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_cinema.png",WOWOW Cinema 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs07
+https://ri.shinori.my.id/pxx.php?shk_cid=bs07
 #EXTINF:-1 group-title="BS" tvg-id="bs20" tvg-logo="https://www.lyngsat.com/logo/tv/ww/wowow_live.png",WOWOW Live 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs20
+https://ri.shinori.my.id/pxx.php?shk_cid=bs20
 #EXTINF:-1 group-title="BS" tvg-id="bs08" tvg-logo="https://www.lyngsat.com/logo/tv/bb/bs-10-star-channel-jp.png",BS 10 Star Channel 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs08
+https://ri.shinori.my.id/pxx.php?shk_cid=bs08
 #EXTINF:-1 group-title="BS" tvg-id="bs18" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/69/jsports1_logo.jpg",JSport 1 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs18
+https://ri.shinori.my.id/pxx.php?shk_cid=bs18
 #EXTINF:-1 group-title="BS" tvg-id="bs19" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/70/jsports2_logo.jpg",JSport 2 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs19
+https://ri.shinori.my.id/pxx.php?shk_cid=bs19
 #EXTINF:-1 group-title="BS" tvg-id="bs21" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/71/jsports3_logo.jpg",JSport 3 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs21
+https://ri.shinori.my.id/pxx.php?shk_cid=bs21
 #EXTINF:-1 group-title="BS" tvg-id="bs22" tvg-logo="https://www.starcat.co.jp/ch/upload/channel/74/jsports4_logo.jpg",JSport 4 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs22
+https://ri.shinori.my.id/pxx.php?shk_cid=bs22
 #EXTINF:-1 group-title="BS" tvg-id="bs14" tvg-logo="https://www.lyngsat.com/logo/tv/gg/green-channel-jp.svg",Green Channel 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs14
+https://ri.shinori.my.id/pxx.php?shk_cid=bs14
 #EXTINF:-1 group-title="BS" tvg-id="bs15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",Animax 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs15
+https://ri.shinori.my.id/pxx.php?shk_cid=bs15
 #EXTINF:-1 group-title="BS" tvg-id="bs23" tvg-logo="https://www.lyngsat.com/logo/tv/nn/nihon_eiga_senmon.png",Nihon Eiga Senmon 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs23
+https://ri.shinori.my.id/pxx.php?shk_cid=bs23
 #EXTINF:-1 group-title="BS" tvg-id="cs01" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sky-a-jp.svg",Sky A 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs01
+https://ri.shinori.my.id/pxx.php?shk_cid=cs01
 #EXTINF:-1 group-title="BS" tvg-id="bs25" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tsuri_vision.png", Fishing Vision 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs25
+https://ri.shinori.my.id/pxx.php?shk_cid=bs25
 #EXTINF:-1 group-title="BS" tvg-id="bs24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/2019_Disney_Channel_logo.svg/250px-2019_Disney_Channel_logo.svg.png", Disney Channel 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs24
+https://ri.shinori.my.id/pxx.php?shk_cid=bs24
 #EXTINF:-1 group-title="BS" tvg-id="bs31" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/90/JCOM_BS_2.png/revision/latest/scale-to-width-down/1000?cb=20250825145119", JCOM BS 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs31
+https://ri.shinori.my.id/pxx.php?shk_cid=bs31
 
 #EXTINF:-1 group-title="CS" tvg-id="cs04" tvg-logo="https://www.lyngsat.com/logo/tv/jj/jidaigeki.png", Jidaigeki Senmon 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs04
+https://ri.shinori.my.id/pxx.php?shk_cid=cs04
 #EXTINF:-1 group-title="CS" tvg-id="cs27" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/toei_channel.png", Toei Channel 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs27
+https://ri.shinori.my.id/pxx.php?shk_cid=cs27
 #EXTINF:-1 group-title="CS" tvg-id="cs22" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/eisei_gekijo.png", Eisei Gekijo 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs22
+https://ri.shinori.my.id/pxx.php?shk_cid=cs22
 #EXTINF:-1 group-title="CS" tvg-id="cs20" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ff/family_gekijyo_jp.png", Family Gekijyo 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs20
+https://ri.shinori.my.id/pxx.php?shk_cid=cs20
 #EXTINF:-1 group-title="CS" tvg-id="cs14" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/movie_plus_jp.png", Movie Plus 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs14
+https://ri.shinori.my.id/pxx.php?shk_cid=cs14
 #EXTINF:-1 group-title="CS" tvg-id="cs05" tvg-logo="https://www.lyngsat.com/logo/tv/hh/home-drama-channelpng-jp.png", Home Drama Channel 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs05
+https://ri.shinori.my.id/pxx.php?shk_cid=cs05
 #EXTINF:-1 group-title="CS" tvg-id="cs12" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tabi_channel.png", Tabi Channel 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs12
+https://ri.shinori.my.id/pxx.php?shk_cid=cs12
 #EXTINF:-1 group-title="CS" tvg-id="cs26" tvg-logo="https://www.lyngsat.com/logo/tv/ff/fuji_tv_next.png", Fuji TV Next 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs26
+https://ri.shinori.my.id/pxx.php?shk_cid=cs26
 #EXTINF:-1 group-title="CS" tvg-id="cs01" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sky-a-jp.png", Sky A  
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs01
+https://ri.shinori.my.id/pxx.php?shk_cid=cs01
 #EXTINF:-1 group-title="CS" tvg-id="cs17" tvg-logo="https://www.lyngsat-logo.com/logo/tv/gg/gaora-sportspng-jp.png", GAORA SPORTS 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs17
+https://ri.shinori.my.id/pxx.php?shk_cid=cs17
 #EXTINF:-1 group-title="CS" tvg-id="cs03" tvg-logo="https://www.lyngsat.com/logo/tv/gg/golf-network-jp.png", Golf Network 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs03
+https://ri.shinori.my.id/pxx.php?shk_cid=cs03
 #EXTINF:-1 group-title="CS" tvg-id="cs02" tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/ntv-g-plus-jp.png", Nittele G+ 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs02
+https://ri.shinori.my.id/pxx.php?shk_cid=cs02
 #EXTINF:-1 group-title="CS" tvg-id="cs21" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mondo_tv_jp.png", Mondo TV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs21
+https://ri.shinori.my.id/pxx.php?shk_cid=cs21
 #EXTINF:-1 group-title="CS" tvg-id="cs29" tvg-logo="https://www.lyngsat.com/logo/tv/cc/channel_ginga.png", Channel Ginga 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs29
+https://ri.shinori.my.id/pxx.php?shk_cid=cs29
 #EXTINF:-1 group-title="CS" tvg-id="bs26" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_shower_tv.png", Space Shower TV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=bs26
+https://ri.shinori.my.id/pxx.php?shk_cid=bs26
 #EXTINF:-1 group-title="CS" tvg-id="cs06" tvg-logo="https://www.lyngsat.com/logo/tv/mm/music_japan_tv.png", Music Japan TV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs06
+https://ri.shinori.my.id/pxx.php?shk_cid=cs06
 #EXTINF:-1 group-title="CS" tvg-id="cs13" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kayo-pops-jp.png", Kayo Pops 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs13
+https://ri.shinori.my.id/pxx.php?shk_cid=cs13
 #EXTINF:-1 group-title="CS" tvg-id="cs18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/240px-MTV_2021_%28brand_version%29.svg.png", MTV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs18
+https://ri.shinori.my.id/pxx.php?shk_cid=cs18
 #EXTINF:-1 group-title="CS" tvg-id="cs19" tvg-logo="https://www.lyngsat.com/logo/tv/ll/lala_tv.png", LaLa TV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs19
+https://ri.shinori.my.id/pxx.php?shk_cid=cs19
 #EXTINF:-1 group-title="CS" tvg-id="cs28" tvg-logo="https://tvguide.myjcom.jp/monomedia/ch_logo/jcom/logo-65406-154-400x400.png", Takarazuka Sky Stage 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs28
+https://ri.shinori.my.id/pxx.php?shk_cid=cs28
 #EXTINF:-1 group-title="CS" tvg-id="cs07" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs07
+https://ri.shinori.my.id/pxx.php?shk_cid=cs07
 #EXTINF:-1 group-title="CS" tvg-id="cs25" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs25
+https://ri.shinori.my.id/pxx.php?shk_cid=cs25
 #EXTINF:-1 group-title="CS" tvg-id="cs10" tvg-logo="https://www.lyngsat.com/logo/tv/nn/national-geographic-us.svg", National Geographic Japan  
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs10
+https://ri.shinori.my.id/pxx.php?shk_cid=cs10
 #EXTINF:-1 group-title="CS" tvg-id="cs23" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs23
+https://ri.shinori.my.id/pxx.php?shk_cid=cs23
 #EXTINF:-1 group-title="CS" tvg-id="cs08" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel   
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs08
+https://ri.shinori.my.id/pxx.php?shk_cid=cs08
 #EXTINF:-1 group-title="CS" tvg-id="cs24" tvg-logo="https://www.lyngsat.com/logo/tv/aa/animal-planet-us.svg", Animal Planet 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs24
+https://ri.shinori.my.id/pxx.php?shk_cid=cs24
 #EXTINF:-1 group-title="CS" tvg-id="cs09" tvg-logo="https://www.lyngsat.com/logo/tv/hh/history-us.svg", History 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs09
+https://ri.shinori.my.id/pxx.php?shk_cid=cs09
 #EXTINF:-1 group-title="CS" tvg-id="cs16" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cnn-j-us.svg", CNNj  
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs16
+https://ri.shinori.my.id/pxx.php?shk_cid=cs16
 #EXTINF:-1 group-title="CS" tvg-id="cs15" tvg-logo="https://en.wikipedia.org/wiki/File:BBC_Japan_Box_Ident.svg", BBC News   
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs15
+https://ri.shinori.my.id/pxx.php?shk_cid=cs15
 #EXTINF:-1 group-title="CS" tvg-id="cs11" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tbs-news-jp.png", TBS News 
-https://naori-test.netgenx.site/pxx.php?shk_cid=cs11
+https://ri.shinori.my.id/pxx.php?shk_cid=cs11
