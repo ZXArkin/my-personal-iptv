@@ -17,10 +17,12 @@ Also have listen radio.
 
 Supports player: VLC, Kodi & Potplayer.
 
-Contact me for email: ltdat2001alt@gmail.com
-
 Follow me in X: https://x.com/zxarkin
 
 Discord user: ZXArkin
 
-credits for luongz and friends.
+credits for VThanh and friends.
+
+Use Telegram the this bot scan QR Code to get a key and grab link
+
+<img width="1185" height="1365" alt="image" src="https://github.com/user-attachments/assets/5031b4e1-a852-405f-9357-21becc4f0eb4" />
