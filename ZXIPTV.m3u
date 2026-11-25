@@ -7,36 +7,32 @@
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8
 --------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="VTV1.vn@HD",VTV1 HD (720p)
+#EXTINF:-1 tvg-id="vtv1hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/1.png?w=800&fit=scale-down&q=85", VTV1
 https://dethich.pw/vtv1/index.m3u8
-#EXTINF:-1 tvg-id="VTV2.vn@HD",VTV2 HD (720p)
+#EXTINF:-1 tvg-id="vtv2hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/2.png?w=800&fit=scale-down&q=85", VTV2
 https://dethich.pw/vtv2/index.m3u8
-#EXTINF:-1 tvg-id="VTV3.vn@HD",VTV3 HD (720p)
+#EXTINF:-1 tvg-id="vtv3hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/3.png?w=800&fit=scale-down&q=85", VTV3
 https://dethich.pw/vtv3/index.m3u8
-#EXTINF:-1 tvg-id="VTV4.vn@HD",VTV4 HD (720p)
+#EXTINF:-1 tvg-id="vtv4hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/4.png?w=800&fit=scale-down&q=85" , VTV4
 https://dethich.pw/vtv4/index.m3u8
-#EXTINF:-1 tvg-id="VTV4.vn@HD",VTV4 HD (720p)
-https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/vtv4/master.m3u8
-#EXTINF:-1 tvg-id="VTV5.vn@HD",VTV5 HD (720p)
-https://dethich.pw/vtv5/index.m3u8
-#EXTINF:-1 tvg-id="VTV5TayNamBo.vn@HD",VTV5 Tay Nam Bo HD (1080p)
-https://dethich.pw/vtv5tnb/index.m3u8
-#EXTINF:-1 tvg-id="VTV5TayNguyen.vn@HD",VTV5 Tay Nguyen HD (1080p)
-http://dethich.pw/vtv5tn/index.m3u8
-#EXTINF:-1 tvg-id="VTV6.vn@HD",VTV6 (720p)
-https://dethich.pw/vtv6/index.m3u8
-#EXTINF:-1 tvg-id="VTV7.vn@HD",VTV7 HD (720p)
-https://dethich.pw/vtv7/index.m3u8
-#EXTINF:-1 tvg-id="VTV8.vn@HD",VTV8 HD (720p)
-https://dethich.pw/vtv8/index.m3u8
-#EXTINF:-1 tvg-id="VTV9.vn@HD",VTV9 HD (720p)
-https://dethich.pw/vtv9/index.m3u8
-#EXTINF:-1 tvg-id="VTV10.vn@HD",VTV10 (720p)
-https://dethich.pw/vtv10/index.m3u8
-#EXTINF:-1 tvg-id="VietnamToday.vn@HD",Vietnam Today (1080p)
-https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
-#EXTINF:-1 tvg-id="VietnamToday.vn@HD",Vietnam Today (1080p)
+#EXTINF:-1 tvg-id="vietnamtoday" group-title="VTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
 https://live.tvon.vn/s8/hls/vntoday/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/5.png?w=800&fit=scale-down&q=85" , VTV5
+https://dethich.pw/vtv5/index.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/6.png?w=800&fit=scale-down&q=85", VTV5 Tây Nam Bộ
+https://dethich.pw/vtv5tnb/index.m3u8bo
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/7.png?w=800&fit=scale-down&q=85", VTV5 Tây Nguyên
+https://dethich.pw/vtv5tn/index.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/8.png?w=800&fit=scale-down&q=85", VTV6
+https://vmttv.dpdns.org/tv360/?id=vtv6
+#EXTINF:-1 tvg-id="vtv7hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/9.png?w=800&fit=scale-down&q=85", VTV7
+https://vmttv.dpdns.org/tv360/?id=vtv7
+#EXTINF:-1 tvg-id="vtv8hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/10.png?w=800&fit=scale-down&q=85" catchup="default" catchup-days="2", VTV8
+https://dethich.pw/vtv8/index.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/11.png?w=800&fit=scale-down&q=85", VTV9
+https://dethich.pw/vtv9/index.m3u8
+#EXTINF:-1 tvg-id="vtv10hd" group-title="VTV" tvg-logo="https://epg-images.vthanhchannel.workers.dev/image/2026-09-17/12.png?w=800&fit=scale-down&q=85", VTV10
+https://dethich.pw/vtv10/index.m3u8
 --------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="ONBiBi.vn@SD",ON BiBi (1080p)
